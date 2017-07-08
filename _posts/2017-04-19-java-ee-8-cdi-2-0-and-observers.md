@@ -8,7 +8,6 @@ layout: post
 guid: http://javaee.ch/?p=1115
 permalink: /2017/04/19/java-ee-8-cdi-2-0-and-observers/
 categories:
-  - Angular
   - Java
   - Java EE
 tags:
