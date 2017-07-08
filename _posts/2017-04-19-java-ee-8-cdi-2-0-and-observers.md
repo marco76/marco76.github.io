@@ -97,11 +97,11 @@ To fire the event we need to inject the _WeatherEvent_ 2 times in our service or
 
 ``` java
 @Inject
-Event&lt;WeatherEvent&gt; weatherEvent;
+Event<WeatherEvent> weatherEvent;
 
 @Inject
 @WeatherType(value = "emergency")
-Event&lt;WeatherEvent&gt; emergencyEvent;
+Event<WeatherEvent> emergencyEvent;
 ```
 
 If we receive an emergency alert we fire the Event of type &#8217;emergency&#8217; (emergencyEvent), otherwise we fire a simple &#8216;weatherEvent&#8217;.

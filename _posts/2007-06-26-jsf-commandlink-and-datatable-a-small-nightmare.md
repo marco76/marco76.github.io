@@ -1,10 +1,9 @@
 ---
-id: 4
 title: 'JSF: commandLink and datatable a small nightmare'
 date: 2007-06-26T18:05:05+00:00
 author: Marco Molteni
 layout: post
-guid: http://molteni.wordpress.com/2007/06/26/jsf-commandlink-and-datatable-a-small-nightmare/
+http://molteni.wordpress.com/2007/06/26/jsf-commandlink-and-datatable-a-small-nightmare/
 permalink: /2007/06/26/jsf-commandlink-and-datatable-a-small-nightmare/
 categories:
   - Javaserver Faces
