@@ -4,6 +4,8 @@ description: Java, Angular, React
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javaee.ch"
 
+warning: "July 2017: Migration from Wordpress to Jekyll. Work in progress. Possible temporary issues."
+
 # User settings
 username: marco
 user_description: Marco freelance architect and developer

@@ -3,6 +3,13 @@ layout: default
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+    <div>
+        <div class="isa_warning" style="text-align: center">
+            <i class="fa fa-info-circle"></i>
+            {{site.warning}}
+        </div>
+    </div>
+    <br>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         <article  data-url="{{ post.url | prepend: site.baseurl }}" class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
