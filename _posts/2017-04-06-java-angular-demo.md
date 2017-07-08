@@ -1,26 +1,23 @@
 ---
-id: 1082
 title: Java EE and Angular 4 Demo
 date: 2017-04-06T13:38:58+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=1082
+main-class: 'javaee'
+color: '#B31917'
 permalink: /2017/04/06/java-angular-demo/
 image: /wp-content/uploads/2017/03/logo_ang-100x39.png
 categories:
   - Angular
-  - Angular 2
-  - Angular 4
   - AngularJS
   - docker
   - Java EE
   - REST
 tags:
-  - angular 4
-  - AngularJS 2
-  - java and angualar 4 demo
-  - java ee
-  - rest services
+  - Angular
+  - AngularJS
+  - Java EE
+  - Rest Services
 ---
 ### Java EE and Angular Demo
 

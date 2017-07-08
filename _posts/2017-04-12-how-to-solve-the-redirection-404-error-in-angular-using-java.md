@@ -4,20 +4,18 @@ title: How to solve the Angular redirection error (404) using Java
 date: 2017-04-12T18:23:29+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=1104
+main-class: 'javaee'
+color: '#B31917'
 permalink: /2017/04/12/how-to-solve-the-redirection-404-error-in-angular-using-java/
 image: /wp-content/uploads/2017/03/logo_ang-100x39.png
 categories:
   - Angular
-  - Angular 2
   - Java EE
   - Spring
 tags:
-  - "404"
-  - Angular 2
-  - javaee
-  - redirect
-  - spring
+  - Angular
+  - Java EE
+  - Spring
 ---
 **How to refresh an Angular 2 page using Java to avoid the 404 error**
 

@@ -5,7 +5,8 @@ description: 'What is new in CDI 2.0?'
 date: 2017-04-19T23:41:48+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=1115
+main-class: 'javaee'
+color: '#7AAB13'
 permalink: /2017/04/19/java-ee-8-cdi-2-0-and-observers/
 categories:
   - Java
@@ -16,8 +17,7 @@ tags:
   - angular
 
 image: '/assets/img/'
-main-class: 'Java EE'
-color: '#7AAB13'
+
 twitter_text: 'Java EE 8 - CDI 2.0: Events and Observers'
 introduction: 'Java EE 8 - CDI 2.0: Events and Observers'
 ---

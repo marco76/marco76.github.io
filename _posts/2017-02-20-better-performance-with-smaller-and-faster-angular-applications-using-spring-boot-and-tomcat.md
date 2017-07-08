@@ -1,15 +1,14 @@
 ---
-id: 922
 title: Better performance with smaller and faster Angular applications using Spring Boot and Tomcat
 date: 2017-02-20T22:45:17+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=922
 permalink: /2017/02/20/better-performance-with-smaller-and-faster-angular-applications-using-spring-boot-and-tomcat/
 image: /wp-content/uploads/2017/03/header-springboot-100x23.png
+main-class: 'spring'
+color: '#7AAB13'
 categories:
   - Angular
-  - Angular 2
   - AngularJS
   - java
   - performance
@@ -17,12 +16,8 @@ categories:
   - Spring Boot
 tags:
   - Angular
-  - angular performance
-  - angularjs
-  - angularjs performance
-  - java
-  - performance
-  - spring boot
+  - Java
+  - Spring
 ---
 <div id="cs-content" class="cs-content">
   <div id="x-section-1"  class="x-section"  style="margin: 0px;padding: 45px 0px; background-color: transparent;"   >
