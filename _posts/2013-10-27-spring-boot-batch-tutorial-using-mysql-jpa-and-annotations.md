@@ -1,10 +1,8 @@
 ---
-id: 425
-title: 'Spring Boot &#8211; Batch tutorial using MySQL, JPA and annotations'
+title: 'Spring Boot : Batch tutorial using MySQL, JPA and annotations'
 date: 2013-10-27T17:32:51+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=425
 permalink: /2013/10/27/spring-boot-batch-tutorial-using-mysql-jpa-and-annotations/
 dsq_thread_id:
   - "5565997809"
@@ -55,15 +53,15 @@ For the example we load a fixed line flat file in a MySql database.
   
 Here the content of the file:
   
-[<img src="https://i0.wp.com/javaee.ch/wp-content/uploads/2013/10/spring_boot_personData.png?resize=300%2C19" alt="spring_boot_personData" class="alignnone size-medium wp-image-433" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2013/10/spring_boot_personData.png)
+<img src="{{site.url}}/assets/img/uploads/2013/10/spring_boot_personData.png?resize=300%2C19" alt="spring_boot_personData" class="alignnone size-medium wp-image-433" data-recalc-dims="1" />
   
 Here the result in the DB:
   
-[<img src="https://i0.wp.com/javaee.ch/wp-content/uploads/2013/10/spring_boot_mysqlresult.png?resize=300%2C59" alt="spring_boot_mysqlresult" class="alignnone size-medium wp-image-434" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2013/10/spring_boot_mysqlresult.png)
+<img src="{{site.url}}/assets/img/uploads/2013/10/spring_boot_mysqlresult.png?resize=300%2C59" alt="spring_boot_mysqlresult" class="alignnone size-medium wp-image-434" data-recalc-dims="1" />
   
 Directory structure:
   
-[<img src="https://i1.wp.com/javaee.ch/wp-content/uploads/2013/10/spring_boot_classes.png?resize=285%2C300" alt="spring_boot_classes" class="alignnone size-medium wp-image-435" data-recalc-dims="1" />](https://i1.wp.com/javaee.ch/wp-content/uploads/2013/10/spring_boot_classes.png)
+<img src="{{site.url}}/assets/img/uploads/2013/10/spring_boot_classes.png?resize=285%2C300" alt="spring_boot_classes" class="alignnone size-medium wp-image-435" data-recalc-dims="1" />
 
 ### pom.xml
 
