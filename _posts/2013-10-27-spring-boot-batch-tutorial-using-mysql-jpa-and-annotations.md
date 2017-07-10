@@ -13,7 +13,6 @@ categories:
   - Spring
   - Spring Batch
   - Spring Boot
-  - Uncategorized
 tags:
   - java
   - JPA
@@ -52,16 +51,14 @@ The main difficulties I encountered:
 For the example we load a fixed line flat file in a MySql database.
   
 Here the content of the file:
-  
-<img src="/assets/img/uploads/2013/10/spring_boot_personData.png?resize=300%2C19" alt="spring_boot_personData" class="alignnone size-medium wp-image-433" data-recalc-dims="1" />
-  
+!({{site.url}}/assets/img/uploads/2013/10/spring_boot_personData.png)
+
 Here the result in the DB:
-  
-<img src="/assets/img/uploads/2013/10/spring_boot_mysqlresult.png?resize=300%2C59" alt="spring_boot_mysqlresult" class="alignnone size-medium wp-image-434" data-recalc-dims="1" />
-  
+!({{site.url}}/assets/img/uploads/2013/10/spring_boot_mysqlresult.png)
+
 Directory structure:
-  
-<img src="/assets/img/uploads/2013/10/spring_boot_classes.png?resize=285%2C300" alt="spring_boot_classes" class="alignnone size-medium wp-image-435" data-recalc-dims="1" />
+
+!({{site.url}}/assets/img/uploads/2013/10/spring_boot_classes.png)
 
 ### pom.xml
 
@@ -172,7 +169,9 @@ The annotation
 
 is specific to Spring Boot, you can read more about this annotation here:[Spring Boot auto configure](http://github.com/spring-projects/spring-boot/tree/97cb7f096798ecd016de71f892fa55585d45f5eb/spring-boot-autoconfigure#spring-boot---autoconfigure)
 
-<pre class="brush: java; title: ; notranslate" title="">@Configuration
+''' java
+
+@Configuration
 @EnableBatchProcessing
 @ComponentScan
 //spring boot configuration
@@ -208,8 +207,8 @@ public class BatchConfiguration {
             setLineTokenizer(new PersonFixedLineTokenizer());
             // as field mapper we use the name of the fields in the Person class
             setFieldSetMapper(new BeanWrapperFieldSetMapper() {{
-                // we create an object Person
-                setTargetType(Person.class);
+              
+                setTargetType(Person.class); // we create an object Person
             }});
         }});
         return reader;
@@ -296,5 +295,4 @@ return lef;
         [...]
 		return jpaVendorAdapter;
     }
-
-</pre>
+'''
