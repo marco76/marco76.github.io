@@ -1,10 +1,8 @@
 ---
-id: 1065
 title: Easy and effective solutions to improve performances issues in AngularJS 1.x
 date: 2017-03-19T19:57:07+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=1065
 permalink: /2017/03/19/easy-and-effective-solutions-to-improve-performances-issues-in-angularjs-1x/
 image: /wp-content/uploads/2017/03/angularjs-logo-100x27.png
 categories:
@@ -22,7 +20,7 @@ Here a list of the easiest remedies with a positive impact on the performances o
 
 Verify that the application is compressed before the delivery to the client.
 
-The compression can be done by WebPack during the building phase or Tomcat/Ngix after the deploy as described here: [http://javaee.ch/2017/03/08/monitor-your-spr…ns-with-actuator/](http://javaee.ch/2017/03/08/monitor-your-spring-boot-applications-with-actuator/ "http://javaee.ch/2017/03/08/monitor-your-spr…ns-with-actuator/")
+The compression can be done by WebPack during the building phase or Tomcat/Ngix after the deploy as described here: [Better performances with Spring and Tomcat](http://javaee.ch/2017/02/20/better-performance-with-smaller-and-faster-angular-applications-using-spring-boot-and-tomcat/)
 
 ### Digest related issues
 
