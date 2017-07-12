@@ -1,670 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/favicon-64x64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2007/06/table_row-150x57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2007/06/table_row-300x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2009/12/macosx-242x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2009/12/macosx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2009/12/parallels_results-478x288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2009/12/vmware_fps-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2009/12/vmware_fps.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2009/12/vmware_results1-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/glassfish.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/start1-500x230.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/start1-768x354.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/start11-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/start11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/start12-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/start12-768x354.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/start12-865x288.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/start2-500x262.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/start2-865x288.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled-12-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled-13-150x140.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled-150x147.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled10-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled13-271x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled13-452x288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled22-477x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled22-500x288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled25-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled25-300x241.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled27-300x208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled27-432x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled29-150x53.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled3-480x288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled4-300x92.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled6-300x102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled7-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled8-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled8-300x193.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/09/untitled8-467x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/class-288x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/exe-500x38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/mapping-300x39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/mapping-300x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/qc_error-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/qc_error-500x216.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/qc_ota_dll-500x96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/qc_ota_dll1-150x111.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/qc_result-288x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/qc_result-343x288.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2012/10/sql.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipse3-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipseartifacts-300x78.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipseartifacts-300x79.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipseecl1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipseecl2-150x148.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipseecl_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipsehtmlx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipseindex-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipseindex-300x153.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipsemaven-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/eclipsemaven.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/screen-shot-2013-03-29-at-19-22-10-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/screen-shot-2013-03-29-at-19-22-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/screen-shot-2013-03-29-at-19-35-57-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/screen-shot-2013-03-29-at-20-08-09-150x84.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/screen-shot-2013-03-29-at-20-20-431-150x149.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/screen-shot-2013-03-29-at-20-20-431.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/tomeemysql.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/03/tomeetomee-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/04/marco_edited-225x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/04/spring_integration_2-300x224.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/batchEquitiesbatch1-150x103.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/batchEquitiesbatch1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/batchEquitiesbatch2-150x37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/geniwebframework2-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/geniwebframework2-300x141.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/logged.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/mail-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/main_page-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/main_page-300x91.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/main_page-624x190.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/main_page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/signup-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/signup-624x301.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/08/validation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/10/spring_boot_classes-285x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/10/spring_boot_classes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/10/spring_boot_mysqlresult-150x84.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/10/spring_boot_mysqlresult.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2013/11/mini_mvc_classes-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2015/11/github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2015/11/googleplus_36x36-24x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/2-e1486679774449.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/2016-02-05_16-45-51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/2016-02-05_17-01-34-36x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/2016-02-05_17-05-36-24x3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/2016-02-05_17-05-36-36x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/2016-02-05_17-05-36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/Ohne-Titel-24x7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/davis-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/davis-24x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/02/davis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/2016-03-14_16-06-01_mongo-1-300x154.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/2016-03-14_16-06-01_mongo-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/2016-03-15_12-39-18_oauth2-48x26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/2016-03-17_10-46-32-36x15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/2016-03-17_11-32-48-43x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/2016-03-17_11-32-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/screencapture-www-mycv-host-1457966794473-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/screencapture-www-mycv-host-1457966794473-32x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/stack-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/03/stack-32x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/1461248796_thumb-24x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-17_16-06-05_chrome-24x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-17_16-07-34_chrome-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-17_16-07-34_chrome-24x9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-17_16-07-34_chrome-48x19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-17_16-07-58_log-48x12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-17_16-25-22_clients-24x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-17_16-25-22_clients-48x44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-57-15-1-1024x161.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-57-15-1-24x4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-57-15-1-300x47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-57-15-1-36x6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-57-15-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-58-59-24x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-58-59-300x62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-58-59-474x155.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-58-59_2-36x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_11-59-27-474x208.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-00-23_2-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-00-23_2-36x9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-00-23_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-01-12-150x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-01-33-24x8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-01-33-48x17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-02-29-24x2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-02-29-300x26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-02-29-48x4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_12-02-29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_13-53-18-22x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_13-53-18-33x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/2016-04-20_13-53-18-44x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/freelancerProfile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_1_2016-04-17_11-15-19-36x19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_1_2016-04-17_11-15-19-e1460905354536-300x118.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_2_2016-04-17_11-15-29-36x19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_2_2016-04-17_11-15-29-48x25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_2_2016-04-17_11-15-29-e1460905439922-150x131.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_2_2016-04-17_11-15-29-e1460905439922-24x9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_2_2016-04-17_11-15-29-e1460905439922.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_3_2016-04-17_11-15-43-36x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_3_2016-04-17_11-15-43-e1460905505391-24x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_3_2016-04-17_11-15-43-e1460905505391-300x128.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_3_2016-04-17_11-15-43-e1460905505391.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_3_2016-04-17_11-15-43.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_4_2016-04-17_14-09-19-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/04/sse_4_2016-04-17_14-09-19-300x186.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Angular-directory-structure_thumb-10x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Angular-directory-structure_thumb-21x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Angular-directory-structure_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Ecma_compatibility_table-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Ecma_compatibility_table-24x12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Ecma_compatibility_table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Ecma_java-474x295.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Ecma_java.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Ecma_java_thumb-474x332.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/Ecma_java_thumb-48x29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/angular_2_servers-22x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/angular_2_servers_thumb-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/angular_2_servers_thumb-22x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/davis_1-300x70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/davis_1-474x274.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/davis_1-48x11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/davis_2-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/davis_2-24x11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/davis_2-48x23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/davis_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/marco_molteni_180-48x43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/mycv-48x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/mycv_thumb-24x21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/09/mycv_thumb-48x42.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_problem-24x7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_problem-300x87.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_problem-474x231.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_problem-768x222.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_problem_1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_problem_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_problem_1_full-48x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_problem_1_full-768x220.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_problem_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server-24x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_1-48x29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_2-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_2-474x475.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_2-48x29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_2-768x456.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_3-24x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_3-36x21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_3-474x356.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_full-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_full-24x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response-24x8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response-36x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_1-48x17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_1_full-1200x419.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_1_full-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_1_full-48x17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_full-1200x420.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_full-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_full-474x578.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_full-48x17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_response_full-768x269.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure-48x31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure_1-24x15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure_1-48x31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure_1_full-300x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure_1_full-474x312.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure_full-300x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2016/10/node_mini_server_structure_full-474x312.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/Test-1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/Test-1-24x18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/Test-1-36x27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/Test-1-48x37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/Test-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/Test-24x18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/Test.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/blog_vps-300x266.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/blog_vps-474x531.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-1-1-24x20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-1-1-300x255.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-1-1-48x41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-1-36x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-1_full-24x20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-1_full-300x255.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-1_full-474x547.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-1_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-300x275.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2-36x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2_full-1-24x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2_full-1-48x44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2_full-24x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/01/oauth2_full-36x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/Ohne-Titel-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/Ohne-Titel-474x484.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/Ohne-Titel-48x28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/angula_image_8-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/blog_highlight_2_small-1-278x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/blog_highlight_2_small-1-474x606.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/blog_highlight_2_small-33x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/blog_highlight_small-24x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/chrome-1-24x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/chrome-1-48x21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/chrome-1-e1486333521414-300x130.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/chrome-1-e1486333521414-768x332.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/chrome-1-e1486333521414.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/code-24x8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/code-48x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/code-768x262.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/compress-24x11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/compress_2_6-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/compress_2_6-474x288.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/compress_mozilla-100x45.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/compress_mozilla-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/compress_mozilla-300x134.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/firefox_or-100x44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/firefox_or-300x132.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/firefox_or-48x21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/firefox_or.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-1-1024x567.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-1-300x166.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-1-36x20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-1-48x27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-1-e1486332505220-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-1-e1486332505220-300x166.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-2-24x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-2-48x27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-24x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-474x277.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/home-48x27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/spring_boot-24x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/02/spring_boot-36x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/10-300x39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/11-100x52.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/12-100x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/12-300x99.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/13-150x43.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/13-300x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/17-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/18-300x122.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/19-100x54.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/2-100x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/2-150x87.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/4-846x152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/4-846x185.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/6-100x60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/6-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/7-300x148.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/8-100x81.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/8-300x242.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/9-150x103.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/angularjs-logo-150x110.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/angularjs-logo-300x82.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/beanstalk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/excel-100x37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/excel-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/excel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/header-springboot-100x23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/header-springboot-1184x278.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/logo-d3-300x37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/logo-d3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/logo_ang-300x117.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/monitoring_1-189x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/monitoring_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/payara_easy-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/payara_easy-300x120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uploads/2017/03/payara_easy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/parallels_fps-300x100.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/parallels_fps.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/parallels_results-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/parallels_results-382x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/vmware_fps-300x86.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/vmware_results-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/vmware_results-300x231.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/vmware_results1-300x230.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/vmware_results1-300x231.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/vmware_results1-480x288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2009/12/vmware_results1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/111.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/glassfish.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/start1-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/start1-300x139.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/start11-865x288.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/start2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled-3-150x99.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled-300x88.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled13-271x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled13-452x288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled2-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled22-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled25-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled25-300x242.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled25-372x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled27-300x208.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled27-500x288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled28-150x44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled29-300x48.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled29-300x49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled3-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled3-300x224.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled3-402x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled3-480x288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled5-150x116.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled7-300x188.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled7-477x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled7-500x288.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled8-300x192.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/09/untitled8-467x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/10/class-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/10/exe-300x23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/10/mapping-300x39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/10/qc_error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/10/qc_java-152x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/10/qc_ota_dll-300x57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/10/qc_ota_dll1-300x57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/10/qc_result-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2012/10/sql-150x27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipse3-300x130.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipse3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipse31-300x140.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipseartifacts-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipseartifacts-300x78.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipsecontroller-150x105.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipsecontroller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipseecl2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipsemaven-300x124.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipseresult-300x87.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipsetomee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/eclipsewebxml.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/screen-shot-2013-03-29-at-20-08-09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/screen-shot-2013-03-29-at-20-20-431.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/tomeemysql-300x104.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/tomeetomee-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/03/tomeetomee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/batchEquitiesbatch2-150x37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/batchEquitiesbatch2-300x18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/geniwebframework1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/geniwebframework2-562x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/logged-300x95.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/mail-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/mail-300x109.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/main_page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/signup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/validation-150x131.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/08/validation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/10/spring_boot_mysqlresult-300x59.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/10/spring_boot_mysqlresult-300x60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2013/11/mini_mvc_classes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2015/11/IMG_2135-300x269.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2015/11/IMG_2135-624x560.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2015/11/IMG_2135-768x689.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2015/11/googleplus_36x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2015/11/linked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/01/json_multiple-24x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/01/json_multiple-36x15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/1-e1486679732769-768x383.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2016-02-05_16-45-51-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2016-02-05_16-45-51-33x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2016-02-05_16-45-51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2016-02-05_17-01-34-300x39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2016-02-05_17-29-33-24x9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2016-02-05_17-29-33-48x18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2016-02-05_17-29-33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2016-02-05_17-48-28-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2016-02-05_17-48-28-24x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2017-03-08_23-51-04-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/2017-03-08_23-51-04-300x129.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/Ohne-Titel-36x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/davis-300x162.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/02/davis-48x26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/2016-03-14_16-06-01_mongo-1-48x25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/2016-03-14_16-18-19_print-150x139.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/2016-03-15_12-39-18_oauth2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/2016-03-17_10-46-32-24x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/2016-03-17_10-46-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/2016-03-17_11-32-48-22x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/screencapture-www-mycv-host-1457966794473-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/screencapture-www-mycv-host-1457966794473-32x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/screencapture-www-mycv-host-1457966794473.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/03/stack-21x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-06-05_chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-07-34_chrome-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-07-34_chrome-24x9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-07-34_chrome-36x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-07-34_chrome-48x19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-07-58_log-474x159.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-07-58_log-48x12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-07-58_log.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-25-22_clients-300x273.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-17_16-25-22_clients-36x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-57-15-1-300x47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-57-15-474x182.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-57-15-768x158.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-58-59-300x62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-58-59.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-58-59_2-24x3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-58-59_2-300x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-58-59_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-59-27-36x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_11-59-27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_12-00-23_2-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_12-01-33-300x106.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_12-01-33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_12-02-29-150x79.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_12-02-29-300x26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_12-02-29-474x79.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_12-02-29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_13-53-18-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/2016-04-20_13-53-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/freelancerProfile-24x4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_1_2016-04-17_11-15-19-48x25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_1_2016-04-17_11-15-19-e1460905354536-24x9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_1_2016-04-17_11-15-19-e1460905354536-36x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_2_2016-04-17_11-15-29-300x155.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_2_2016-04-17_11-15-29-e1460905439922-300x115.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_2_2016-04-17_11-15-29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_3_2016-04-17_11-15-43-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_3_2016-04-17_11-15-43-36x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_3_2016-04-17_11-15-43-e1460905505391-48x20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_4_2016-04-17_14-09-19-36x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/04/sse_4_2016-04-17_14-09-19-e1460905566225-24x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Angular-directory-structure-10x24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Angular-directory-structure-21x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Angular-directory-structure_thumb-130x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Angular-directory-structure_thumb-16x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Angular-directory-structure_thumb-21x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_compatibility_table-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_compatibility_table-36x18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_compatibility_table_thumb-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_compatibility_table_thumb-36x18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_java-24x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_java-300x177.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_java-36x21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_java-48x28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_java.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/Ecma_java_thumb-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/angular_2_servers-270x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/angular_2_servers-32x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/angular_2_servers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/angular_2_servers_thumb-270x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/angular_2_servers_thumb-43x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/davis_1-1024x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/davis_1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/davis_1-24x6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/davis_1-300x70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/davis_1-768x180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/davis_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/marco_molteni_180-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/marco_molteni_180-36x32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/marco_molteni_180.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/mycv-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/mycv-300x208.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/mycv-36x25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/mycv_thumb-36x31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/mycv_thumb-474x480.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/09/wlEmoticon-smile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/1475832328_featured-24x24.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/1475832328_featured.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem-36x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem-474x231.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem-768x222.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem_1-48x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem_1_full-36x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem_1_full-474x343.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem_full-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem_full-300x86.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem_full-36x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem_full-474x344.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_problem_full-768x221.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server-36x21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server-48x29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_1-300x178.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_1-768x457.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_2-768x456.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_3-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_3-36x21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_full-1024x609.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_full-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response-36x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response-474x280.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response-768x269.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response_1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response_1-36x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response_1-474x210.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response_1_full-24x8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response_1_full-300x105.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response_1_full-36x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response_full-300x105.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_response_full-48x17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_structure-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_structure_1-48x31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_structure_1_full-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_structure_1_full-36x23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_structure_full-300x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2016/10/node_mini_server_structure_full-48x31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/blog_vps-36x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2-1-1-300x255.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2-1-1-36x31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2-1-24x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2-1-474x591.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2-24x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2-48x44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2_full-1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2_full-1-24x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2_full-24x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2_full-48x44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/01/oauth2_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/Docker_container_engine_logo-300x82.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/Docker_container_engine_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/Ohne-Titel-36x21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/angula_image_8-24x19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/blog_highlight_2_small-1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/blog_highlight_2_small-1-e1487011315602.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/blog_highlight_2_small-768x828.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/blog_highlight_small-300x206.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/blog_highlight_small-474x606.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/blog_highlight_small-48x33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/blog_highlight_small-e1487011265898-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/chrome-1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/chrome-1-300x130.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/chrome-1-36x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/chrome-1-e1486333521414-300x130.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/chrome-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/code-24x8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/code-474x492.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/compress-100x45.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/compress-474x285.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/compress_2_6-300x119.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/compress_mozilla-24x11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/compress_mozilla-300x134.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/compress_mozilla-48x22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/firefox_or-24x11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/firefox_or-36x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/firefox_or-474x356.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-1-1024x567.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-1-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-1-300x166.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-1-e1486332505220-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-2-1024x567.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-2-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-2-300x166.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-24x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/02/home-48x27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/12-300x99.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/13-300x14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/14-100x63.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/18-100x41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/19-100x54.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/3-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/4-100x18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/4-768x138.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/9-150x103.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/beanstalk-100x30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/excel-300x110.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/excel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/header-springboot-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/header-springboot-768x180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/logo-bootstrap-100x37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/logo-bootstrap-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/logo-bootstrap-768x284.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/logo-highlightjs-100x38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/logo-highlightjs-150x147.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/logo-highlightjs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/logo_ang.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/monitoring_2-100x130.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/payara_easy-300x120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/webpack-logo-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/03/webpack-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wp-content/uploads/2017/04/weather.png" />
+    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="images">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-08-04-spring-batch-tutorial-how-to-import-all-the-stock-symbols-from-flat-files.md" afterPath="$PROJECT_DIR$/_posts/2013-08-04-spring-batch-tutorial-how-to-import-all-the-stock-symbols-from-flat-files.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md" afterPath="$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -676,12 +16,114 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="126">
-                <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+              <first_editor relative-caret-position="131">
+                <caret line="53" column="39" lean-forward="false" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="39" />
+                <folding>
+                  <marker date="1499887620000" expanded="true" signature="2284:2439" ph="..." />
+                  <marker date="1499887620000" expanded="true" signature="2291:2437" ph="..." />
+                  <marker date="1499887620000" expanded="true" signature="4225:4271" ph="drop table B... " />
+                  <marker date="1499887620000" expanded="true" signature="4273:4318" ph="drop table B... " />
+                  <marker date="1499887620000" expanded="true" signature="4320:4362" ph="drop table B... " />
+                  <marker date="1499887620000" expanded="true" signature="4364:4396" ph="drop table B... " />
+                  <marker date="1499887620000" expanded="true" signature="4398:4445" ph="drop table B... " />
+                  <marker date="1499887620000" expanded="true" signature="4447:4490" ph="drop table B... " />
+                  <marker date="1499887620000" expanded="true" signature="4492:4531" ph="drop table B... " />
+                  <marker date="1499887620000" expanded="true" signature="4533:4571" ph="drop table B... " />
+                  <marker date="1499887620000" expanded="true" signature="4573:4610" ph="drop table B... " />
+                  <marker date="1499887620000" expanded="true" signature="5735:5931" ph="..." />
+                  <marker date="1499887620000" expanded="true" signature="5812:5929" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="5856:5867" ph=" { " />
+                  <marker date="1499887620000" expanded="true" signature="5921:5927" ph=" }" />
+                  <marker date="1499887620000" expanded="true" signature="6359:6553" ph="@{...}" />
+                  <marker date="1499887620000" expanded="true" signature="6593:6630" ph="/**...*/" />
+                  <marker date="1499887620000" expanded="true" signature="6910:6984" ph="/**...*/" />
+                  <marker date="1499887620000" expanded="true" signature="7026:7848" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="7437:7817" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="7438:7816" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="7697:7804" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="7698:7803" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="7854:8046" ph="/**...*/" />
+                  <marker date="1499887620000" expanded="true" signature="8109:8120" ph=" { " />
+                  <marker date="1499887620000" expanded="true" signature="8153:8159" ph=" }" />
+                  <marker date="1499887620000" expanded="true" signature="8165:8227" ph="/**...*/" />
+                  <marker date="1499887620000" expanded="true" signature="8269:8428" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="8434:8511" ph="/**...*/" />
+                  <marker date="1499887620000" expanded="true" signature="8583:8823" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="8829:8931" ph="/**...*/" />
+                  <marker date="1499887620000" expanded="true" signature="9105:9332" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="9187:9332" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="9338:9421" ph="/**...*/" />
+                  <marker date="1499887620000" expanded="true" signature="9468:9773" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="9858:9984" ph="{...}" />
+                  <marker date="1499887620000" expanded="true" signature="10036:10160" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-08-04-spring-batch-tutorial-how-to-import-all-the-stock-symbols-from-flat-files.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2013-08-04-spring-batch-tutorial-how-to-import-all-the-stock-symbols-from-flat-files.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="338">
+                <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+                <folding>
+                  <marker date="1499888382000" expanded="true" signature="1538:1660" ph="..." />
+                  <marker date="1499888382000" expanded="true" signature="1827:2509" ph="..." />
+                  <marker date="1499888382000" expanded="true" signature="2172:2497" ph="..." />
+                  <marker date="1499888382000" expanded="true" signature="2263:2478" ph="..." />
+                  <marker date="1499888382000" expanded="true" signature="3261:3454" ph="..." />
+                  <marker date="1499888382000" expanded="true" signature="3763:4253" ph="{...}" />
+                  <marker date="1499888382000" expanded="true" signature="5529:5649" ph="..." />
+                  <marker date="1499888382000" expanded="true" signature="5557:5641" ph="..." />
+                  <marker date="1499888382000" expanded="true" signature="5572:5625" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_hightlight.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/styl/_hightlight.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="86" column="27" lean-forward="false" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-06-configure-bootstrap-with-angular-2-webpack-and-spring-tutorial.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-06-configure-bootstrap-with-angular-2-webpack-and-spring-tutorial.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="101">
+                <caret line="67" column="2" lean-forward="false" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+                <folding>
+                  <marker date="1499879922000" expanded="true" signature="2672:2745" ph="{&quot;selector&quot;: 'bootstrap-menu'...}" />
+                  <marker date="1499879922000" expanded="true" signature="2774:2793" ph="{...}" />
+                  <marker date="1499879922000" expanded="true" signature="2789:2792" ph="{...}" />
+                  <marker date="1499879922000" expanded="true" signature="3075:3257" ph="{&quot;selector&quot;: 'my-app'...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-03-19-easy-and-effective-solutions-to-improve-performances-issues-in-angularjs-1x.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-19-easy-and-effective-solutions-to-improve-performances-issues-in-angularjs-1x.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-359">
+                <caret line="22" column="159" lean-forward="false" selection-start-line="22" selection-start-column="159" selection-end-line="22" selection-end-column="159" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -689,64 +131,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="85" column="10" lean-forward="false" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="10" />
-              <folding>
-                <marker date="1499715184000" expanded="true" signature="572:583" ph="..." />
-              </folding>
+      <file leaf-file-name="2017-03-12-angular-cli-java-ee-and-rest-tutorial-and-quick-starter-code-for-hello-world.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-12-angular-cli-java-ee-and-rest-tutorial-and-quick-starter-code-for-hello-world.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table_row.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/img/uploads/2007/06/table_row.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="macosx.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/img/uploads/2012/10/class.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog_vps.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/img/uploads/2017/01/blog_vps.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="109" column="51" lean-forward="false" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
-              <folding>
-                <marker date="1499715184000" expanded="true" signature="572:583" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="author.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/author.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-              <folding />
+      <file leaf-file-name="2017-03-08-monitor-your-spring-boot-applications-with-actuator.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-08-monitor-your-spring-boot-applications-with-actuator.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="331">
+                <caret line="44" column="88" lean-forward="false" selection-start-line="44" selection-start-column="88" selection-end-line="44" selection-end-column="88" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -755,16 +161,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>git</find>
-      <find>gith</find>
-      <find>githun</find>
-      <find>githu</find>
-      <find>github</find>
-      <find>linke</find>
-      <find>linked</find>
-      <find>linkedi</find>
-      <find>linkedin</find>
-      <find>b</find>
       <find>blog</find>
       <find>blog-</find>
       <find>blog-a</find>
@@ -785,7 +181,20 @@
       <find>tokeni</find>
       <find>imagemi</find>
       <find>PersonFixedLineTokenizer</find>
+      <find>w</find>
+      <find>weather.png</find>
+      <find>auth</find>
+      <find>author.</find>
+      <find>1-100x56</find>
+      <find>IMG</find>
+      <find>IM</find>
+      <find>HOME</find>
+      <find>propertie</find>
+      <find>img</find>
     </findStrings>
+    <replaceStrings>
+      <replace>&gt;</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/assets/css</dir>
@@ -819,17 +228,14 @@
         <option value="$PROJECT_DIR$/category/spring.html" />
         <option value="$PROJECT_DIR$/category/angular.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/comments.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_posts/test.md" />
         <option value="$PROJECT_DIR$/_posts/2017-07-08-java-ee-8-cdi-2-0-and-observers.md" />
         <option value="$PROJECT_DIR$/src/styl/_theme-colors.styl" />
-        <option value="$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-20-better-performance-with-smaller-and-faster-angular-applications-using-spring-boot-and-tomcat.md" />
-        <option value="$PROJECT_DIR$/src/styl/_hightlight.styl" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/_includes/menu-search.html" />
         <option value="$PROJECT_DIR$/src/styl/_menu.styl" />
@@ -840,7 +246,16 @@
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_posts/2017-03-19-easy-and-effective-solutions-to-improve-performances-issues-in-angularjs-1x.md" />
         <option value="$PROJECT_DIR$/src/pages/angular-gui-libraries.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-09-spring-boot-user-authorization-with-properties.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-11-spring-boot-react-hello-world-tutorial.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-02-spring-boot-how-to-configure-and-tests-a-memory-database-h2-tutorial.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-06-configure-bootstrap-with-angular-2-webpack-and-spring-tutorial.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-08-monitor-your-spring-boot-applications-with-actuator.md" />
+        <option value="$PROJECT_DIR$/src/styl/_hightlight.styl" />
         <option value="$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md" />
+        <option value="$PROJECT_DIR$/_posts/2013-08-04-spring-batch-tutorial-how-to-import-all-the-stock-symbols-from-flat-files.md" />
       </list>
     </option>
   </component>
@@ -922,7 +337,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -947,306 +361,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2012" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cards-jekyll-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
+              <option name="myItemId" value="_site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1256,13 +377,14 @@
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/src/img" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1295,6 +417,28 @@
       <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
       <tasks>
         <task>imagemin</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="jekyll-rebuild" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>jekyll-rebuild</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="jekyll-build" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>jekyll-build</task>
       </tasks>
       <arguments />
       <envs />
@@ -1532,14 +676,18 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Gulp.js.default" />
       <item index="1" class="java.lang.String" itemvalue="Gulp.js.imagemin" />
+      <item index="2" class="java.lang.String" itemvalue="Gulp.js.jekyll-rebuild" />
+      <item index="3" class="java.lang.String" itemvalue="Gulp.js.jekyll-build" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Gulp.js.imagemin" />
-        <item index="1" class="java.lang.String" itemvalue="Gulp.js.default" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Gulp.js.default" />
+        <item index="1" class="java.lang.String" itemvalue="Gulp.js.jekyll-rebuild" />
+        <item index="2" class="java.lang.String" itemvalue="Gulp.js.jekyll-build" />
+        <item index="3" class="java.lang.String" itemvalue="Gulp.js.imagemin" />
       </list>
     </recent_temporary>
   </component>
@@ -1556,7 +704,9 @@
       <workItem from="1499532721105" duration="1631000" />
       <workItem from="1499535261111" duration="7415000" />
       <workItem from="1499713425895" duration="6246000" />
-      <workItem from="1499720064414" duration="3696000" />
+      <workItem from="1499720064414" duration="3792000" />
+      <workItem from="1499807959621" duration="2928000" />
+      <workItem from="1499878274166" duration="5030000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1499534222252</created>
@@ -1656,11 +806,32 @@
       <option name="project" value="LOCAL" />
       <updated>1499723835238</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="images">
+      <created>1499723934755</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1499723934755</updated>
+    </task>
+    <task id="LOCAL-00016" summary="images">
+      <created>1499810835446</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1499810835446</updated>
+    </task>
+    <task id="LOCAL-00017" summary="images">
+      <created>1499882358792</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1499882358792</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18988000" />
+    <option name="totallyTimeSpent" value="27042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1384" height="800" extended-state="0" />
@@ -1671,10 +842,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15350224" sideWeight="0.5263158" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23025335" sideWeight="0.47447446" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15350224" sideWeight="0.47368422" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26080477" sideWeight="0.5255255" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1708,71 +879,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/category/java.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/blog-author.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/blog-image.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/icons/widetile.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/icons/smalltile.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/icons/mediumtile.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/icons/largetile.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/icons/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/font-awesome.min.css" />
-    <entry file="file://$PROJECT_DIR$/src/font-awesome/css/font-awesome.css" />
-    <entry file="file://$PROJECT_DIR$/assets/img/icons/apple-touch-icon-60x60.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/icons/apple-touch-icon-57x57.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/icons/apple-touch-icon-152x152.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/external.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
@@ -1807,7 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1822,7 +930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1854,18 +961,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styl/_hightlight.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/menu-search.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1873,7 +972,177 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="63" column="104" lean-forward="false" selection-start-line="63" selection-start-column="104" selection-end-line="63" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/quotes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/angular-gui-libraries.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/social.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/share.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/author.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" column="51" lean-forward="false" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="10" lean-forward="false" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2007/06/table_row.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2007/06/table_row-150x57.png" />
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx-150x150.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx-242x300.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx-243x300.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx-315x288.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/parallels_fps-150x133.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2012/10/class.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/uploads/2017/01/blog_vps.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gulp/bin/gulp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2910">
+          <caret line="194" column="14" lean-forward="false" selection-start-line="194" selection-start-column="14" selection-end-line="194" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/orchestrator/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4110">
+          <caret line="274" column="31" lean-forward="false" selection-start-line="274" selection-start-column="31" selection-end-line="274" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/orchestrator/lib/runTask.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/external.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-11-spring-boot-react-hello-world-tutorial.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="348">
+            <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-09-spring-boot-user-authorization-with-properties.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="131">
+            <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="40" column="195" lean-forward="false" selection-start-line="40" selection-start-column="195" selection-end-line="40" selection-end-column="195" />
+            <folding>
+              <marker date="1499879971000" expanded="true" signature="2586:2692" ph="{...}" />
+              <marker date="1499879971000" expanded="true" signature="2775:2864" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1888,15 +1157,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="63" column="104" lean-forward="false" selection-start-line="63" selection-start-column="104" selection-end-line="63" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/quotes.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-12-angular-cli-java-ee-and-rest-tutorial-and-quick-starter-code-for-hello-world.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -1907,21 +1168,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/angular-gui-libraries.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-08-monitor-your-spring-boot-applications-with-actuator.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <first_editor relative-caret-position="331">
+            <caret line="44" column="88" lean-forward="false" selection-start-line="44" selection-start-column="88" selection-end-line="44" selection-end-column="88" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-09-spring-boot-user-authorization-with-properties.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1282">
+          <first_editor relative-caret-position="-491">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1929,131 +1190,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="172">
-            <caret line="40" column="77" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="77" />
+          <first_editor relative-caret-position="-1034">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-02-spring-boot-how-to-configure-and-tests-a-memory-database-h2-tutorial.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1485">
+            <caret line="99" column="21" lean-forward="false" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
             <folding>
-              <marker date="1499555110000" expanded="true" signature="2608:2714" ph="{...}" />
-              <marker date="1499555110000" expanded="true" signature="2797:2886" ph="{...}" />
+              <marker date="1499878795000" expanded="true" signature="3296:3468" ph="@{...}" />
+              <marker date="1499878795000" expanded="true" signature="3593:4167" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/social.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#1;n#!!top" expanded="false" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-06-configure-bootstrap-with-angular-2-webpack-and-spring-tutorial.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="101">
+            <caret line="67" column="2" lean-forward="false" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+            <folding>
+              <marker date="1499879922000" expanded="true" signature="2672:2745" ph="{&quot;selector&quot;: 'bootstrap-menu'...}" />
+              <marker date="1499879922000" expanded="true" signature="2774:2793" ph="{...}" />
+              <marker date="1499879922000" expanded="true" signature="2789:2792" ph="{...}" />
+              <marker date="1499879922000" expanded="true" signature="3075:3257" ph="{&quot;selector&quot;: 'my-app'...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/share.html">
+    <entry file="file://$PROJECT_DIR$/src/styl/_hightlight.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="417">
+          <caret line="86" column="27" lean-forward="false" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/author.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="109" column="51" lean-forward="false" selection-start-line="109" selection-start-column="51" selection-end-line="109" selection-end-column="51" />
-          <folding>
-            <marker date="1499715184000" expanded="true" signature="572:583" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="85" column="10" lean-forward="false" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="10" />
-          <folding>
-            <marker date="1499715184000" expanded="true" signature="572:583" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2007/06/table_row.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2007/06/table_row-150x57.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx-150x150.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx-242x300.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx-243x300.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/macosx-315x288.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2009/12/parallels_fps-150x133.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2012/10/class.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/uploads/2017/01/blog_vps.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
-            <folding />
+          <first_editor relative-caret-position="131">
+            <caret line="53" column="39" lean-forward="false" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="39" />
+            <folding>
+              <marker date="1499887620000" expanded="true" signature="2284:2439" ph="..." />
+              <marker date="1499887620000" expanded="true" signature="2291:2437" ph="..." />
+              <marker date="1499887620000" expanded="true" signature="4225:4271" ph="drop table B... " />
+              <marker date="1499887620000" expanded="true" signature="4273:4318" ph="drop table B... " />
+              <marker date="1499887620000" expanded="true" signature="4320:4362" ph="drop table B... " />
+              <marker date="1499887620000" expanded="true" signature="4364:4396" ph="drop table B... " />
+              <marker date="1499887620000" expanded="true" signature="4398:4445" ph="drop table B... " />
+              <marker date="1499887620000" expanded="true" signature="4447:4490" ph="drop table B... " />
+              <marker date="1499887620000" expanded="true" signature="4492:4531" ph="drop table B... " />
+              <marker date="1499887620000" expanded="true" signature="4533:4571" ph="drop table B... " />
+              <marker date="1499887620000" expanded="true" signature="4573:4610" ph="drop table B... " />
+              <marker date="1499887620000" expanded="true" signature="5735:5931" ph="..." />
+              <marker date="1499887620000" expanded="true" signature="5812:5929" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="5856:5867" ph=" { " />
+              <marker date="1499887620000" expanded="true" signature="5921:5927" ph=" }" />
+              <marker date="1499887620000" expanded="true" signature="6359:6553" ph="@{...}" />
+              <marker date="1499887620000" expanded="true" signature="6593:6630" ph="/**...*/" />
+              <marker date="1499887620000" expanded="true" signature="6910:6984" ph="/**...*/" />
+              <marker date="1499887620000" expanded="true" signature="7026:7848" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="7437:7817" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="7438:7816" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="7697:7804" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="7698:7803" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="7854:8046" ph="/**...*/" />
+              <marker date="1499887620000" expanded="true" signature="8109:8120" ph=" { " />
+              <marker date="1499887620000" expanded="true" signature="8153:8159" ph=" }" />
+              <marker date="1499887620000" expanded="true" signature="8165:8227" ph="/**...*/" />
+              <marker date="1499887620000" expanded="true" signature="8269:8428" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="8434:8511" ph="/**...*/" />
+              <marker date="1499887620000" expanded="true" signature="8583:8823" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="8829:8931" ph="/**...*/" />
+              <marker date="1499887620000" expanded="true" signature="9105:9332" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="9187:9332" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="9338:9421" ph="/**...*/" />
+              <marker date="1499887620000" expanded="true" signature="9468:9773" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="9858:9984" ph="{...}" />
+              <marker date="1499887620000" expanded="true" signature="10036:10160" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-08-04-spring-batch-tutorial-how-to-import-all-the-stock-symbols-from-flat-files.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="338">
+            <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+            <folding>
+              <marker date="1499888382000" expanded="true" signature="1538:1660" ph="..." />
+              <marker date="1499888382000" expanded="true" signature="1827:2509" ph="..." />
+              <marker date="1499888382000" expanded="true" signature="2172:2497" ph="..." />
+              <marker date="1499888382000" expanded="true" signature="2263:2478" ph="..." />
+              <marker date="1499888382000" expanded="true" signature="3261:3454" ph="..." />
+              <marker date="1499888382000" expanded="true" signature="3763:4253" ph="{...}" />
+              <marker date="1499888382000" expanded="true" signature="5529:5649" ph="..." />
+              <marker date="1499888382000" expanded="true" signature="5557:5641" ph="..." />
+              <marker date="1499888382000" expanded="true" signature="5572:5625" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

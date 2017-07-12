@@ -99,16 +99,13 @@ Because we use Spring Batch, JPA and Mysql we declare the following dependencies
 ### Input flat file and FixedLengthTokenizer
 
 The input fixed length flat file defines has this structure:
-  
-Columns 1-30: first name
-  
-Columns 31-60: family name
-  
-Columns >61: year
+  - Columns 1-30: first name
+  - Columns 31-60: family name
+  - Columns >61: year
 
 To read correctly tho file we created a PersonFixedLengthTokenizer:
 
-``
+``` java
  
 RangeArrayPropertyEditor range = new RangeArrayPropertyEditor();
 // we defines how to split the text line, from column 1 to 30 assign the content to 'firstName'
@@ -125,7 +122,7 @@ The tokenizer assigns the 30 chars at the beginning of the line to the &#8216;fi
 
 We created an import.sql script to avoid a current limitation of Spring Batch that doesn&#8217;t work well in reading parameters passed to the CommandLineJobRunner.
 
-```sql
+``` sql
 
 drop table BatchDB.Batch_JOB_EXECUTION_CONTEXT;
 drop table BatchDB.Batch_JOB_EXECUTION_PARAMS;
@@ -137,11 +134,13 @@ drop table BatchDB.Batch_STEP_EXECUTION;
 drop table BatchDB.Batch_JOB_EXECUTION;
 drop table BatchDB.Batch_JOB_INSTANCE;
 
-
 ```
 The script (automatically found by Hibernate) delete all the tables created by Spring to update the batch status allowing us to restart the batch without using the -next parameter avoiding the following error:
 
-<pre class="brush: xml; title: ; notranslate" title="">Caused by: org.springframework.batch.core.repository.JobInstanceAlreadyCompleteException: A job instance already exists and is complete for parameters={}.  If you want to run this job again, change the parameters.</pre>
+Caused by: org.springframework.batch.core.repository.JobInstanceAlreadyCompleteException: A job instance already exists and is complete for parameters={}.  If you want to run this job again, change the parameters.
+``` xml
+Caused by: org.springframework.batch.core.repository.JobInstanceAlreadyCompleteException: A job instance already exists and is complete for parameters={}.  If you want to run this job again, change the parameters.
+```
 
 ### application.properties
 
@@ -150,10 +149,8 @@ Here we define the database parameters.
 Very important in our example, we have to define:
 
 ``` xml
-
 spring.jpa.hibernate.ddl-auto=create
 spring.jpa.show-sql=false
-
 ```
 
 If ddl-auto is not defined by the developer then Spring will use by default &#8216;create-drop&#8217; deleting the tables at the end of the batch.
@@ -181,8 +178,7 @@ The BatchConfiguration class defines the basic beans to execute the batch.
 The annotation
 
 ``` java
-
-@EnableAutoConfiguration
+@EnableAutoConfiguration`
 ```
 
 
@@ -302,16 +298,16 @@ public class BatchConfiguration {
     public LocalContainerEntityManagerFactoryBean entityManagerFactory() {
 
         LocalContainerEntityManagerFactoryBean lef = new LocalContainerEntityManagerFactoryBean();
-[...]
+    [...]
 
 return lef;
-    }
+}
 `
-    @Bean
-    public JpaVendorAdapter jpaVendorAdapter() {
-        HibernateJpaVendorAdapter jpaVendorAdapter = new HibernateJpaVendorAdapter();
-        [...]
-		return jpaVendorAdapter;
-    }
+@Bean
+public JpaVendorAdapter jpaVendorAdapter() {
+    HibernateJpaVendorAdapter jpaVendorAdapter = new HibernateJpaVendorAdapter();
+    [...]
+    return jpaVendorAdapter;
+}
 
 ```
