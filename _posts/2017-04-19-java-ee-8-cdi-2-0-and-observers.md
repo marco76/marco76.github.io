@@ -38,7 +38,7 @@ In this demo we will build a small example using these new features. You can fin
 
 ### Weather station : requirements
 
-[<img src="https://i2.wp.com/javaee.ch/wp-content/uploads/2017/04/weather.png?resize=402%2C253" alt="" class="alignnone size-full wp-image-1127" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2017/04/weather.png)
+[<img src="{{site.baseurl}}/assets/img/uploads/2017/04/weather.png?resize=402%2C253" alt="" class="alignnone size-full wp-image-1127" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2017/04/weather.png)
 
 In this example we simulate a **Weather station** that has to notify multiple observer every time the weather changes.
 

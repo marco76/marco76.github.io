@@ -1,10 +1,8 @@
 ---
-id: 856
 title: 'Configure Bootstrap with Angular 2, Webpack and Spring &#8211; Tutorial'
 date: 2017-02-06T00:26:41+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=856
 permalink: /2017/02/06/configure-bootstrap-with-angular-2-webpack-and-spring-tutorial/
 dsq_thread_id:
   - "5565869589"
@@ -31,7 +29,7 @@ I update the reference Angular/Java application for this blog (<http://angular.c
   
 The new homepage is now like this:
 
-[<img class="alignnone wp-image-855 " src="https://i2.wp.com/javaee.ch/wp-content/uploads/2017/02/home-1.png?resize=479%2C265" data-recalc-dims="1" />](https://i1.wp.com/javaee.ch/wp-content/uploads/2017/02/home-1-e1486332505220.png)
+[<img class="alignnone wp-image-855 " src="{{site.baseurl}}/assets/img/uploads/2017/02/home-1.png?resize=479%2C265" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2017/02/home-1-e1486332505220.png)
 
 The data comes from an H2 database deployed with the application.
 
@@ -70,11 +68,12 @@ I created a menu component that contains the bootstrap tags:
   
 You can see the content here: <a href="https://github.com/marco76/SpringAngular2TypeScript/blob/master/webClient/src/app/html/menu.html" target="_blank">home.html</a>
   
-[<img class="alignnone wp-image-862 size-large" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2017/02/code.png?resize=945%2C322" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2017/02/code.png)
+[<img class="alignnone wp-image-862 size-large" src="{{site.baseurl}}/assets/img/uploads/2017/02/code.png?resize=945%2C322" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2017/02/code.png)
   
 The component [menu.component.ts](https://github.com/marco76/SpringAngular2TypeScript/blob/master/webClient/src/app/components/menu.component.ts) is self explanatory:
 
-<pre><code lang="typescript">
+```typescript
+
 import {Component} from "@angular/core";
 
 @Component({
@@ -84,9 +83,12 @@ import {Component} from "@angular/core";
 export class MenuComponent {
 constructor(){
 }}
-</code></pre>
+
+```
 
 To reuse the same menu in every page I call the menu component from the [app.component.ts](https://github.com/marco76/SpringAngular2TypeScript/blob/master/webClient/src/app/components/app.component.ts) that is the main component of the module:
+
+```typescript
 
     @Component({
     selector: 'my-app',
@@ -96,9 +98,11 @@ To reuse the same menu in every page I call the menu component from the [app.com
     providers: [HttpModule, ConstantsService, Location]
     })
     
+```
+    
 
 the template calls the bootstrap menu <bootstrap-menu> followed by the component called by the router.
 
 In the developer console you can see the data sent by the server:
   
-[<img src="https://i0.wp.com/javaee.ch/wp-content/uploads/2017/02/chrome-1-e1486333521414.png?resize=900%2C389" alt="" class="alignnone size-full wp-image-866" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2017/02/chrome-1-e1486333521414.png)
+[<img src="{{site.baseurl}}/assets/img/uploads/2017/02/chrome-1-e1486333521414.png?resize=900%2C389" alt="" class="alignnone size-full wp-image-866" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2017/02/chrome-1-e1486333521414.png)

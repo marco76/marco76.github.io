@@ -40,6 +40,6 @@ You can see some examples of the result on my sample website:
 
 <http://angular.cafe/app-spring-monitoring>
 
-<img class="alignnone size-full wp-image-1022" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2017/03/monitoring_2.png?resize=106%2C138" data-recalc-dims="1" />
+<img class="alignnone size-full wp-image-1022" src="{{site.baseurl}}/assets/img/uploads/2017/03/monitoring_2.png?resize=106%2C138" data-recalc-dims="1" />
 
-<img class="alignnone size-full wp-image-1023" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2017/03/monitoring_1.png?resize=300%2C475" data-recalc-dims="1" />
+<img class="alignnone size-full wp-image-1023" src="{{site.baseurl}}/assets/img/uploads/2017/03/monitoring_1.png?resize=300%2C475" data-recalc-dims="1" />

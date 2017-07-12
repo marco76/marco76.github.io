@@ -1,10 +1,8 @@
 ---
-id: 836
 title: 'Spring Boot and JPA. How to configure and test a memory database (H2) &#8211; Tutorial'
 date: 2017-02-02T00:36:12+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=836
 permalink: /2017/02/02/spring-boot-how-to-configure-and-tests-a-memory-database-h2-tutorial/
 categories:
   - example
@@ -32,7 +30,8 @@ You find the complete code here (Database branch): <a href="https://github.com/m
 
 Here the example of the <a href="https://github.com/marco76/SpringAngular2TypeScript/blob/feature/database/server/src/main/java/ch/javaee/demo/angular2/service/blog/BlogServiceImpl.java" target="_blank">Service</a>:
 
-<pre class="brush: java; title: ; notranslate" title="">@Service
+``` java
+@Service
 public class BlogServiceImpl implements BlogService {
 
     @Autowired
@@ -40,9 +39,9 @@ public class BlogServiceImpl implements BlogService {
 
     @Override
     @Transactional(readOnly = true)
-    public List&lt;Article&gt; getArticles() {
+    public List<Article> getArticles() {
 
-        List&lt;Article&gt; articleList = new ArrayList&lt;&gt;();
+        List<Article> articleList = new ArrayList<>();
 
         // lambda expression
         // findAll() retrieve an Iterator
@@ -55,7 +54,7 @@ public class BlogServiceImpl implements BlogService {
         return articleList;
 
     }
-</pre>
+```
 
 Interesting is the Iterable object returned by the _CrudRepository_ for the _findAll()_ method.
   
@@ -71,16 +70,22 @@ Spring looks for those files when it starts.
   
 With <a href="https://github.com/marco76/SpringAngular2TypeScript/blob/feature/database/server/src/test/resources/schema.sql" target="_blank">schema.sql</a> Spring creates the database:
 
-<pre class="brush: sql; title: ; notranslate" title="">CREATE TABLE ARTICLE (ID INT PRIMARY KEY auto_increment, TITLE VARCHAR2(100), CONTENT TEXT)
-</pre>
+``` sql
+CREATE TABLE ARTICLE (ID INT PRIMARY KEY auto_increment, TITLE VARCHAR2(100), CONTENT TEXT)
+```
 
 And with <a href="https://github.com/marco76/SpringAngular2TypeScript/blob/feature/database/server/src/test/resources/schema.sql" target="_blank">import.sql</a> Spring inserts the data:
 
-<pre class="brush: sql; title: ; notranslate" title="">INSERT INTO ARTICLE(TITLE, CONTENT) VALUES ('Article Example', 'Hello World from Java and H2');
-INSERT INTO ARTICLE(TITLE, CONTENT) VALUES ('Blog in Angular ?', 'Maybe for fun');
-</pre>
+``` sql
 
-<pre class="brush: java; title: ; notranslate" title="">@RunWith(SpringRunner.class)
+INSERT INTO ARTICLE(TITLE, CONTENT) VALUES ('Article Example', 'Hello World from Java and H2');
+INSERT INTO ARTICLE(TITLE, CONTENT) VALUES ('Blog in Angular ?', 'Maybe for fun');
+
+```
+
+```java
+
+@RunWith(SpringRunner.class)
 @SpringBootApplication
 @EnableJpaRepositories(basePackages = ("ch.javaee.demo.angular2"))
 @EntityScan(basePackages = "ch.javaee.demo.angular2")
@@ -92,7 +97,7 @@ public class BlogServiceTest {
     @Test
     public void getAllArticlesTest() {
 
-        List&lt;Article&gt; articleList = blogService.getArticles();
+        List<Article> articleList = blogService.getArticles();
         assertThat(articleList).isNotNull();
 
         Article article = articleList.get(0);
@@ -106,18 +111,15 @@ public class BlogServiceTest {
         assertThat(articleTwo.getContent()).isEqualTo("Maybe for fun");
     }
 }
-</pre>
+```
 
 I had few problems to find the correct annotations combination. **@SpringBootTest** tried to load the WebController ending in error.
 
 In conclusion with:
   
-&#8211; 1 Service
-  
-&#8211; 1 &#8216;Empty&#8217; Repository
-  
-&#8211; 1 Entity
-  
-&#8211; 2 SQL files
+- 1 Service
+- 1 'Empty' Repository
+- 1 Entity
+- 2 SQL files
 
 You have your database. No configuration is needed because Spring Boot automatically recognise and configure H2.
