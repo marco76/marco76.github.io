@@ -59,7 +59,7 @@ _New demo available here_: <http://javademo.io> &#8211; <https://github.com/m
 
 ### The result
 
- <img class="alignnone size-full wp-image-1041" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2017/03/payara_easy.png?resize=700%2C281" data-recalc-dims="1" />The result is not particularly fancy. It show the result of a call to a Java REST service &#8230; but hey, you have a ready to go configuration based on Java EE and Angular that follows the Angular best practices.
+ <img class="alignnone size-full wp-image-1041" src="{{site.baseurl}}/assets/img/uploads/2017/03/payara_easy.png?resize=700%2C281" data-recalc-dims="1" />The result is not particularly fancy. It show the result of a call to a Java REST service &#8230; but hey, you have a ready to go configuration based on Java EE and Angular that follows the Angular best practices.
 
 #### How it works As for the previous
 

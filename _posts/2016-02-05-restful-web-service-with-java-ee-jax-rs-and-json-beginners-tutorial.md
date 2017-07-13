@@ -104,7 +104,7 @@ In this class we declare 1 method that return a simple text:
 
 This method return a simple text (no HTML) that is shown in the browser:
 
-<a href="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/02/2016-02-05_17-01-34.png" rel="attachment wp-att-542"><img class="alignnone size-medium wp-image-542" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/02/2016-02-05_17-01-34.png?resize=300%2C39" alt="2016-02-05_17-01-34" data-recalc-dims="1" /></a>
+<a href="{{site.baseurl}}/assets/img/uploads/2016/02/2016-02-05_17-01-34.png" rel="attachment wp-att-542"><img class="alignnone size-medium wp-image-542" src="{{site.baseurl}}/assets/img/uploads/2016/02/2016-02-05_17-01-34.png?resize=300%2C39" alt="2016-02-05_17-01-34" data-recalc-dims="1" /></a>
 
 ### Java List to JSON Array answer
 
@@ -129,7 +129,7 @@ public List&lt;String&gt; helloJSONList(){
 
 Netbeans recognize the services declared in this class and show them in the project structure:
 
-<a href="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/02/2016-02-05_17-29-33.png" rel="attachment wp-att-547"><img src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/02/2016-02-05_17-29-33.png?resize=293%2C109" alt="2016-02-05_17-29-33" class="alignnone size-full wp-image-547" data-recalc-dims="1" /></a>
+<a href="{{site.baseurl}}/assets/img/uploads/2016/02/2016-02-05_17-29-33.png" rel="attachment wp-att-547"><img src="{{site.baseurl}}/assets/img/uploads/2016/02/2016-02-05_17-29-33.png?resize=293%2C109" alt="2016-02-05_17-29-33" class="alignnone size-full wp-image-547" data-recalc-dims="1" /></a>
 
 To transform Java Objects in JSON and vice versa we need to import some converters in our project to avoid some MessageBodyWriter or MessageBodyReader media type error:
 

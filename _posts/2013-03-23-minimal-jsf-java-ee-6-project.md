@@ -24,7 +24,7 @@ tags:
 ---
 The goal of this tutorial is to build a basic Java EE hello world application. We will use eclipse, maven and tomee.
 
-<img title="ecl1.png" alt="Untitled" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipseecl1.png?resize=525%2C233" border="0" data-recalc-dims="1" />
+<img title="ecl1.png" alt="Untitled" src="{{site.baseurl}}/assets/img/uploads/2013/03/eclipseecl1.png?resize=525%2C233" border="0" data-recalc-dims="1" />
 
 Select &#8216;Create a simple project (skip archetype selection)&#8217; our project is very simple 🙂
 
@@ -153,7 +153,7 @@ You can see your new class in the project explorer
 
 We have now to create the facelet page that shows the hello world message:
 
-<img title="htmlx.png" alt="Htmlx" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipsehtmlx.png?resize=144%2C89" border="0" data-recalc-dims="1" />
+<img title="htmlx.png" alt="Htmlx" src="{{site.baseurl}}/assets/img/uploads/2013/03/eclipsehtmlx.png?resize=144%2C89" border="0" data-recalc-dims="1" />
 
 <pre class="brush: xml; title: ; notranslate" title="">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
@@ -174,7 +174,7 @@ Hello &lt;h:outputText value="#{indexBean.world}" /&gt;
 
 The code simply writes &#8216;Hello&#8217; and goes to look for the variable world in the indexBean.
 
-<img title="maven.png" alt="Maven" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipsemaven.png?resize=600%2C248" border="0" data-recalc-dims="1" />
+<img title="maven.png" alt="Maven" src="{{site.baseurl}}/assets/img/uploads/2013/03/eclipsemaven.png?resize=600%2C248" border="0" data-recalc-dims="1" />
 
 In Eclipse we can create a maven configuration to execute the goals &#8216;compile&#8217; et &#8216;war:war&#8217;. This configuration creates the package to be loaded by the application server.
 
@@ -184,8 +184,8 @@ As you can see the application file &#8216;HelloWorldTutorial.war&#8217; has a s
 
 We are using TomEE, to deploy the application we can copy the .war file in the web apps directory.
 
-<img title="tomee.png" alt="Tomee" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipsetomee.png?resize=245%2C160" border="0" data-recalc-dims="1" />
+<img title="tomee.png" alt="Tomee" src="{{site.baseurl}}/assets/img/uploads/2013/03/eclipsetomee.png?resize=245%2C160" border="0" data-recalc-dims="1" />
 
 The final result:
 
-<img title="result.png" alt="Result" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipseresult.png?resize=523%2C152" border="0" data-recalc-dims="1" />
+<img title="result.png" alt="Result" src="{{site.baseurl}}/assets/img/uploads/2013/03/eclipseresult.png?resize=523%2C152" border="0" data-recalc-dims="1" />

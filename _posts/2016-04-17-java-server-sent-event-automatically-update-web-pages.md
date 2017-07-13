@@ -29,17 +29,17 @@ The client regularly request to the server new data using a simple request/respo
 
 Java EE 7 and Spring 4 implemented the [WebSocket](https://en.wikipedia.org/wiki/WebSocket) protocol that allows a bi-directional communication between a client and a server using TCP. The HTTP is used only for the handshake. WebSockets are the appropriate solution for application that need frequent exchange of small chunks of data at high speed (ex. trading, videogames, &#8230;).
 
-[<img class="alignnone wp-image-610 size-full" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_2_2016-04-17_11-15-29-e1460905439922.png?resize=343%2C131" alt="sse_2_2016-04-17_11-15-29" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_2_2016-04-17_11-15-29.png)
+[<img class="alignnone wp-image-610 size-full" src="{{site.baseurl}}/assets/img/uploads/2016/04/sse_2_2016-04-17_11-15-29-e1460905439922.png?resize=343%2C131" alt="sse_2_2016-04-17_11-15-29" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/sse_2_2016-04-17_11-15-29.png)
 
 ## 3. _Server-side events_
 
 HTML5 allows an unidirectional communication similar to the publish/subscribe model in JMS. The protocol used is HTTP and is described in the [W3C documentation](https://www.w3.org/TR/eventsource/) (note than [IE is not compatible](http://www.w3schools.com/html/html5_serversentevents.asp)).
 
-[<img class="alignnone wp-image-609 size-full" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_3_2016-04-17_11-15-43-e1460905505391.png?resize=350%2C149" alt="sse_3_2016-04-17_11-15-43" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_3_2016-04-17_11-15-43.png)
+[<img class="alignnone wp-image-609 size-full" src="{{site.baseurl}}/assets/img/uploads/2016/04/sse_3_2016-04-17_11-15-43-e1460905505391.png?resize=350%2C149" alt="sse_3_2016-04-17_11-15-43" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/sse_3_2016-04-17_11-15-43.png)
 
 The events can be broadcasted multiple clients:
 
-[<img class="alignnone wp-image-612 size-full" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_4_2016-04-17_14-09-19-e1460905566225.png?resize=295%2C155" alt="sse_4_2016-04-17_14-09-19" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_4_2016-04-17_14-09-19.png)
+[<img class="alignnone wp-image-612 size-full" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_4_2016-04-17_14-09-19-e1460905566225.png?resize=295%2C155" alt="sse_4_2016-04-17_14-09-19" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/sse_4_2016-04-17_14-09-19.png)
 
 This solution is appropriate for application that require to be notified about new events (newsfeed, twitter-like, stock market etc.)
   
@@ -108,7 +108,7 @@ and the log:
   
 While the connection was open Chrome showed the &#8216;working in progress&#8217; icon:
   
-[<img class="alignnone wp-image-617 size-full" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-17_16-06-05_chrome.png?resize=125%2C27" alt="2016-04-17_16-06-05_chrome" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-17_16-06-05_chrome.png)
+[<img class="alignnone wp-image-617 size-full" src="{{site.baseurl}}/assets/img/uploads/2016/04/2016-04-17_16-06-05_chrome.png?resize=125%2C27" alt="2016-04-17_16-06-05_chrome" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/2016-04-17_16-06-05_chrome.png)
 
 ## Broadcast
 

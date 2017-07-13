@@ -96,4 +96,4 @@ In the template we can simply call the image content:
 
 Here the result with the JSON content from the server:
 
-<img class="alignnone size-full wp-image-891" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2017/02/angula_image_8.png?resize=900%2C702" data-recalc-dims="1" />
+<img class="alignnone size-full wp-image-891" src="{{site.baseurl}}/assets/img/uploads/2017/02/angula_image_8.png?resize=900%2C702" data-recalc-dims="1" />

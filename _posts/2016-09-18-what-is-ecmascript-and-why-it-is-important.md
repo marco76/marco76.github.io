@@ -17,7 +17,7 @@ In one sentence, ECMAScript for the JavaScript developer is like the <a href="ht
 
 &nbsp;
 
-[<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="Ecma_java" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/09/Ecma_java_thumb.png?resize=558%2C332" alt="Ecma_java" border="0" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2016/09/Ecma_java.png)
+[<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="Ecma_java" src="{{site.baseurl}}/assets/img/uploads/2016/09/Ecma_java_thumb.png?resize=558%2C332" alt="Ecma_java" border="0" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2016/09/Ecma_java.png)
 
 &nbsp;
 
@@ -27,7 +27,7 @@ Each Runtime environment can have a different level of implementation of the fea
 
 At the time of writing this post ECMAScript 2015 is the ‘standard’ for the web browser e.g.:
 
-[<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="Ecma_compatibility_table" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/09/Ecma_compatibility_table_thumb.png?resize=860%2C421" alt="Ecma_compatibility_table" border="0" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2016/09/Ecma_compatibility_table.png)
+[<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="Ecma_compatibility_table" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/09/Ecma_compatibility_table_thumb.png?resize=860%2C421" alt="Ecma_compatibility_table" border="0" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/09/Ecma_compatibility_table.png)
 
 #### 
 

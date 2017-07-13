@@ -1,6 +1,5 @@
 ---
-id: 768
-title: 'Angular, Spring Boot, REST, Security and OAuth2 &#8211; Part 1 &#8211; How to protect your app'
+title: 'Angular, Spring Boot, REST, Security and OAuth2 - Part 1 - How to protect your app'
 date: 2017-01-19T22:54:44+00:00
 author: Marco Molteni
 layout: post
@@ -38,7 +37,7 @@ The client has to login with the Authorization Server, this can be connected to 
   
 Here described the communication:
 
-[<img class="aligncenter" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2017/01/oauth2-1-1.png?resize=644%2C547" align="middle" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2017/01/oauth2-1_full.png)
+[<img class="aligncenter" src="{{site.baseurl}}/assets/img/uploads/2017/01/oauth2-1-1.png?resize=644%2C547" align="middle" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2017/01/oauth2-1_full.png)
 
 &nbsp;
 
@@ -46,19 +45,28 @@ Here described the communication:
 
 The cookies are not safe and they can give a lot of troubles. One solution is to store the token in the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage" target="_blank">session storage</a> of the browser. In this case when the user will close the browser the session will be closed.
 
-<pre class="brush: jscript; title: ; notranslate" title="">saveMyToken(accessTokenYouReceivedFromTheServer) {
+``` javascript
+
+saveMyToken(accessTokenYouReceivedFromTheServer) {
     yourService.$window.sessionStorage.setItem('myToken', accessTokenYouReceivedFromTheServer)
-}</pre>
+}
+
+```
 
 When you need it you can retrieve the token easily:
 
-<pre class="brush: jscript; title: ; notranslate" title="">getMyStoredToken() {
+``` javascript
+
+getMyStoredToken() {
 yourService.$window.sessionStorage.getItem('myToken');
-}</pre>
+}
+
+```
 
 How to prepare a request with the token received from the server:
 
-<pre class="brush: jscript; title: ; notranslate" title="">sendRequestToTheBackend() {
+``` javascript
+sendRequestToTheBackend() {
     return this.$http(method:'GET', url:'http://yourBackend/restResourceURL',
     headers: this.getHeaders()
 })}
@@ -68,8 +76,9 @@ return {
 'Authorization': 'Bearer ' + this.getMyStoredToken,
 'Accept': 'application/json',
 'X-Requested-With': 'XMLHttpRequest'
-}</pre>
+}
+```
 
-What is this &#8216;Bearer&#8217; thing? <a href="https://tools.ietf.org/html/rfc6750" target="_blank">Here your answer</a>
+What is this 'Bearer' thing? <a href="https://tools.ietf.org/html/rfc6750" target="_blank">Here your answer</a>
 
 How to implement the complete solution? Soon I will update the Angular / Spring Boot tutorial with a simple implementation.

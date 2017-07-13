@@ -44,7 +44,7 @@ GitHub: <a href="https://github.com/marco76/myCv" target="_blank">https://githu
 
 I&#8217;ve a bit of time in this period and I&#8217;m updating (or, better, upgrading) my knowledge with the new trends on the market (recently I had to work with jsp and db2 ;))
 
-I published a website that uses the following technologies:<img class="wp-image-588 alignleft" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/03/stack.png?resize=173%2C183" alt="stack" data-recalc-dims="1" />
+I published a website that uses the following technologies:<img class="wp-image-588 alignleft" src="{{site.baseurl}}/assets/img/uploads/2016/03/stack.png?resize=173%2C183" alt="stack" data-recalc-dims="1" />
 
   * **OpenShift** as PaaS (it manages all this architecture for &#8230; free &#8230;)
   * **WildFly** 10 + RESTful (RESTeasy)

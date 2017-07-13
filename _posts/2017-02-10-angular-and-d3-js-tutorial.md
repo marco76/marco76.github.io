@@ -24,7 +24,7 @@ Result: the result is visible here
 
 <http://angular.cafe/d3-example>
 
-<img class="alignnone size-full wp-image-884" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2017/02/Ohne-Titel.png?resize=842%2C484" data-recalc-dims="1" />
+<img class="alignnone size-full wp-image-884" src="{{site.baseurl}}/assets/img/uploads/2017/02/Ohne-Titel.png?resize=842%2C484" data-recalc-dims="1" />
 
 Here the steps to integrate the library with Angular 2.
 

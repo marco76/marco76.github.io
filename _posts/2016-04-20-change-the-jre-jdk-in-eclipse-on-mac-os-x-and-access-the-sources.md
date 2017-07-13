@@ -33,7 +33,7 @@ If you installed the SDK using the installer it should be in:
 
 /Library/Java/JavaVirtualMachines/jdk1.[version].jdk/Contents/Home/[<img class="alignnone size-full wp-image-632" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-20_11-58-59.png?resize=751%2C155" alt="2016-04-20_11-58-59" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-20_11-58-59.png)
 
-4. To access the sources select rt in the System Libraries and click Source Attachment &#8230;[<img class="alignnone size-full wp-image-633" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-20_11-58-59_2.png?resize=751%2C100" alt="2016-04-20_11-58-59_2" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-20_11-58-59_2.png)
+4. To access the sources select rt in the System Libraries and click Source Attachment &#8230;[<img class="alignnone size-full wp-image-633" src="{{site.baseurl}}/assets/img/uploads/2016/04/2016-04-20_11-58-59_2.png?resize=751%2C100" alt="2016-04-20_11-58-59_2" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/2016-04-20_11-58-59_2.png)
 
 5. Choose the src.zip file from the directory containing the JDK
 
@@ -47,11 +47,11 @@ The change is effective only for the <span style="text-decoration: underline;">n
 
 7. Click with the right button on the project and choose &#8216;Properties&#8217;. Search for &#8216;Java Build Path&#8217; and select the JRE under Libraries. Click te &#8216;Edit&#8217; button.
   
-[<img class="alignnone size-full wp-image-636" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-20_12-01-12.png?resize=747%2C144" alt="2016-04-20_12-01-12" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-20_12-01-12.png)
+[<img class="alignnone size-full wp-image-636" src="{{site.baseurl}}/assets/img/uploads/2016/04/2016-04-20_12-01-12.png?resize=747%2C144" alt="2016-04-20_12-01-12" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/2016-04-20_12-01-12.png)
 
 8. Choose the new JRE
 
-[<img class="alignnone size-full wp-image-637" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-20_12-01-33.png?resize=611%2C216" alt="2016-04-20_12-01-33" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-20_12-01-33.png)
+[<img class="alignnone size-full wp-image-637" src="{{site.baseurl}}/assets/img/uploads/2016/04/2016-04-20_12-01-33.png?resize=611%2C216" alt="2016-04-20_12-01-33" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/2016-04-20_12-01-33.png)
 
 9. (Optional) Restart Eclipse
 

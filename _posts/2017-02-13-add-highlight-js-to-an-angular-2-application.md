@@ -52,7 +52,7 @@ export class HighlightCodeDirective implements AfterViewInit{
 
 The html code of the example:
 
-<img class="alignnone wp-image-902 size-full" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2017/02/blog_highlight_small-e1487011265898.png?resize=600%2C411" data-recalc-dims="1" />
+<img class="alignnone wp-image-902 size-full" src="{{site.baseurl}}/assets/img/uploads/2017/02/blog_highlight_small-e1487011265898.png?resize=600%2C411" data-recalc-dims="1" />
 
 and the result:
 

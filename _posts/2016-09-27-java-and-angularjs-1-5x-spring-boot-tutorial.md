@@ -29,6 +29,6 @@ After ‘mvn package’ you can launch the application with this command: java �
 
 If you go to <http://localhost:8080> you should see this:
 
-[<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="mycv" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2016/09/mycv_thumb.png?resize=551%2C480" alt="mycv" border="0" data-recalc-dims="1" />](https://i1.wp.com/javaee.ch/wp-content/uploads/2016/09/mycv.png)
+[<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="mycv" src="{{site.baseurl}}/assets/img/uploads/2016/09/mycv_thumb.png?resize=551%2C480" alt="mycv" border="0" data-recalc-dims="1" />](https://i1.wp.com/javaee.ch/wp-content/uploads/2016/09/mycv.png)
 
 The technical details will follow!

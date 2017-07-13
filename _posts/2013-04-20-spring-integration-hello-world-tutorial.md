@@ -19,11 +19,11 @@ Here you can find another Hello World example that shows the first steps to buil
 
 In our example we create a new Java application that send a message &#8216;World&#8217; to a channel, a Spring service receives and modifies this string (&#8216;Hello World!&#8217;). Eventually and the message is sent to a print service through a second channel.
 
-[<img class="alignnone size-medium wp-image-369" alt="spring_integration_1" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2013/04/spring_integration_1.png?resize=300%2C145" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2013/04/spring_integration_1.png)
+[<img class="alignnone size-medium wp-image-369" alt="spring_integration_1" src="{{site.baseurl}}/assets/img/uploads/2013/04/spring_integration_1.png?resize=300%2C145" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2013/04/spring_integration_1.png)
 
 The structure of the application is very simple:
 
-[<img class="alignnone size-medium wp-image-373" alt="spring_integration_2" src="https://i2.wp.com/javaee.ch/wp-content/uploads/2013/04/spring_integration_2.png?resize=300%2C224" data-recalc-dims="1" />](https://i2.wp.com/javaee.ch/wp-content/uploads/2013/04/spring_integration_2.png)
+[<img class="alignnone size-medium wp-image-373" alt="spring_integration_2" src="{{site.baseurl}}/assets/img/uploads/2013/04/spring_integration_2.png?resize=300%2C224" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2013/04/spring_integration_2.png)
 
 You can find all the code on gitHub: <a title="https://github.com/marco76/SpringIntegrationExamples" href="https://github.com/marco76/SpringIntegrationExamples" target="_blank">https://github.com/marco76/SpringIntegrationExamples</a>
 
