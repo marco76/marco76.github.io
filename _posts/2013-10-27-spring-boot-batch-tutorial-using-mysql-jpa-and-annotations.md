@@ -216,15 +216,14 @@ public class BatchConfiguration {
         // we pass as parameter the flat file directory
         reader.setResource(new ClassPathResource("PersonData.txt"));
         // we use a default line mapper to assign the content of each line to the Person object
-        reader.setLineMapper(new DefaultLineMapper() {{
+        reader.setLineMapper(new DefaultLineMapper() {
             // we use a custom fixed line tokenizer
             setLineTokenizer(new PersonFixedLineTokenizer());
             // as field mapper we use the name of the fields in the Person class
-            setFieldSetMapper(new BeanWrapperFieldSetMapper() {{
-              
+            setFieldSetMapper(new BeanWrapperFieldSetMapper() {
                 setTargetType(Person.class); // we create an object Person
-            }});
-        }});
+            });
+        });
         return reader;
     }
 
