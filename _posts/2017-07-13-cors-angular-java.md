@@ -22,8 +22,6 @@ image: '/assets/img/'
 
 introduction: 'How to allow communication between your Angular frontend and the Java Backend'
 ---
-# Create Cross-Origin HTTP requests (CORS)
-
 During the development of your application it is a good practice to work with 2 separate server. A server for your backend and a server for your frontend.
 Your JavaScript frontend will communicate with your backend to collect information using REST services.
 

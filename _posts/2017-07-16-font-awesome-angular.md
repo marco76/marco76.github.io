@@ -16,8 +16,6 @@ image: '/assets/img/'
 
 introduction: 'How to configure your Angular app to use Font Awesome'
 ---
-# Use Font Awesome in your Angular application
-
 Install the Font Awesome npm package
 ```
 npm install font-awesome --save
