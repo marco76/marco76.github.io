@@ -1,6 +1,6 @@
 ---
 id: 559
-title: 'The &#8216;Spring Boot, AngularJS 2, TypeScript: Hello World Tutorial&#8217; is now Java and Angular 4'
+title: 'The Spring Boot, AngularJS 2, TypeScript: Hello World Tutorial is now Java and Angular 5'
 date: 2016-02-23T22:53:57+00:00
 author: Marco Molteni
 layout: post
@@ -28,6 +28,40 @@ tags:
   - Spring Boot
   - TypeScript
 ---
+_Update Aug. 07, 2017_
+
+A lot changed from the first publication of the article (new versions of Angular).
+
+I'm creating a new demo using Spring Boot, Angular (currently v. 5 beta) and Material Design.
+The demo is more than a simple hello world and will collect the best practices for an enterprise development.
+
+<img class="alignnone wp-image-902 size-full" src="{{site.baseurl}}/assets/img/uploads/2017/08/07/architecture.png" data-recalc-dims="1" />
+
+The goals are the following:
+- show the integration between Spring and Angular
+- build a 'one-click' pipeline from the development to the deploy
+- collect the best practices for the development in the enterprise
+
+The project is more ambitious than a simple hello world and will require a bit of time to be developed in the free time.
+
+You can find a first demo here:
+[molteni.io](http://molteni.io)
+
+The code is here:
+[https://github.com/marco76/spriNGdemo](https://github.com/marco76/spriNGdemo)
+
+There is a Jenkins job that build the project here:
+[http://springdemo.io:8081/job/spring-demo-pipeline/](http://springdemo.io:8081/job/spring-demo-pipeline/)
+
+A quality analysis with SonarQube:
+[SonarQube](http://springdemo.io:9000/dashboard?id=spring-ng-demo%3Aparent%3Acandidate)
+
+And a Docker deploy:
+[molteni.io](http://molteni.io)
+
+The [Java EE Demo](http://javademo.io) will be updated in the future.
+The [springdemo.io](http://springdemo.io) won't be updated and will be replaced by the current molteni.io.
+
 _Update Apr. 11, 2017_ _Spring Boot 2.0 Angular Demo *I update the **Spring** Demo. The new demo uses Spring Boot 2.0 (beta) and Angular 4. Website: <http://springdemo.io> GitHub: <https://github.com/marco76/spriNGdemo> The old Spring example is here : <http://angular.cafe> , [GitHub](https://github.com/marco76/SpringAngular2TypeScript) *Java EE Angular Demo_ Because Java has a rich and wonderful community there is a similar demo for **Java EE** You can find the Angular 4 and Java EE demo here: <http://javademo.io> Post: <http://javaee.ch/2017/04/06/java-angular-demo/> GitHub: <https://github.com/marco76/java-demo>
 
 Goal of the demo Java is a perfect technology for the modern development in few lines of code you can build rock solid backends. The demo is a showcase of how to integrate many features of Java EE and Spring in your next JavaScript application. The two demos
