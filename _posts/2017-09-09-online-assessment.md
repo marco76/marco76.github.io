@@ -1,5 +1,5 @@
 ---
-title: 'The online automatic technical assessment! Seriously?'
+title: 'The online automated technical assessment! Seriously?'
 description: 'Are we artisans of the code or simple part of an assembly line?'
 date: 2017-09-09T10:41:48+00:00
 author: Marco Molteni
