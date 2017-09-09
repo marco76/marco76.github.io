@@ -180,6 +180,12 @@ You really want to work for one of this companies?
 
 ## Reading suggestions
 
-[How I ended up conducting the most successful technical interviews with a single question](http://www.nicolasbize.com/blog/how-i-ended-up-conducting-the-most-successful-technical-interviews-with-a-single-question/)
+Nicolas Bize [How I ended up conducting the most successful technical interviews with a single question](http://www.nicolasbize.com/blog/how-i-ended-up-conducting-the-most-successful-technical-interviews-with-a-single-question/)
 
-[Why I Don't Talk to Google Recruiters](http://www.yegor256.com/2017/02/21/say-no-to-google-recruiters.html)
+> It would then draw little graphs, generate and email reports to HR, displaying the results compared to the average along with a bunch of other useless metrics. Man was I proud of that tool!
+> QM made all of our lives so much easier, it seemed perfect… Until we tested it on our own developers!
+> Well... Turns out that a lot of our great developers were getting the same score as some of the people I had refused. That's right, QM was proven useless!
+
+yegor256 [Why I Don't Talk to Google Recruiters](http://www.yegor256.com/2017/02/21/say-no-to-google-recruiters.html)
+
+> If she would have started her email with "We're looking for an algorithm expert," we would never have gotten any further and would not have wasted our time. Clearly, I'm not an expert in algorithms. There is no point in giving me binary-tree-traversing questions; I don't know those answers and will never be interested in learning them.
