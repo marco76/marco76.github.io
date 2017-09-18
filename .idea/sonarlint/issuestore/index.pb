@@ -25,3 +25,11 @@ Y_posts/2017-02-02-spring-boot-how-to-configure-and-tests-a-memory-database-h2-t
 _config.yml,c/d/cd089ae45ce870c45e434019e8f1ed4f066cd425
 9
 	quotes.md,d/0/d0dd83044617bfc97df3732916f8bd6a080a78e3
+k
+;_posts/2017-07-11-spring-boot-react-hello-world-tutorial.md,d/a/dae79b8655a58307c5cc0c4db4cf44957caba69d
+s
+C_posts/2017-07-09-spring-boot-user-authorization-with-properties.md,9/2/92a5d72f2c94d7b497353e6cdffcffc820bb40b6
+V
+&_posts/2017-09-09-online-assessment.md,a/5/a5f88c2c7fc0a0da41dabc0cc771dab248e28a87
+X
+(_posts/2017-09-09-spring-boot-angular.md,e/1/e186ea811df16f874409f571773ac547b3adb5f7
