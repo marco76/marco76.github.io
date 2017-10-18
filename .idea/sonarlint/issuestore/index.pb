@@ -33,3 +33,7 @@ V
 &_posts/2017-09-09-online-assessment.md,a/5/a5f88c2c7fc0a0da41dabc0cc771dab248e28a87
 X
 (_posts/2017-09-09-spring-boot-angular.md,e/1/e186ea811df16f874409f571773ac547b3adb5f7
+Z
+*_posts/2017-09-17-java-jenkins-pipeline.md,e/e/eee10e9a5c80d8501779a61dad0b3672270bc473
+\
+,_site/2017/09/flatmap/rxjs-json-example-1.md,6/7/67db26bee74be66f641bb7e4656f72bc2a2730c6
