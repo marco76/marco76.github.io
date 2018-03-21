@@ -11,8 +11,8 @@ categories:
   - Angular
   - TypeScript
   - NPM
-  - Google Maps
-  - Ionic 
+  - Array
+  - Javascript 
 tags:
   - angular
   - typescript
