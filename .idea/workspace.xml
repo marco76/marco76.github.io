@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md" afterPath="$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="header-default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header-default.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="290">
+              <first_editor relative-caret-position="870">
                 <caret line="58" column="61" lean-forward="false" selection-start-line="58" selection-start-column="61" selection-end-line="58" selection-end-column="61" />
                 <folding>
                   <marker date="1521216249475" expanded="true" signature="1851:1994" ph="{...}" />
@@ -84,12 +74,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-03-21-array-utils-for-javascript.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-03-21-array-utils-for-javascript.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
+              <first_editor relative-caret-position="-26">
                 <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-03-26-angular-java-mobile-framework.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2310">
+                <caret line="154" column="60" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -202,8 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-07-08-java-ee-8-cdi-2-0-and-observers.md" />
-        <option value="$PROJECT_DIR$/src/styl/_theme-colors.styl" />
         <option value="$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
@@ -253,6 +254,8 @@
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-26-angular-java-which-mobile.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md" />
       </list>
     </option>
   </component>
@@ -300,8 +303,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -338,14 +339,6 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
               <item name="2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -367,6 +360,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -379,17 +374,17 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/uploads/2017/09" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2018/03" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2017/11" />
       <recent name="$PROJECT_DIR$/src/img/uploads/2017/11" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2017/10" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/uploads/2017/09" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -744,7 +739,8 @@
       <workItem from="1521213202638" duration="606000" />
       <workItem from="1521214143614" duration="2214000" />
       <workItem from="1521444248981" duration="429000" />
-      <workItem from="1521610116614" duration="1426000" />
+      <workItem from="1521610116614" duration="1712000" />
+      <workItem from="1522040939294" duration="6152000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1499534222252</created>
@@ -949,11 +945,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521613726786</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="pages">
+      <created>1521613758116</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1521613758116</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73588000" />
+    <option name="totallyTimeSpent" value="80026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="23" width="1384" height="797" extended-state="0" />
@@ -978,8 +981,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33048433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25558868" sideWeight="0.35881105" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25558868" sideWeight="0.641189" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.096125185" sideWeight="0.36942676" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.096125185" sideWeight="0.6305733" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1013,11 +1016,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2017/03/monitoring_1-100x158.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/uploads/2017/03/monitoring_1-150x150.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1366,7 +1364,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="290">
+          <first_editor relative-caret-position="870">
             <caret line="58" column="61" lean-forward="false" selection-start-line="58" selection-start-column="61" selection-end-line="58" selection-end-column="61" />
             <folding>
               <marker date="1521216249475" expanded="true" signature="1851:1994" ph="{...}" />
@@ -1379,8 +1377,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
+          <first_editor relative-caret-position="-26">
             <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2310">
+            <caret line="154" column="60" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
