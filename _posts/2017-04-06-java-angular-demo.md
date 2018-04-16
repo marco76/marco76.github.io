@@ -19,6 +19,27 @@ tags:
   - Java EE
   - Rest Services
 ---
+
+### Update 04.2018 : Angular with Java EE / Spring and Kubernetes
+
+After a long sleep the web demo <http://www.javademo.io> will receive regular updates.
+
+The new architecture is more is more Microservices oriented.
+
+The frontend is in Angular (the latest and coolest version), Bootstrap and Material Design and the backend is in the cloud using Kubernetes (and Docker containers) and is a mix of Java EE / Microprofile, Spring and Cloud functions (Node.js).
+
+The goal is to have a Show Case of a modern Enterprise Architecture.
+
+The demo is self documented. If you have any request, please contact me.
+
+The new architecture:
+
+<img src="https://storage.googleapis.com/javademo-166015.appspot.com/img/current.png" />
+
+... and the old one (war deployed in JBoss):
+
+<img src="https://storage.googleapis.com/javademo-166015.appspot.com/img/previous.png" />
+
 ### Java EE and Angular Demo
 
 Web demo: <http://javademo.io> GitHub : <https://github.com/marco76/java-demo>
