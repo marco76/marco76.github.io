@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-04-08-deploy-angular-google-cloud.md" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="236">
+              <first_editor relative-caret-position="525">
                 <caret line="35" column="67" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="67" />
                 <folding>
                   <marker date="1521216249475" expanded="true" signature="1851:1994" ph="{...}" />
@@ -61,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-187">
+              <first_editor relative-caret-position="210">
                 <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
                 <folding />
               </first_editor>
@@ -70,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-04-06-java-angular-demo.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-04-06-java-angular-demo.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="173">
+              <first_editor relative-caret-position="1200">
                 <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
                 <folding />
               </first_editor>
@@ -83,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -267,7 +266,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
+    <option name="x" value="56" />
     <option name="y" value="23" />
     <option name="width" value="1384" />
     <option name="height" value="793" />
@@ -288,8 +287,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -346,8 +343,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -730,7 +729,9 @@
       <workItem from="1523282743950" duration="5088000" />
       <workItem from="1523385800826" duration="398000" />
       <workItem from="1523655463343" duration="519000" />
-      <workItem from="1523798938521" duration="1477000" />
+      <workItem from="1523798938521" duration="1544000" />
+      <workItem from="1523939801352" duration="689000" />
+      <workItem from="1524040782232" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1499534222252</created>
@@ -977,14 +978,22 @@
       <option name="project" value="LOCAL" />
       <updated>1523861822610</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="pages">
+      <created>1523861927135</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1523861927135</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87534000" />
+    <option name="totallyTimeSpent" value="88734000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="23" width="1384" height="793" extended-state="0" />
+    <frame x="56" y="23" width="1384" height="793" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1006,10 +1015,9 @@
       <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33048433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33094555" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16244411" sideWeight="0.25053534" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16244411" sideWeight="0.7494647" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33094555" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16244411" sideWeight="0.27623126" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16244411" sideWeight="0.7237687" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1020,6 +1028,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1321,7 +1330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1363,29 +1371,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-            <folding>
-              <marker date="1520233801975" expanded="true" signature="2426:3116" ph="{...}" />
-              <marker date="1520233801975" expanded="true" signature="2460:2620" ph="{...}" />
-              <marker date="1520233801975" expanded="true" signature="2655:2775" ph="{...}" />
-              <marker date="1520233801975" expanded="true" signature="2697:2703" ph="{" />
-              <marker date="1520233801975" expanded="true" signature="2770:2773" ph="}" />
-              <marker date="1520233801975" expanded="true" signature="2805:2902" ph="{...}" />
-              <marker date="1520233801975" expanded="true" signature="3021:3113" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="236">
+          <first_editor relative-caret-position="525">
             <caret line="35" column="67" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="67" />
             <folding>
               <marker date="1521216249475" expanded="true" signature="1851:1994" ph="{...}" />
@@ -1400,18 +1389,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1269">
             <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-deploy-angular-google-cloud.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="84">
-            <caret line="27" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1420,7 +1397,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-187">
+          <first_editor relative-caret-position="210">
             <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
             <folding />
           </first_editor>
@@ -1431,9 +1408,29 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="173">
+          <first_editor relative-caret-position="1200">
             <caret line="80" column="26" lean-forward="false" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-deploy-angular-google-cloud.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="32" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <folding>
+              <marker date="1520233801975" expanded="true" signature="2426:3116" ph="{...}" />
+              <marker date="1520233801975" expanded="true" signature="2460:2620" ph="{...}" />
+              <marker date="1520233801975" expanded="true" signature="2655:2775" ph="{...}" />
+              <marker date="1520233801975" expanded="true" signature="2697:2703" ph="{" />
+              <marker date="1520233801975" expanded="true" signature="2770:2773" ph="}" />
+              <marker date="1520233801975" expanded="true" signature="2805:2902" ph="{...}" />
+              <marker date="1520233801975" expanded="true" signature="3021:3113" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
