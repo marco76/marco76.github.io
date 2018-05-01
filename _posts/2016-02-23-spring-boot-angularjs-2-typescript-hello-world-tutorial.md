@@ -44,23 +44,23 @@ The goals are the following:
 
 The project is more ambitious than a simple hello world and will require a bit of time to be developed in the free time.
 
-You can find a first demo here:
-[molteni.io](http://molteni.io)
+You can find a first demo here (everything has been integrated in this demo):
+~~[molteni.io](http://molteni.io)~~ [javademo.io](javademo.io)
 
 The code is here:
 [https://github.com/marco76/spriNGdemo](https://github.com/marco76/spriNGdemo)
 
-There is a Jenkins job that build the project here:
-[http://springdemo.io:8081/job/spring-demo-pipeline/](http://springdemo.io:8081/job/spring-demo-pipeline/)
+~~There is a Jenkins job that build the project here:~~
+~~[http://springdemo.io:8081/job/spring-demo-pipeline/](http://springdemo.io:8081/job/spring-demo-pipeline/)~~
 
-A quality analysis with SonarQube:
-[SonarQube](http://springdemo.io:9000/dashboard?id=spring-ng-demo%3Aparent%3Acandidate)
+~~A quality analysis with SonarQube:~~
+~~[SonarQube](http://springdemo.io:9000/dashboard?id=spring-ng-demo%3Aparent%3Acandidate)~~
 
-And a Docker deploy:
-[molteni.io](http://molteni.io)
+~~And a Docker deploy:~~
+~~[molteni.io](http://molteni.io)~~
 
-The [Java EE Demo](http://javademo.io) will be updated in the future.
-The [springdemo.io](http://springdemo.io) won't be updated and will be replaced by the current molteni.io.
+~~The [Java EE Demo](http://javademo.io) will be updated in the future.~~
+~~The [springdemo.io](http://springdemo.io) won't be updated and will be replaced by the current molteni.io.~~
 
 _Update Apr. 11, 2017_ _Spring Boot 2.0 Angular Demo *I update the **Spring** Demo. The new demo uses Spring Boot 2.0 (beta) and Angular 4. Website: <http://springdemo.io> GitHub: <https://github.com/marco76/spriNGdemo> The old Spring example is here : <http://angular.cafe> , [GitHub](https://github.com/marco76/SpringAngular2TypeScript) *Java EE Angular Demo_ Because Java has a rich and wonderful community there is a similar demo for **Java EE** You can find the Angular 4 and Java EE demo here: <http://javademo.io> Post: <http://javaee.ch/2017/04/06/java-angular-demo/> GitHub: <https://github.com/marco76/java-demo>
 
