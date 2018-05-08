@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-anguler.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-anguler.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-angular.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -117,8 +117,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-05-05-import-javascript-in-anguler.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-anguler.md">
+      <file leaf-file-name="2018-05-05-import-javascript-in-angular.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-angular.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="15">
@@ -133,8 +133,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               </first_editor>
               <second_editor />
             </state>
@@ -165,8 +165,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="480">
-                <caret line="32" selection-start-line="31" selection-end-line="32" />
+              <first_editor relative-caret-position="666">
+                <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
                 <folding>
                   <marker date="1520233801975" expanded="true" signature="2426:3116" ph="{...}" />
                   <marker date="1520233801975" expanded="true" signature="2460:2620" ph="{...}" />
@@ -333,6 +333,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -391,7 +392,6 @@
       </pane>
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -750,7 +750,8 @@
       <workItem from="1523939801352" duration="689000" />
       <workItem from="1524040782232" duration="444000" />
       <workItem from="1525150051338" duration="811000" />
-      <workItem from="1525529082873" duration="2181000" />
+      <workItem from="1525529082873" duration="3291000" />
+      <workItem from="1525812125721" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1499534222252</created>
@@ -1018,40 +1019,46 @@
       <option name="project" value="LOCAL" />
       <updated>1525529700483</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="pages">
+      <created>1525670252593</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1525670252593</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91726000" />
+    <option name="totallyTimeSpent" value="92980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1384" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.49109414" side_tool="true" weight="0.1438152" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="NativeScript" order="8" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.33048433" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33045977" />
-      <window_info id="Gulp" order="2" sideWeight="0.2811159" side_tool="true" visible="true" weight="0.16244411" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7188841" visible="true" weight="0.16244411" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Gulp" order="2" sideWeight="0.098712444" side_tool="true" visible="true" weight="0.29955292" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.90128756" visible="true" weight="0.29955292" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.49109414" side_tool="true" weight="0.1438152" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Flutter Inspector" order="4" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32909605" />
@@ -1063,6 +1070,7 @@
       <window_info anchor="right" id="Flutter Outline" order="4" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1364,11 +1372,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="240">
             <caret line="16" column="8" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="8" />
-            <folding>
-              <marker date="1520319680062" expanded="true" signature="5747:5839" ph="@{...}" />
-              <marker date="1520319680062" expanded="false" signature="5918:5932" ph=" { " />
-              <marker date="1520319680062" expanded="false" signature="5979:5989" ph=" }" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1428,25 +1431,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-08-deploy-angular-google-cloud.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" selection-start-line="31" selection-end-line="32" />
-            <folding>
-              <marker date="1520233801975" expanded="true" signature="2426:3116" ph="{...}" />
-              <marker date="1520233801975" expanded="true" signature="2460:2620" ph="{...}" />
-              <marker date="1520233801975" expanded="true" signature="2655:2775" ph="{...}" />
-              <marker date="1520233801975" expanded="true" signature="2697:2703" ph="{" />
-              <marker date="1520233801975" expanded="true" signature="2770:2773" ph="}" />
-              <marker date="1520233801975" expanded="true" signature="2805:2902" ph="{...}" />
-              <marker date="1520233801975" expanded="true" signature="3021:3113" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1512,7 +1496,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-anguler.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="666">
+            <caret line="74" column="1" lean-forward="true" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+            <folding>
+              <marker date="1520233801975" expanded="true" signature="2426:3116" ph="{...}" />
+              <marker date="1520233801975" expanded="true" signature="2460:2620" ph="{...}" />
+              <marker date="1520233801975" expanded="true" signature="2655:2775" ph="{...}" />
+              <marker date="1520233801975" expanded="true" signature="2697:2703" ph="{" />
+              <marker date="1520233801975" expanded="true" signature="2770:2773" ph="}" />
+              <marker date="1520233801975" expanded="true" signature="2805:2902" ph="{...}" />
+              <marker date="1520233801975" expanded="true" signature="3021:3113" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-angular.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="15">
@@ -1525,8 +1528,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>

@@ -6,7 +6,7 @@ author: Marco Molteni
 layout: post
 main-class: 'Angular'
 color: '#7AAB13'
-permalink: /2018/05/05/import-javascript-in-angular/
+permalink: /2018/05/05/basic-seo-for-angular/
 categories:
   - Angular
   - SEO
