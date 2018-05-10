@@ -1,12 +1,11 @@
 # Site settings
 title: Modern architectures
-description: Java, Angular, React
+description: Java and Angular
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javaee.ch"
 repository_url: "https://github.com/marco76/marco76.github.io/blob/master/"
 
-warning: "July 2017: Migration from Wordpress to Jekyll. Possible issues. The comments are not migrated"
-news: "New tutorials apps! Java, Angular and Bootstrap : [javademo.io](http://javademo.io)"
+news: "New tutorials apps! Java and Angular : [javademo.io](http://javademo.io)"
 # User settings
 username: marco
 user_description: Marco freelance architect and developer
