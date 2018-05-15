@@ -1,7 +1,7 @@
 ---
 title: 'New AV Components for your development'
 description: ''
-date: 2018-05-15T10:41:48+00:00
+date: 2018-05-15T00:41:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'angular'
@@ -23,6 +23,10 @@ I'm building some custom components based on Angular material with the goal to s
 
 You can have a preview of the Autocomplete and Chip here:
 https://stackblitz.com/edit/angular-paq8lk
+
+You can find the components on NPMjs: https://www.npmjs.com/package/@molteni/av-components
+
+... and on GitHub: https://github.com/marco76/av-components
 
 
 # AV Table
