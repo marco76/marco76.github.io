@@ -1,12 +1,12 @@
 ---
 title: 'Starting a new Angular project - I wish I knew'
 description: ''
-date: 2018-05-15T10:41:48+00:00
+date: 2018-05-16T10:41:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'angular'
 color: '#7AAB13'
-permalink: /new-angular-project-i-wish-i-knew/
+permalink: /2018/05/16/new-angular-project-i-wish-i-knew/
 categories:
   - Angular
 tags:
@@ -14,7 +14,7 @@ tags:
  
 image: '/assets/img/'
 
-introduction: 'Lessons learned'
+introduction: 'Lessons learned from previous projects'
 ---
 
 # A new Angular project a new opportunity to improve quality
