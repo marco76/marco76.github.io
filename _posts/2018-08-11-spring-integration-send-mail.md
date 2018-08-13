@@ -14,7 +14,7 @@ tags:
  
 image: '/assets/img/'
 
-introduction: 'How to send mail using Spring Integration and create smtp unit tests'
+introduction: 'How to send email using Spring Integration and create smtp unit tests'
 ---
 
 # Spring Integration email sender
