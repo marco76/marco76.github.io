@@ -1,5 +1,5 @@
 ---
-title: 'Spring Integration send mail'
+title: 'Spring Integration mail'
 description: ''
 date: 2018-08-11T10:41:48+00:00
 author: Marco Molteni
@@ -17,7 +17,7 @@ image: '/assets/img/'
 introduction: 'How to send email using Spring Integration and create smtp unit tests'
 ---
 
-# Spring Integration email sender
+# How to send email using Spring Integration and create smtp unit tests
 
 I'm working more and more often with Spring Integration and I find it great. The only problem is that most of the basic examples are based on the XML configuration and my projects are more annotation/dsl oriented.
 
@@ -209,11 +209,6 @@ Dumbster as fake smtp:
  <dependency>
     <groupId>org.springframework.integration</groupId>
     <artifactId>spring-integration-mail</artifactId>
- </dependency>
- 
- <dependency>
-   <groupId>org.springframework.integration</groupId>
-   <artifactId>spring-integration-http</artifactId>
  </dependency>
 ```
 
