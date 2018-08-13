@@ -21,7 +21,7 @@ introduction: 'How to send email using Spring Integration and create smtp unit t
 
 I'm working more and more often with Spring Integration and I find it great. The only problem is that most of the basic examples are based on the XML configuration and my projects are more annotation/dsl oriented.
 
-This is the first of a series of articles about some use cases of Spring Integration. The examples will be integrated in the javademo.io website.
+This is the first of a series of demos about some use cases of Spring Integration. The examples will be integrated in the javademo.io website.
 
 As usual the goal of these articles is to remember how to implement the solution in the future (it's kind of funny to look for a solution on the web and find your own article written 4 or 5 year before).
 
