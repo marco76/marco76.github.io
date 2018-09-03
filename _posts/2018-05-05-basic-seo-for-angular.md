@@ -7,6 +7,8 @@ layout: post
 main-class: 'Angular'
 color: '#7AAB13'
 permalink: /2018/05/05/basic-seo-for-angular/
+redirect_to:
+- https://www.ngjava.com/basic-seo-for-angular/
 categories:
   - Angular
   - SEO

@@ -7,6 +7,8 @@ layout: post
 main-class: 'mobile'
 color: '#7AAB13'
 permalink: /2018/03/26/angular-java-mobile-framework/
+redirect_to:
+- https://www.ngjava.com/angular-java-mobile-framework/
 categories:
   - Angular
   - TypeScript

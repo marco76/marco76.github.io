@@ -1,4 +1,7 @@
 ---
+redirect_to:
+  - https://www.ngjava.com/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations/
+permalink: /2013/10/27/spring-boot-batch-tutorial-using-mysql-jpa-and-annotations/
 title: 'Spring Boot : Batch tutorial using MySQL, JPA and annotations'
 date: 2013-10-27T17:32:51+00:00
 author: Marco Molteni

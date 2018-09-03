@@ -1,5 +1,7 @@
 ---
 title: 'Spring Boot: REST controller Test example'
+redirect_to:
+- https://www.ngjava.com/spring-boot-test-controller/
 description: 'How to test the @RestController'
 date: 2017-10-01T01:41:48+00:00
 author: Marco Molteni

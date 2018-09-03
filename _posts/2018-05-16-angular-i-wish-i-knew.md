@@ -7,6 +7,8 @@ layout: post
 main-class: 'angular'
 color: '#7AAB13'
 permalink: /2018/05/16/new-angular-project-i-wish-i-knew/
+redirect_to:
+- https://www.ngjava.com/new-angular-project-i-wish-i-knew/
 categories:
   - Angular
 tags:

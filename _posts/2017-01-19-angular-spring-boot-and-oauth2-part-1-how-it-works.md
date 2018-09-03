@@ -5,6 +5,8 @@ author: Marco Molteni
 layout: post
 guid: http://javaee.ch/?p=768
 permalink: /2017/01/19/angular-spring-boot-and-oauth2-part-1-how-it-works/
+redirect_to:
+  - https://www.ngjava.com/angular-spring-boot-and-oauth2-part-1-how-it-works/
 dsq_thread_id:
   - "5565739147"
 categories:

@@ -7,6 +7,8 @@ layout: post
 main-class: 'typescript'
 color: '#7AAB13'
 permalink: /2018/03/16/google-maps-typescript/
+redirect_to:
+- https://www.ngjava.com/google-maps-typescript/
 categories:
   - Angular
   - TypeScript

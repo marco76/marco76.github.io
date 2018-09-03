@@ -8,6 +8,8 @@ layout: post
 main-class: 'javaee'
 color: '#7AAB13'
 permalink: /2017/04/19/java-ee-8-cdi-2-0-and-observers/
+redirect_to:
+  - https://www.ngjava.com/java-ee-8-cdi-2-0-and-observers/
 categories:
   - Java
   - Java EE

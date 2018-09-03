@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/highlight.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-04-20-spring-integration-hello-world-tutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2013-04-20-spring-integration-hello-world-tutorial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-19-angular-spring-boot-and-oauth2-part-1-how-it-works.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-01-19-angular-spring-boot-and-oauth2-part-1-how-it-works.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-11-send-and-image-from-the-java-backend-to-angular-using-rest-services.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-02-11-send-and-image-from-the-java-backend-to-angular-using-rest-services.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-09-spring-boot-user-authorization-with-properties.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-07-09-spring-boot-user-authorization-with-properties.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-02-spring-test-rest-controller.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-10-02-spring-test-rest-controller.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-11-21-java-cache-hazelcast.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-11-21-java-cache-hazelcast.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-04-26-deploy-java-angular-one.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-26-deploy-java-angular-one.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-04-30-deploy-spring-boot-with-docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-04-30-deploy-spring-boot-with-docker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-angular.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-angular.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-07-24-angular-master-detail-table.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-24-angular-master-detail-table.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-08-11-spring-integration-send-mail.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-11-spring-integration-send-mail.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styl/_hightlight.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/styl/_hightlight.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styl/main.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/styl/main.styl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,25 +42,33 @@
     <session id="1927190886">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="4460" />
-          <entry key="styl" value="2" />
+          <entry key="css" value="4" />
+          <entry key="md" value="4505" />
+          <entry key="scss" value="8" />
+          <entry key="styl" value="28" />
           <entry key="txt" value="12" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="4460" />
+          <entry key="CSS" value="4" />
+          <entry key="Markdown" value="4505" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Stylus" value="2" />
+          <entry key="SCSS" value="8" />
+          <entry key="Stylus" value="28" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -47,36 +81,38 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="30" />
-          <entry key="md" value="11" />
-          <entry key="scss" value="13" />
-          <entry key="styl" value="3" />
+          <entry key="css" value="2" />
+          <entry key="html" value="39" />
+          <entry key="json" value="1" />
+          <entry key="md" value="56" />
+          <entry key="scss" value="15" />
+          <entry key="styl" value="11" />
           <entry key="svg" value="2" />
-          <entry key="yml" value="1" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="30" />
-          <entry key="Markdown" value="11" />
-          <entry key="SCSS" value="13" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="39" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="56" />
+          <entry key="SCSS" value="15" />
           <entry key="SVG" value="2" />
-          <entry key="Stylus" value="3" />
-          <entry key="YAML" value="1" />
+          <entry key="Stylus" value="11" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="167">
-                <caret line="29" column="77" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="62" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,7 +120,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-11-spring-boot-react-hello-world-tutorial.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-133" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-09-spring-boot-user-authorization-with-properties.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="79" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="59" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="87" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="87" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2013-04-20-spring-integration-hello-world-tutorial.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-09-spring-boot-angular.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -94,17 +188,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-30-deploy-spring-boot-with-docker.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-09-online-assessment.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-868" />
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-04-26-deploy-java-angular-one.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-16-font-awesome-angular.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="-286" />
@@ -114,23 +208,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styl/_hightlight.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-13-cors-angular-java.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>React</find>
-      <find>Java, angular</find>
-      <find>java, angular and react</find>
-      <find>disqus</find>
-      <find>comments</find>
       <find>poll</find>
       <find>all1913492</find>
       <find>spring_test_</find>
@@ -156,6 +253,11 @@
       <find>http</find>
       <find>send</find>
       <find>smtp</find>
+      <find>hil</find>
+      <find>highlight</find>
+      <find>plugin</find>
+      <find>Batch tutorial using MySQL, JPA and annotations</find>
+      <find>int</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
@@ -182,21 +284,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md" />
-        <option value="$PROJECT_DIR$/_posts/2013-08-04-spring-batch-tutorial-how-to-import-all-the-stock-symbols-from-flat-files.md" />
-        <option value="$PROJECT_DIR$/src/pages/spring-boot-java-best-practices.md" />
-        <option value="$PROJECT_DIR$/src/pages/quotes.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-07-16-font-awesome-angular.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-07-13-cors-angular-java.md" />
-        <option value="$PROJECT_DIR$/src/styl/_post.styl" />
-        <option value="$PROJECT_DIR$/src/styl/_menu.styl" />
-        <option value="$PROJECT_DIR$/src/styl/_header.styl" />
-        <option value="$PROJECT_DIR$/quotes.md" />
-        <option value="$PROJECT_DIR$/spring-boot-java-best-practices.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-02-20-better-performance-with-smaller-and-faster-angular-applications-using-spring-boot-and-tomcat.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-02-23-spring-boot-angularjs-2-typescript-hello-world-tutorial.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2017-09-10-spring-boot-angular.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-09-spring-boot-angular.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-18-java-jenkins-pipeline.md" />
@@ -206,19 +293,12 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_site/2007/06/26/jsf-commandlink-and-datatable-a-small-nightmare/index.html" />
         <option value="$PROJECT_DIR$/_includes/comments.html" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-21-java-cache-hazelcast.md" />
         <option value="$PROJECT_DIR$/_site/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-26-angular-java-which-mobile.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-08-deploy-angular-google-cloud.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-anguler.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md" />
         <option value="$PROJECT_DIR$/_layouts/minimal.html" />
         <option value="$PROJECT_DIR$/_includes/social.html" />
         <option value="$PROJECT_DIR$/_includes/header-post.html" />
@@ -226,13 +306,35 @@
         <option value="$PROJECT_DIR$/_includes/author.html" />
         <option value="$PROJECT_DIR$/_posts/2018-05-15-angular-autocomplete.md" />
         <option value="$PROJECT_DIR$/_posts/angular-i-wish-i-knew.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-07-24-angular-master-detail-table.md" />
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/_posts/2018-08-11-spring-integration-mail-sender.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-08-11-spring-integration-send-mail.md" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/src/styl/_hightlight.styl" />
+        <option value="$PROJECT_DIR$/src/styl/main.styl" />
+        <option value="$PROJECT_DIR$/assets/css/highlight.scss" />
+        <option value="$PROJECT_DIR$/assets/css/style.scss" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-21-java-cache-hazelcast.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-26-deploy-java-angular-one.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-30-deploy-spring-boot-with-docker.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-angular.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-24-angular-master-detail-table.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-11-spring-integration-send-mail.md" />
         <option value="$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-11-send-and-image-from-the-java-backend-to-angular-using-rest-services.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-01-19-angular-spring-boot-and-oauth2-part-1-how-it-works.md" />
+        <option value="$PROJECT_DIR$/_posts/2013-04-20-spring-integration-hello-world-tutorial.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-09-spring-boot-user-authorization-with-properties.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md" />
       </list>
     </option>
   </component>
@@ -264,7 +366,6 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
     <option name="y" value="23" />
     <option name="width" value="1384" />
     <option name="height" value="793" />
@@ -275,7 +376,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,56 +395,21 @@
               <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="category" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535750489723" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536004898410" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -570,14 +637,9 @@
       <workItem from="1533992591594" duration="2677000" />
       <workItem from="1534093754743" duration="109000" />
       <workItem from="1534094159422" duration="4870000" />
-      <workItem from="1535747877985" duration="2541000" />
-    </task>
-    <task id="LOCAL-00003" summary="init">
-      <created>1499539751722</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1499539751722</updated>
+      <workItem from="1535747877985" duration="2806000" />
+      <workItem from="1535807418824" duration="5110000" />
+      <workItem from="1535987693339" duration="5091000" />
     </task>
     <task id="LOCAL-00004" summary="init">
       <created>1499540352807</created>
@@ -915,24 +977,31 @@
       <option name="project" value="LOCAL" />
       <updated>1534193842478</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="pre template">
+      <created>1535750514184</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1535750514186</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119069000" />
+    <option name="totallyTimeSpent" value="129535000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="132" width="1384" height="793" extended-state="0" />
+    <frame x="0" y="23" width="1384" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8804781" visible="true" weight="0.27537313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.874502" visible="true" weight="0.27537313" />
       <window_info id="Structure" order="1" sideWeight="0.49109414" side_tool="true" weight="0.1438152" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="UI Designer" order="6" />
-      <window_info id="Gulp" order="7" sideWeight="0.119521916" side_tool="true" visible="true" weight="0.27537313" />
+      <window_info id="Gulp" order="7" sideWeight="0.12549801" side_tool="true" visible="true" weight="0.27537313" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
@@ -943,7 +1012,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28388017" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32909605" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.33048433" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32952926" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
       <window_info anchor="bottom" id="NativeScript" order="12" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -982,72 +1051,66 @@
     <option name="LAST_COMMIT_MESSAGE" value="pre template" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/scss/base/_buttons.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/scss/base/_typography.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/scss/main.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/scss/_layout.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/scss/_variables.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/scss/base/_base.scss" />
-    <entry file="file://$PROJECT_DIR$/_layouts/old/compress.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/old/default.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/old/minimal.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/old/page.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/old/post.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/old/author.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/old/comments.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/old/footer.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/old/head.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/old/header-default.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/old/header-post.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/old/menu-search.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/old/share.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/old/social.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/old/svg-icons.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/post-share.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/pagination.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/nav.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/intro.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/icon-twitter.svg" />
-    <entry file="file://$PROJECT_DIR$/_includes/icon-github.svg" />
-    <entry file="file://$PROJECT_DIR$/_includes/header.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/github-corner.html" />
-    <entry file="file://$PROJECT_DIR$/assets/css/main.scss" />
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/_includes/header-default.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/_includes/header-post.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-11-spring-integration-send-mail.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="276">
-            <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/_includes/menu-search.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/css.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styl/_post.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="397">
+          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/src/styl/_theme-colors.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styl/_hightlight.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styl/main.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/highlight.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/category/angular.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9168" selection-start-line="1" selection-start-column="9168" selection-end-line="1" selection-end-column="9168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styl/_home.styl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styl/_variables.styl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/styl/_author.styl">
@@ -1056,30 +1119,17 @@
     <entry file="file://$PROJECT_DIR$/src/styl/_elements.styl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styl/_hightlight.styl">
+    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="352">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-30-deploy-spring-boot-with-docker.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-868" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-26-deploy-java-angular-one.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-286" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2007-06-26-jsf-commandlink-and-datatable-a-small-nightmare.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1087,10 +1137,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-angular.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2009-03-06-spring-jsf-tutorial.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="-748" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2009-03-06-spring-split-the-application-context.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-18" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-03-23-minimal-jsf-java-ee-6-project.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/search.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="460" column="93" selection-start-line="460" selection-start-column="93" selection-end-line="460" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-10-27-spring-boot-batch-tutorial-using-mysql-jpa-and-annotations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" selection-start-line="1" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-21-java-cache-hazelcast.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="59" selection-start-line="9" selection-end-line="10" selection-end-column="59" />
+            <folding>
+              <element signature="e#172#173#0" expanded="true" />
+              <element signature="e#242#243#0" expanded="true" />
+            </folding>
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -1098,17 +1197,39 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-03-16-random-coordinates-with-typescript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="179">
-            <caret line="36" lean-forward="true" selection-start-line="35" selection-end-line="36" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="48" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1123" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-26-deploy-java-angular-one.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="10" selection-end-column="49" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -1116,8 +1237,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-15-angular-autocomplete.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-28">
+          <first_editor relative-caret-position="120">
             <caret line="8" column="23" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="59" />
           </first_editor>
           <second_editor />
         </state>
@@ -1126,7 +1257,9 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-24-angular-master-detail-table.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-748" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="53" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -1134,8 +1267,176 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="167">
-            <caret line="29" column="77" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="45" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-angular.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="53" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-05-basic-seo-for-angular.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="46" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-30-deploy-spring-boot-with-docker.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="50" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-11-send-and-image-from-the-java-backend-to-angular-using-rest-services.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" selection-start-line="8" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-06-configure-bootstrap-with-angular-2-webpack-and-spring-tutorial.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-19-angular-spring-boot-and-oauth2-part-1-how-it-works.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="40" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-11-spring-integration-send-mail.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="54" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-04-20-spring-integration-hello-world-tutorial.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-09-spring-boot-angular.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-09-online-assessment.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-16-font-awesome-angular.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-286" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-13-cors-angular-java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-17-java-jenkins-pipeline.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="62" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-11-spring-boot-react-hello-world-tutorial.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-133" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-09-spring-boot-user-authorization-with-properties.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="79" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="87" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="87" />
           </first_editor>
           <second_editor />
         </state>

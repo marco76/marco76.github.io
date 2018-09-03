@@ -7,6 +7,8 @@ layout: post
 main-class: 'typescript'
 color: '#7AAB13'
 permalink: /2018/03/21/javascript-array-utils/
+redirect_to:
+- https://www.ngjava.com/javascript-array-utils/
 categories:
   - Angular
   - TypeScript

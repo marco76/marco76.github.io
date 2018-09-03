@@ -7,6 +7,8 @@ layout: post
 main-class: 'spring'
 color: '#7AAB13'
 permalink: /2018/08/11/spring-integration-send-mail/
+redirect_to:
+- https://www.ngjava.com/spring-integration-send-mail/
 categories:
   - Spring
 tags:

@@ -7,6 +7,8 @@ layout: post
 main-class: 'spring'
 color: '#7AAB13'
 permalink: /2018/08/30/spring-boot-logging-level/
+redirect_to:
+- https://www.ngjava.com/spring-boot-logging-level/
 categories:
   - Spring
 tags:
