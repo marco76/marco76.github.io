@@ -6,6 +6,8 @@ author: Marco Molteni
 layout: post
 guid: http://molteni.wordpress.com/?p=24
 permalink: /2009/03/07/spring-configuration-file/
+redirect_to:
+- https://www.ngjava.com/spring-configuration-file/
 categories:
   - java
   - Spring

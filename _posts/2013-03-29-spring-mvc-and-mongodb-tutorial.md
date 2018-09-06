@@ -6,6 +6,8 @@ author: Marco Molteni
 layout: post
 guid: https://molteni.wordpress.com/?p=278
 permalink: /2013/03/29/spring-mvc-and-mongodb-tutorial/
+redirect_to:
+- https://www.ngjava.com/spring-mvc-and-mongodb-tutorial/
 jabber_published:
   - "1364580292"
   - "1364580292"
