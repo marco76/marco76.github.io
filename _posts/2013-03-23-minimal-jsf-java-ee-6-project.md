@@ -6,6 +6,8 @@ author: Marco Molteni
 layout: post
 guid: http://javaee.ch/?p=238
 permalink: /2013/03/23/minimal-jsf-java-ee-6-project/
+redirect_to:
+- https://www.ngjava.com/minimal-jsf-java-ee-6-project/
 original_post_id:
   - "238"
 categories:
