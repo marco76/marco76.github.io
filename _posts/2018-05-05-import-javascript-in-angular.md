@@ -7,8 +7,6 @@ layout: post
 main-class: 'Angular'
 color: '#7AAB13'
 permalink: /2018/05/05/import-javascript-in-angular/
-redirect_to:
-- https://www.ngjava.com/import-javascript-in-angular/
 categories:
   - Angular
   - Javascript

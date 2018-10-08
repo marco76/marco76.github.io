@@ -7,8 +7,6 @@ layout: post
 main-class: 'spring'
 color: '#7AAB13'
 permalink: /2017/11/24/spring-cache-hazelcast/
-redirect_to:
-- https://www.ngjava.com/spring-boot-caching-and-hazelcast/
 categories:
   - Angular
   - Java

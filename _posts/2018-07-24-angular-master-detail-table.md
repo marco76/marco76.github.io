@@ -7,8 +7,6 @@ layout: post
 main-class: 'angular'
 color: '#7AAB13'
 permalink: /2018/07/24/angular-master-detail-table/
-redirect_to:
-- https://www.ngjava.com/angular-master-detail-table/
 categories:
   - Angular
 tags:

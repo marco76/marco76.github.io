@@ -7,8 +7,6 @@ layout: post
 main-class: 'spring'
 color: '#7AAB13'
 permalink: /2018/04/30/deploy-spring-with-docker/
-redirect_to:
-- https://www.ngjava.com/deploy-spring-with-docker/
 categories:
   - docker
   - Java

@@ -6,8 +6,6 @@ author: Marco Molteni
 layout: post
 guid: http://javaee.ch/?p=985
 permalink: /2017/03/05/angular-and-javascript-export-your-data-to-csv-using-typescript/
-redirect_to:
-- https://www.ngjava.com/angular-and-javascript-export-your-data-to-csv-using-typescript/
 image: /wp-content/uploads/2017/03/excel-100x37.png
 categories:
   - Angular

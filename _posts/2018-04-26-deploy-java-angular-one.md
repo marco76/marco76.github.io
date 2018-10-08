@@ -7,8 +7,6 @@ layout: post
 main-class: 'angular'
 color: '#7AAB13'
 permalink: /2018/04/26/deploy-java-angular-one/
-redirect_to:
-- https://www.ngjava.com/deploy-java-angular-one/
 categories:
   - Angular
   - TypeScript

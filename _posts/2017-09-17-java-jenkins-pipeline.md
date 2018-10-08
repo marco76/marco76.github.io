@@ -1,8 +1,6 @@
 ---
 title: 'Build, test and deploy with Jenkins'
 description: 'One click deploy your Java application'
-redirect_to:
-  - https://www.ngjava.com/build-test-and-deploy-with-jenkins/
 date: 2017-09-17T10:41:48+00:00
 author: Marco Molteni
 layout: post

@@ -7,8 +7,6 @@ layout: post
 main-class: 'javaee'
 color: '#B31917'
 permalink: /2017/04/12/how-to-solve-the-redirection-404-error-in-angular-using-java/
-redirect_to:
-  - https://www.ngjava.com/how-to-solve-the-redirection-404-error-in-angular-using-java/
 image: /wp-content/uploads/2017/03/logo_ang-100x39.png
 categories:
   - Angular

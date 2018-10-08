@@ -7,8 +7,6 @@ layout: post
 main-class: 'angular'
 color: '#7AAB13'
 permalink: /2018/10/10/docker-angular-nginx/
-redirect_to:
-- https://www.ngjava.com/docker-angular-nginx/
 categories:
   - docker
   - Angular

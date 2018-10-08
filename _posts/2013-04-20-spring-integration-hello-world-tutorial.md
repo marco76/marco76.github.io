@@ -6,8 +6,6 @@ author: Marco Molteni
 layout: post
 guid: http://javaee.ch/?p=368
 permalink: /2013/04/20/spring-integration-hello-world-tutorial/
-redirect_to:
-- https://www.ngjava.com/spring-integration-hello-world-tutorial/
 video_type:
   - '#NONE#'
 categories:

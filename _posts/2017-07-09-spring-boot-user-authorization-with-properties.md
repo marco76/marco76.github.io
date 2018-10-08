@@ -7,8 +7,6 @@ layout: post
 main-class: 'spring'
 color: '#7AAB13'
 permalink: /2017/07/09/rest-spring-boot-user-authorization-with-properties/
-redirect_to:
-  - https://www.ngjava.com/rest-spring-boot-user-authorization-with-properties/
 categories:
   - Spring Boot
   - Security

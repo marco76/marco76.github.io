@@ -6,8 +6,6 @@ author: Marco Molteni
 layout: post
 guid: http://molteni.wordpress.com/?p=55
 permalink: /2009/04/01/use-groovy-in-a-spring-jsf-web-application/
-redirect_to:
-- https://www.ngjava.com/use-groovy-in-a-spring-jsf-web-application/
 categories:
   - Groovy
   - java

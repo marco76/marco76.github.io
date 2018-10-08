@@ -7,8 +7,6 @@ layout: post
 main-class: 'spring'
 color: '#7AAB13'
 permalink: /2017/09/09/spring-boot-angular/
-redirect_to:
-  - https://www.ngjava.com/spring-boot-angular-material-hello-world/
 categories:
   - Spring Boot
   - Angular
