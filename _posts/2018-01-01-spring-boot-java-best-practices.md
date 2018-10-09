@@ -2,7 +2,8 @@
 title: Spring Boot best practices
 permalink: java-spring-boot-best-practices/
 layout: post
-
+main-class: 'spring'
+permalink: /spring-boot-best-practices/
 introduction: 'Some tips for your Spring development'
 ---
 
