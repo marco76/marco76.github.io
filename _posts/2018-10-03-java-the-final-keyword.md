@@ -23,7 +23,7 @@ This could be particular dangerous with collections if the developer assume that
 
 The *final* variable will reference always the same Collection Object but it will be possible to add and remove values.
 
-<img src="{{site.baseurl}}/assets/img/uploads/2018/java-final.png" />
+<img src="{{site.baseurl}}/assets/img/uploads/2018/java-final.png" width="500px"/>
 
 The red reference cannot be changed (final). The values of the collection can change.
 The *final* keyword refers to the reference and not to the object.
