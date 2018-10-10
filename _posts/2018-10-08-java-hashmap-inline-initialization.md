@@ -14,7 +14,7 @@ tags:
  
 image: '/assets/img/'
 
-introduction: 'How to initialize an HashMap in a Java lambda expression'
+introduction: 'How to initialize an HashMap inline in a Java lambda expression'
 ---
 
 # Create and initialize HashMap inline in a lambda stream
@@ -48,3 +48,5 @@ new HashMap<String, Object>() { {put("valueText", Object} }
 
 The first brace ({ }) creates an Anonymous Inner Class, the second brace initializes a block inside the Anonymous Inner Class.
 This Java notation is not new but very unusual. 
+
+You can consider to call an external method to generate your hashmap.
