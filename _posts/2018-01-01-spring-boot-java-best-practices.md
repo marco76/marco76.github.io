@@ -9,7 +9,7 @@ introduction: 'Some tips for your Spring development'
 
 _Work in progress, this post is still in 'work in progress' status_
 
-## Injection
+## @Autowired Injection
 ### Avoid field and setter injection
 It should be used only for optional dependencies or in test code.
 
@@ -38,6 +38,14 @@ References
 - Spring Blog: [How not to hate spring in 2016](https://spring.io/blog/2015/11/29/how-not-to-hate-spring-in-2016)
 - Spring Documentation : [Reference](http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/htmlsingle/#beans-constructor-injection)
 
-### Use @Inject in place of @Autowired
-- @Inject is compatible with other containers
-- @Inject allows the declaration of injection points. 
+## Avoid the use of @Value in Spring Boot
+
+Spring Boot introduced the @ConfigurationProperties annotation that is 'far more superior than the basic @Value approach' according to Stéphane Nicoll (Pivotal).
+
+The advantages:
+- You inject only an object a POJO and not a list of fields
+- There is less risk to do typos in the declaration of the property
+- The POJO is TypeSafe and can contain complex structures (e.g. 'database.configuration.mysql.connection') 
+
+Here you can find the documentation:
+- Spring Boot: [Type-safe Configuration Properties](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-external-config-typesafe-configuration-properties) 
