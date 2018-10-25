@@ -29,48 +29,51 @@ You can find all the code on gitHub: <a title="https://github.com/marco76/Sprin
 
 The project is build with maven (and developed using IntelliJ). In the pom.xml you have to import the usual libraries and Spring Integration:
 
-<pre class="brush: xml; title: ; notranslate" title="">&lt;dependency&gt;
-    &lt;groupId&gt;org.springframework.integration&lt;/groupId&gt;
-    &lt;artifactId&gt;spring-integration-core&lt;/artifactId&gt;
-    &lt;version&gt;2.2.3.RELEASE&lt;/version&gt;
-&lt;/dependency&gt;
-</pre>
+```xml
+<dependency>
+    <groupId>org.springframework.integration</groupId>
+    <artifactId>spring-integration-core</artifactId>
+    <version>2.2.3.RELEASE</version>
+</dependency>
+```
 
 The _spring-config.xml_ configure the channels used by the application:
 
-<pre class="brush: xml; title: ; notranslate" title="">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;beans xmlns="http://www.springframework.org/schema/beans"
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:context="http://www.springframework.org/schema/context"
        xmlns:integration="http://www.springframework.org/schema/integration"
        xmlns:beans="http://www.springframework.org/schema/beans"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/integration http://www.springframework.org/schema/integration/spring-integration.xsd"&gt;
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/integration http://www.springframework.org/schema/integration/spring-integration.xsd">
 
-    &lt;context:annotation-config /&gt;
+    <context:annotation-config />
 
-    &lt;context:component-scan base-package="ch.javaee.integration.example.helloWorld"/&gt;
+    <context:component-scan base-package="ch.javaee.integration.example.helloWorld"/>
 
-    &lt;!-- this channel is called by the application and the message is passed to it --&gt;
-    &lt;integration:channel id="inputChannel"/&gt;
+    <!-- this channel is called by the application and the message is passed to it -->
+    <integration:channel id="inputChannel"/>
 
-    &lt;!-- this channel receive the modified message --&gt;
-    &lt;integration:channel id="outputChannel"/&gt;
+    <!-- this channel receive the modified message -->
+    <integration:channel id="outputChannel"/>
 
-    &lt;!-- this service transform the message in input-channel and send the result to output-channel --&gt;
-    &lt;!-- the service method to call is referenced in explicitly --&gt;
-    &lt;integration:service-activator input-channel="inputChannel" ref="helloService" method="sayHello" output-channel="outputChannel"/&gt;
+    <!-- this service transform the message in input-channel and send the result to output-channel -->
+    <!-- the service method to call is referenced in explicitly -->
+    <integration:service-activator input-channel="inputChannel" ref="helloService" method="sayHello" output-channel="outputChannel"/>
 
-    &lt;!-- this service receives a message and pass it to printerService --&gt;
-    &lt;!-- the method that consumes the message is implicitly defined by the @ServiceActivator annotation or it should be the only
-    method in the class --&gt;
-    &lt;integration:service-activator input-channel="outputChannel" ref="printerService"/&gt;
+    <!-- this service receives a message and pass it to printerService -->
+    <!-- the method that consumes the message is implicitly defined by the @ServiceActivator annotation or it should be the only
+    method in the class -->
+    <integration:service-activator input-channel="outputChannel" ref="printerService"/>
 
-&lt;/beans&gt;
-</pre>
+</beans>
+```
 
 We have 2 channels that are used to transfer messages between services. The _service-activator_ wait for messages sent to the _input-channel_ it call a predefined service (ex. _helloService_). If the called service returns a value this value is sent to the _output-channel_.
 
-<pre class="brush: java; title: ; notranslate" title="">/**
+```java
+/**
  * The goal of this example is to show how a message can be sent to one input channel,
  * be transformed by a service, sent to a second channel and consumed by a second service
  */
@@ -84,25 +87,26 @@ public class HelloApp {
         MessageChannel channel = context.getBean("inputChannel", MessageChannel.class);
 
         // create a message with the content "World"
-        Message&lt;String&gt; message = MessageBuilder.withPayload("World").build();
+        Message<String> message = MessageBuilder.withPayload("World").build();
 
         // send the message to the inputChannel
         channel.send(message);
     }
 }
-</pre>
+```
 
 The main class of the application (_HelloApp_) load the spring beans and send a message to the _inputChannel_.
   
 The _service-activator_ read the message and pass it to method _sayHello_ _helloService_:
 
-<pre class="brush: xml; title: ; notranslate" title="">&lt;integration:channel id="inputChannel"/&gt;
- &lt;integration:service-activator input-channel="inputChannel" ref="helloService" method="sayHello" output-channel="outputChannel"/&gt;
-</pre>
+```xml
+<integration:channel id="inputChannel"/>
+<integration:service-activator input-channel="inputChannel" ref="helloService" method="sayHello" output-channel="outputChannel"/>
+```
 
-&nbsp;
 
-<pre class="brush: java; title: ; notranslate" title="">/**
+```java
+/**
  * This service simply modify the original message and return the new message
  */
 @Component
@@ -112,23 +116,24 @@ public class HelloService {
         return "Hello " + name + "!";
     }
 }
-</pre>
+```
 
 HelloService is a simple bean Spring (_@Component_), it doesn&#8217;t know anything about Spring integration.
   
 The method _sayHello_ return a String value (&#8220;Hello &#8221; + &#8220;world&#8221; + &#8220;!&#8221;). Spring send this string to the _output-channel_ defined in the configuration.
 
-<pre class="brush: xml; title: ; notranslate" title="">&lt;integration:channel id="outputChannel"/&gt;
- &lt;integration:service-activator input-channel="outputChannel" ref="printerService"/&gt;
-</pre>
-
+```xml
+<integration:channel id="outputChannel"/>
+<integration:service-activator input-channel="outputChannel" ref="printerService"/>
+```
 In this case we don&#8217;t need to define which method will receive the message. Spring doesn&#8217;t need to explicitly know the name if:
   
 &#8211; there is only one method in the class
   
 &#8211; the method is annotated with @ServiceActivator (as in our case)
 
-<pre class="brush: java; title: ; notranslate" title="">/**
+```java
+/**
  * This service consume the message and print it on the console
  */
 
@@ -143,7 +148,7 @@ public class PrinterService {
         System.out.println(value);
     }
 }
-</pre>
+```
 
 The PrinterService receive the message from _outputChannel_ and print it (&#8220;Hello World!&#8221;) to the console. The method should not return any value to avoid the following error:
   
