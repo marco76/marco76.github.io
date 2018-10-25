@@ -18,42 +18,43 @@ tags:
   - webpack
 ---
 According to the Angular [documentation](https://angular.io/docs/ts/latest/guide/component-styles.html) load an external style file in a component is as easy as :
-
-    template:
-     `
+```typescript
+template:
+    `
         <h2>{{hero.name}}</h2>
         <hero-team [hero]=hero></hero-team>
-         <ng-content></ng-content>
+        <ng-content></ng-content>
     `,
-      styleUrls: ['app/hero-details.component.css']
+styleUrls: ['app/hero-details.component.css']
+```
+    
     
 
 This configuration is challenging when you have building process that include Webpack. In our reference [example application](http://angular.cafe) the call of the css file using `styleUrl`
-
-    @Component({
-        selector: 'cv-experience',
-        templateUrl:'cv-experience.html',
-        styleUrls:['cv.css']
-    })
-    
-
+```typescript
+@Component({
+    selector: 'cv-experience',
+    templateUrl:'cv-experience.html',
+    styleUrls:['cv.css']
+})
+```
+ 
 resulted in this error:
 
-    {'Uncaught Error: Expected 'styles' to be an array of strings. at assertArrayOfStrings (eval at <anonymous> '}
+`{'Uncaught Error: Expected 'styles' to be an array of strings. at assertArrayOfStrings (eval at <anonymous> '}`
     
 
 To solve the issue we had to migrate from Webpack 1.x to the new version 2 and <a href="https://github.com/marco76/SpringAngular2TypeScript" target="_blank">call the css file with the following code</a>:
-
+```typescript
     @Component({
         selector: 'cv-experience',
         templateUrl:'cv-experience.html',
         styles:[require('./cv.css').toString()]
     })
-    
+```    
 
 This is the loader of Webpack
-
+```typescript
     { test: /\.css$/, loader: "style-loader!css-loader" },
     { test: /\.scss$/,loaders: ['style', 'css', 'postcss', 'sass'] }
-
-&nbsp;
+```
