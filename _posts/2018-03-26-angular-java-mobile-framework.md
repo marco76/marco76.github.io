@@ -4,7 +4,7 @@ description: 'Which technology for you next mobile App?'
 date: 2018-03-21T10:41:48+00:00
 author: Marco Molteni
 layout: post
-main-class: 'mobile'
+main-class: 'angular'
 color: '#7AAB13'
 permalink: /2018/03/26/angular-java-mobile-framework/
 categories:

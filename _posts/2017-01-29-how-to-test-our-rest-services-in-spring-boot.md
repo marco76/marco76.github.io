@@ -4,6 +4,7 @@ title: How to test our REST services using Spring Boot?
 date: 2017-01-29T10:47:06+00:00
 author: Marco Molteni
 layout: post
+main-class: 'spring'
 guid: http://javaee.ch/?p=810
 permalink: /2017/01/29/how-to-test-our-rest-services-in-spring-boot/
 dsq_thread_id:

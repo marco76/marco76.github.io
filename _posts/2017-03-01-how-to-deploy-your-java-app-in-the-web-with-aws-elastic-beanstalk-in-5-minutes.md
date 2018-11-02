@@ -4,6 +4,7 @@ title: 'Tutorial : How to deploy your Java app to the web with AWS Elastic Beans
 date: 2017-03-01T01:16:27+00:00
 author: Marco Molteni
 layout: post
+main-class: 'cloud'
 guid: http://javaee.ch/?p=976
 permalink: /2017/03/01/how-to-deploy-your-java-app-in-the-web-with-aws-elastic-beanstalk-in-5-minutes/
 image: /wp-content/uploads/2017/03/beanstalk-100x30.png
@@ -23,7 +24,7 @@ To deploy your Spring Boot app in the web it really takes only 5 minutes thanks 
 
 For the deploy we can choose multiple sources: code, docker image or deployable jar/war. In this example we shows the deploy through a war.
 
-### Ingredients
+### IngredientsF2017-03-19-easy-and-effective
 
   1. a Spring bootable web application (Web Server embedded). For this tutorial I use the demo app : <https://github.com/marco76/SpringAngular2TypeScript>
   2. configure the server.port of your Spring application to 5000. BeanStalk install ngix that redirect the public port 80 of the server to the internal port 5000. You can change application.properties or set a system variable in AWS.

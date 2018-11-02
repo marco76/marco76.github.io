@@ -4,7 +4,7 @@ description: 'Search, replace, remove features for javascript arrays'
 date: 2018-03-21T10:41:48+00:00
 author: Marco Molteni
 layout: post
-main-class: 'typescript'
+main-class: 'angular'
 color: '#7AAB13'
 permalink: /2018/03/21/javascript-array-utils/
 categories:

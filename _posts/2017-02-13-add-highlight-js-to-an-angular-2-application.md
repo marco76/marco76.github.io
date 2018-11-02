@@ -4,6 +4,7 @@ title: Add highlight.js to an Angular 2 application
 date: 2017-02-13T20:44:45+00:00
 author: Marco Molteni
 layout: post
+main-class: 'angular'
 guid: http://javaee.ch/?p=904
 permalink: /2017/02/13/add-highlight-js-to-an-angular-2-application/
 dsq_thread_id:

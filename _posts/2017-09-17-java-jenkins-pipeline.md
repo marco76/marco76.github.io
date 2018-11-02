@@ -4,7 +4,7 @@ description: 'One click deploy your Java application'
 date: 2017-09-17T10:41:48+00:00
 author: Marco Molteni
 layout: post
-main-class: 'devops'
+main-class: 'java'
 color: '#7AAB13'
 permalink: /2017/09/17/build-test-and-deploy-with-jenkins/
 categories:

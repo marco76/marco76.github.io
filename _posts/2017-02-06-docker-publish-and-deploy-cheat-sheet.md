@@ -4,6 +4,7 @@ title: Docker publish and deploy, cheat sheet
 date: 2017-02-06T23:55:47+00:00
 author: Marco Molteni
 layout: post
+main-class: 'cloud'
 guid: http://javaee.ch/?p=870
 permalink: /2017/02/06/docker-publish-and-deploy-cheat-sheet/
 dsq_thread_id:

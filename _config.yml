@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javaee.ch"
 repository_url: "https://github.com/marco76/marco76.github.io/blob/master/"
 
-news: "New tutorials apps! Java and Angular : [javademo.io](http://javademo.io)"
+news: "Java and Angular : [javademo.io](http://javademo.io)"
 # User settings
 username: marco
 user_description: Marco freelance architect and developer
@@ -19,7 +19,6 @@ disqus_username: disqus_A4h38613IE
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-
 
 # html minify
 compress_html:
@@ -42,6 +41,3 @@ links:
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
-
-plugins:
-- jekyll-redirect-from

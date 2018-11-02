@@ -5,6 +5,7 @@ date: 2016-09-27T06:33:48+00:00
 author: Marco Molteni
 layout: post
 guid: http://ngjava.com/?p=73
+main-class: 'spring'
 permalink: /2016/09/27/java-and-angularjs-1-5x-spring-boot-tutorial/
 categories:
   - Demo Application

@@ -4,6 +4,7 @@ title: 'Angular 2: how to import your css file with Webpack without errors'
 date: 2017-02-21T23:10:21+00:00
 author: Marco Molteni
 layout: post
+main-class: 'angular'
 guid: http://javaee.ch/?p=946
 permalink: /2017/02/21/angular-how-to-import-your-css-file-with-webpack-without-errors/
 image: /wp-content/uploads/2017/03/webpack-logo-100x37.png

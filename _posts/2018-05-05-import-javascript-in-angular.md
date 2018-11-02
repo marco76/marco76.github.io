@@ -4,7 +4,7 @@ description: ''
 date: 2018-05-05T10:41:48+00:00
 author: Marco Molteni
 layout: post
-main-class: 'Angular'
+main-class: 'angular'
 color: '#7AAB13'
 permalink: /2018/05/05/import-javascript-in-angular/
 categories:

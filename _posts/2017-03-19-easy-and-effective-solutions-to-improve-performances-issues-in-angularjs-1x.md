@@ -3,6 +3,8 @@ title: Easy and effective solutions to improve performances issues in AngularJS 
 date: 2017-03-19T19:57:07+00:00
 author: Marco Molteni
 layout: post
+main-class: 'angular'
+
 permalink: /2017/03/19/easy-and-effective-solutions-to-improve-performances-issues-in-angularjs-1x/
 image: /wp-content/uploads/2017/03/angularjs-logo-100x27.png
 categories:

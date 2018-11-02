@@ -5,7 +5,6 @@ date: 2018-10-08T10:41:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'java'
-color: '#7AAB13'
 permalink: /hashmap-inline-initialization/
 categories:
   - Java

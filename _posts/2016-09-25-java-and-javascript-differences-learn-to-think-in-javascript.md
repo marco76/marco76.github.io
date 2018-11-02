@@ -4,6 +4,7 @@ title: Java and JavaScript differences. Learn to think in JavaScript!
 date: 2016-09-25T15:29:41+00:00
 author: Marco Molteni
 layout: post
+main-class: 'java'
 guid: http://ngjava.com/?p=61
 permalink: /2016/09/25/java-and-javascript-differences-learn-to-think-in-javascript/
 categories:

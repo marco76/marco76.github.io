@@ -4,6 +4,7 @@ title: A simple Node.js REST server simulator for Testing
 date: 2016-10-19T09:52:00+00:00
 author: Marco Molteni
 layout: post
+main-class: 'angular'
 guid: http://ngjava.com/?p=96
 permalink: /2016/10/19/a-simple-node-js-rest-server-simulator-for-testing/
 categories:

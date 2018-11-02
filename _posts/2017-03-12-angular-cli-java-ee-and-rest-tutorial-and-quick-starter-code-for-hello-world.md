@@ -4,6 +4,7 @@ title: 'Angular CLI, Java EE and REST : tutorial and quick starter code for Hell
 date: 2017-03-12T17:25:30+00:00
 author: Marco Molteni
 layout: post
+main-class: 'javaee'
 guid: http://javaee.ch/?p=1042
 permalink: /2017/03/12/angular-cli-java-ee-and-rest-tutorial-and-quick-starter-code-for-hello-world/
 image: /wp-content/uploads/2017/03/logo_ang-100x39.png

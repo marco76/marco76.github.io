@@ -4,6 +4,7 @@ title: 'Angular and JavaScript: export your data to CSV using Typescript'
 date: 2017-03-05T00:45:29+00:00
 author: Marco Molteni
 layout: post
+main-class: 'angular'
 guid: http://javaee.ch/?p=985
 permalink: /2017/03/05/angular-and-javascript-export-your-data-to-csv-using-typescript/
 image: /wp-content/uploads/2017/03/excel-100x37.png

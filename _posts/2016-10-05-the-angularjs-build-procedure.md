@@ -6,6 +6,7 @@ author: Marco Molteni
 layout: post
 guid: http://ngjava.com/?p=84
 permalink: /2016/10/05/the-angularjs-build-procedure/
+main-class: 'angular'
 categories:
   - First Steps
   - javascript

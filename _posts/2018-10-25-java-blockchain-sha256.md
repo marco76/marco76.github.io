@@ -6,7 +6,7 @@ author: Marco Molteni
 layout: post
 main-class: 'blockchain'
 color: '#7AAB13'
-permalink: /hashmap-inline-initialization/
+permalink: /blockchain-256/
 categories:
   - Java
   - Blockchain

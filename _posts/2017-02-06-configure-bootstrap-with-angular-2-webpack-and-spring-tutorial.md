@@ -3,6 +3,7 @@ title: 'Configure Bootstrap with Angular 2, Webpack and Spring &#8211; Tutorial'
 date: 2017-02-06T00:26:41+00:00
 author: Marco Molteni
 layout: post
+main-class: 'angular'
 permalink: /2017/02/06/configure-bootstrap-with-angular-2-webpack-and-spring-tutorial/
 dsq_thread_id:
   - "5565869589"

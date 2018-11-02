@@ -4,7 +4,7 @@ description: 'Utility for the development of Angular apps'
 date: 2018-03-16T10:41:48+00:00
 author: Marco Molteni
 layout: post
-main-class: 'typescript'
+main-class: 'angular'
 color: '#7AAB13'
 permalink: /2018/03/16/google-maps-typescript/
 categories:

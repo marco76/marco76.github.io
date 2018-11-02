@@ -4,6 +4,7 @@ title: 'Angular and D3.js &#8211; tutorial'
 date: 2017-02-10T00:25:39+00:00
 author: Marco Molteni
 layout: post
+main-class: 'angular'
 guid: http://javaee.ch/?p=885
 permalink: /2017/02/10/angular-and-d3-js-tutorial/
 image: /wp-content/uploads/2017/03/logo-d3-100x12.png

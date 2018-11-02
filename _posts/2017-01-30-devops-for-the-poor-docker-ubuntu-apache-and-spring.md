@@ -4,6 +4,7 @@ title: Cheap and easy DevOps for developers (Docker, Ubuntu, Apache and Spring)
 date: 2017-01-30T21:58:39+00:00
 author: Marco Molteni
 layout: post
+main-class: 'cloud'
 guid: http://javaee.ch/?p=820
 permalink: /2017/01/30/devops-for-the-poor-docker-ubuntu-apache-and-spring/
 dsq_thread_id:

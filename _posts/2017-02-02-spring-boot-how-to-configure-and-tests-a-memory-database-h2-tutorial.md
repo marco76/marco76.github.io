@@ -3,6 +3,7 @@ title: 'Spring Boot and JPA. How to configure and test a memory database (H2) &#
 date: 2017-02-02T00:36:12+00:00
 author: Marco Molteni
 layout: post
+main-class: 'spring'
 permalink: /2017/02/02/spring-boot-how-to-configure-and-tests-a-memory-database-h2-tutorial/
 categories:
   - example
