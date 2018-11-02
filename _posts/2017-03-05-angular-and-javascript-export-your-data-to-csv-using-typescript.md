@@ -27,7 +27,7 @@ GitHub: <https://github.com/marco76/export-csv>
 
 Limitations: This method doesn&#8217;t work on Safari.
 
-Online example: <http://angular.cafe>
+Online example: <http://javademo.io/conferences>
 
 Goal: easily export the table&#8217;s from your Angular or JavaScript application to Excel / CSV
 
@@ -39,50 +39,59 @@ If all the data is already present on the client we can simply use a Typescript 
 
 ### Install the npm package
 
-<pre class="brush: bash; title: ; notranslate" title="">npm i @molteni/export-csv --save</pre>
+```typescript
+npm i @molteni/export-csv --save
+```
 
 In your application you can import the package with the following declaration:
 
-<pre class="brush: jscript; title: ; notranslate" title="">import ExportToCSV from "@molteni/export-csv";</pre>
+```typescript
+import ExportToCSV from "@molteni/export-csv";
+```
 
 and call the export for only some columns e.g.:
 
-<pre class="brush: jscript; title: ; notranslate" title="">var exporter = new ExportToCSV();
+```typescript
+var exporter = new ExportToCSV();
 exporter.exportColumnsToCSV(this.blogArticles, "filename", ["title", "link"]);
-</pre>
+```
 
 or for all the columns, e.g.:
 
-<pre class="brush: jscript; title: ; notranslate" title="">var exporter = new ExportToCSV();
+```typescript
+var exporter = new ExportToCSV();
 exporter.exportColumnsToCSV(this.blogArticles, "filename")
-</pre>
+```
 
 ### What it can do
 
 Here the content of the definition file:
 
-<pre class="brush: jscript; title: ; notranslate" title="">export declare class ExportToCSV {
+```typescript
+export declare class ExportToCSV {
     constructor();
     exportAllToCSV(JSONListItemsToPublish: any, fileName: string): void;
     exportColumnsToCSV(JSONListItemsToPublish: any, fileName: string, columns: string[]): void;
     static downloadFile(filename: string, data: string, format: string): void;
     static download(filename: string, data: any): void;
 }
-</pre>
+```
 
 ### How it works
 
 The method reads the object passed and puts them in an array. The array is stored in a blob in the navigator ([msSaveBlob](https://msdn.microsoft.com/en-us/library/windows/apps/hh441122.aspx)):
 
-<pre class="brush: jscript; title: ; notranslate" title="">let blob = new Blob([data], {type: format});
+```typescript
+let blob = new Blob([data], {type: format});
 window.navigator.msSaveBlob(blob, filename);`
-</pre>
+```
 
-To download a &#8216;temporary&#8217; link is created and the click on the link simulated:
+To download a temporary link is created and the click on the link simulated:
 
-<pre class="brush: jscript; title: ; notranslate" title="">let elem = window.document.createElement('a');
+```typescript
+let elem = window.document.createElement('a');
 elem.href = window.URL.createObjectURL(blob);
 elem.download = filename;
 document.body.appendChild(elem);
 elem.click();
-</pre>
+```

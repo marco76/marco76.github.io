@@ -8,12 +8,12 @@
 
 <header class="header-post" role="banner">
      <div class="content">
+        <a href="http://javademo.io"><p class="demo">Java and Angular Demo - <i class="fa fa-external-link" aria-hidden="true"></i>javademo.io</p></a>
          {% if page.date %}
             <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">{{ page.date | date_to_string }}</time>
         {% endif %}
         <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
         <p itemprop="description" class="subtitle">{{ page.description }}</p>
         <!--<p><a href="{{site.repository_url}}{{page.path}}">Improve this doc</a></p>-->
-        <a href="http://javademo.io"><p class="demo">Java and Angular Demo <br><i class="fa fa-external-link" aria-hidden="true"></i>javademo.io</p></a>
-    </div>
+     </div>
 </header>
