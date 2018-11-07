@@ -64,19 +64,22 @@ This annotation tells to Spring that some packages have to be scanned searching 
 
 It allows the scan of the @ConfigurationProperties annotation.
 
+[*@Repository*](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/stereotype/Repository.html)
+
+It is a specialization of @Component (autodetected during the startup scanning). The Repository class contains methods to store and retrieve data in a collection of objects (e.g. database).
+It represents the DAO in Java EE.
+
 [*@RestController*](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-controller)
 
 It's an annotation that includes @Controller and @ResponseBody and it is used to declare web controller that maps http requests with Spring functions.
 
-[@RequestMapping](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/bind/annotation/RequestMapping.html)
+[*@RequestMapping*](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/bind/annotation/RequestMapping.html)
 
 It maps a path in the URL request with a method declared in Spring.
 In the project we used the specializations [@GetMapping](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/bind/annotation/GetMapping.html), [@PostMapping](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/bind/annotation/PostMapping.html) etc.
 
 ## Coming soon:
-@PostMapping
 
-@Repository
 @Service
 @Value
 @Scheduled
@@ -93,4 +96,4 @@ In the project we used the specializations [@GetMapping](https://docs.spring.io/
 @ContextConfiguration
 @MockBean
 @Qualifier
-@TextPropertySource
+@TestPropertySource
