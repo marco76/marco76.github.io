@@ -32,7 +32,7 @@ Material is not easy to implement compared to other frameworks/guidelines/librar
 
 I personally enjoy using it for company solutions but I'm not sure I would choose Material for a public website.
 
-If somebody is blocked trying to solve the same problem here he can find some code fragments. The full code is not open source at the moment (need some work).
+If somebody is blocked trying to solve the same problem here he can find some code fragments.
 
 
 Call on the cell that open the template:
@@ -71,5 +71,11 @@ Definition of the template in the html:
   </div>
 </ng-template>
 ```
+
+### Example online
+[https://av-components.scapp.io](https://av-components.scapp.io)
+
+### Source code
+[https://github.com/marco76/av-components](https://github.com/marco76/av-components)
 
  

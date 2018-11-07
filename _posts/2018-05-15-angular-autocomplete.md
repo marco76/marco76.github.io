@@ -22,14 +22,9 @@ introduction: 'Speed your development with AV Components'
 I'm building some custom components based on Angular material with the goal to speed the development of applications REST based.
 
 You can have a preview of the Autocomplete and Chip here:
-https://stackblitz.com/edit/angular-paq8lk
+
+[https://av-components.scapp.io/autocomplete](https://av-components.scapp.io/autocomplete)
 
 You can find the components on NPMjs: https://www.npmjs.com/package/@molteni/av-components
 
 ... and on GitHub: https://github.com/marco76/av-components
-
-
-# AV Table
-Will follow a Table component that receives a simple array and allows the developer to visually customize the rendering and helps in some common operations as Create, Delete, Update.
-
-A first demo is coming in the next days.
