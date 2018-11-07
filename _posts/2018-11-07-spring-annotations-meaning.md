@@ -1,5 +1,5 @@
 ---
-title: 'Spring common annotation meaning'
+title: 'Spring common annotations meaning'
 description: 'What is this annotation doing in the code?'
 date: 2018-11-06T10:41:48+00:00
 author: Marco Molteni

@@ -1,7 +1,7 @@
 ---
 title: 'Mixing Angular with AngularJS'
 description: 'How to avoid a migration integrating Angular Components with AngularJS'
-date: 2018-11-07T21s:41:48+00:00
+date: 2018-11-07T21:41:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'angular'
@@ -35,7 +35,7 @@ we did it step by step implementing the new features and 'downgrading' them to A
 
 >The management was talking about a budget for a future migration from AngularJS to Angular 2 ... but we were already deploying using the version 5 :)
 
-## Why this article now that everybody use Angular
+## Why this article now that everybody uses Angular
 
 Because I see many companies that are still using AngularJS, big investments have been done in AngularJS projects and in many cases a migration cannot be done financially or technically.
 
