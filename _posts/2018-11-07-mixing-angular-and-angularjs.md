@@ -276,6 +276,13 @@ and report.component.html
 ...
 ```
 
+The component is declared as [EntryComponent](https://angular.io/guide/entry-componentss) in the module:
+```
+entryComponents: [
+        FooterComponent,
+        ReportComponent,
+```
+
 ### Conclusion
 The 'migration' was successful, the new developers enjoyed to work with the newest versions of Angular.
 
