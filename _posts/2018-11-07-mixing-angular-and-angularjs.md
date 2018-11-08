@@ -45,6 +45,8 @@ For our migration we used the awesome documentation of Angular:
 
 Here you can find some notes about this migration.
 
+Here you can see a more modern approach using Angular Elements used by a Google Engineer: [Upgrading to Angular without NgUpgrade](https://goo.gl/Naf1TB)
+
 ## Upgrade strategy
 
 Our application was developed using an internal (at the time no more maintained!!!) framework built on top of AngularJS.
