@@ -6,7 +6,7 @@ author: Marco Molteni
 layout: post
 main-class: 'javaee'
 color: '#7AAB13'
-permalink: /javaee-microprofile-config/
+permalink: /javaee-microprofile-config-file/
 categories:
   - Java EE
 tags:
