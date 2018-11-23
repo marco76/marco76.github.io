@@ -17,6 +17,12 @@ image: '/assets/img/'
 introduction: 'A technical challenge, not a big of interest'
 ---
 
+### Example online
+[https://av-components.scapp.io](https://av-components.scapp.io)
+
+### Source code
+[https://github.com/marco76/av-components](https://github.com/marco76/av-components)
+
 # Autoconfigurable Data Grid with detail
 
 In one project I had the opportunity to develop a Data Grid with expandable rows. We used the standard Angular Material as base for the development.
@@ -71,11 +77,4 @@ Definition of the template in the html:
   </div>
 </ng-template>
 ```
-
-### Example online
-[https://av-components.scapp.io](https://av-components.scapp.io)
-
-### Source code
-[https://github.com/marco76/av-components](https://github.com/marco76/av-components)
-
  
