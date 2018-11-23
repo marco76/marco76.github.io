@@ -7,7 +7,6 @@ layout: post
 main-class: 'angular'
 guid: http://javaee.ch/?p=985
 permalink: /2017/03/05/angular-and-javascript-export-your-data-to-csv-using-typescript/
-image: /wp-content/uploads/2017/03/excel-100x37.png
 categories:
   - Angular
   - Angular 2
@@ -21,15 +20,17 @@ tags:
   - export
   - TypeScript
 ---
+
+<img src="{{site.baseurl}}/assets/img/uploads/2017/03/excel.png" />
+
 Npm: <https://www.npmjs.com/package/@molteni/export-csv>
 
 GitHub: <https://github.com/marco76/export-csv>
 
-Limitations: This method doesn&#8217;t work on Safari.
-
 Online example: <http://javademo.io/conferences>
 
-Goal: easily export the table&#8217;s from your Angular or JavaScript application to Excel / CSV
+
+Goal: easily export arrays and JSON data from your Angular or JavaScript application to Excel / CSV
 
 Very often in our professional web application we visualise information from a database in tables. A common requirement is to export this data to an excel file.
 
@@ -63,9 +64,20 @@ var exporter = new ExportToCSV();
 exporter.exportColumnsToCSV(this.blogArticles, "filename")
 ```
 
+#### Code snippet with Angular and UTF-8
+<img src="{{site.baseurl}}/assets/img/uploads/excel_small.jpg" />
+
+```typescript
+exportToCSV = new ExportToCSV();
+  objectToExport = [{column : 'äàü£™ , ®, ©,'}, {column: 'second row'}];
+  download() {
+    this.exportToCSV.exportColumnsToCSV(this.objectToExport, 'filename.csv', ['column']);
+  }
+```
+
 ### What it can do
 
-Here the content of the definition file:
+Here the content of the definition file with the methods available.
 
 ```typescript
 export declare class ExportToCSV {
@@ -95,3 +107,8 @@ elem.download = filename;
 document.body.appendChild(elem);
 elem.click();
 ```
+
+### Excel and UTF-8
+Excel has issues importing UTF-8 CSV files. You can read more here: [StackOverflow](https://stackoverflow.com/questions/155097/microsoft-excel-mangles-diacritics-in-csv-files).
+
+Our implementation is compatible with Excel and the UTF-8 characters should correctly represented in Excel.
