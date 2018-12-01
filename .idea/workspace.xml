@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javaee_blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaee_blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d0c964601ce81bc4d30934f83fbb96903185518" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d0c964601ce81bc4d30934f83fbb96903185518" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d55b821a562dbbf4a813e36b059e6012892a2da" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d55b821a562dbbf4a813e36b059e6012892a2da" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75d2133f8504160bb74d15842e5d736b47fb3bcf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75d2133f8504160bb74d15842e5d736b47fb3bcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85e239e86382ac8c9d3c2c2bdcf6dff9f2d3cc8e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85e239e86382ac8c9d3c2c2bdcf6dff9f2d3cc8e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a12bea15bc8a9cc82e7a76d710c1eb6c4726d666" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a12bea15bc8a9cc82e7a76d710c1eb6c4726d666" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a40d5b5affe12062d7340e5ff04a99021d3ad42b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a40d5b5affe12062d7340e5ff04a99021d3ad42b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca685cdac22d9c82acf97386a57575d43bc76426" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca685cdac22d9c82acf97386a57575d43bc76426" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd089ae45ce870c45e434019e8f1ed4f066cd425" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd089ae45ce870c45e434019e8f1ed4f066cd425" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd3b591330cbebdb5bf230bbe81186bcb5efa7d9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd3b591330cbebdb5bf230bbe81186bcb5efa7d9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0dd83044617bfc97df3732916f8bd6a080a78e3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0dd83044617bfc97df3732916f8bd6a080a78e3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc80d516592decf76a2022638fc09c9b83fd3aef" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc80d516592decf76a2022638fc09c9b83fd3aef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e74e464ef8fa44bf53009980f3d539cdbd998c13" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e74e464ef8fa44bf53009980f3d539cdbd998c13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8e4e6da3ac411eeca6af1c10f25cb0859483370" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8e4e6da3ac411eeca6af1c10f25cb0859483370" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-07-mixing-angular-and-angularjs.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-07-mixing-angular-and-angularjs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-23-code-quality.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-23-code-quality.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,26 +34,28 @@
     <session id="1927190886">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="4" />
-          <entry key="html" value="259" />
-          <entry key="md" value="13301" />
+          <entry key="html" value="279" />
+          <entry key="md" value="15650" />
           <entry key="scss" value="8" />
           <entry key="snippet" value="121" />
           <entry key="styl" value="37" />
@@ -47,15 +67,16 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="4" />
-          <entry key="HTML" value="261" />
-          <entry key="JAVA" value="11" />
+          <entry key="HTML" value="281" />
+          <entry key="JAVA" value="19" />
           <entry key="JavaScript" value="10" />
-          <entry key="Markdown" value="13276" />
+          <entry key="Markdown" value="15616" />
           <entry key="PLAIN_TEXT" value="38" />
           <entry key="SCSS" value="8" />
           <entry key="Scratch" value="130" />
           <entry key="Stylus" value="37" />
           <entry key="TypeScript" value="2" />
+          <entry key="XML" value="1" />
           <entry key="YAML" value="44" />
         </counts>
       </usages-collector>
@@ -69,13 +90,14 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="2018-12-01-why-is-so-complicated-to-contribute" value="1" />
           <entry key="css" value="2" />
-          <entry key="html" value="41" />
+          <entry key="html" value="42" />
           <entry key="ico" value="1" />
           <entry key="java" value="1" />
           <entry key="json" value="2" />
-          <entry key="md" value="120" />
-          <entry key="png" value="6" />
+          <entry key="md" value="137" />
+          <entry key="png" value="7" />
           <entry key="scss" value="15" />
           <entry key="snippet" value="1" />
           <entry key="styl" value="11" />
@@ -87,10 +109,11 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="HTML" value="41" />
-          <entry key="Image" value="7" />
+          <entry key="HTML" value="42" />
+          <entry key="Image" value="8" />
           <entry key="JSON" value="2" />
-          <entry key="Markdown" value="120" />
+          <entry key="Markdown" value="137" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="15" />
           <entry key="SVG" value="2" />
           <entry key="Scratch" value="3" />
@@ -102,12 +125,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-07-mixing-angular-and-angularjs.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-code-quality.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="234">
-                <caret line="47" column="88" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-javaee-microprofile-config-api.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-298">
+                <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2007-06-26-jsf-commandlink-and-datatable-a-small-nightmare.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2009-03-06-spring-jsf-tutorial.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-05-15-angular-autocomplete.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="422">
+                <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -118,8 +207,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-24-angular-master-detail-table.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1155">
-                <caret line="77" selection-start-line="77" selection-end-line="78" selection-end-column="84" />
+              <first_editor relative-caret-position="930">
+                <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -127,53 +216,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-05-15-angular-autocomplete.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-06-how-to-find-the-best-jee-j2ee-java-script-developers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/icons/apple-touch-icon-57x57.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/icons/favicon.ico">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/icons/favicon-16x16.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/icons/apple-touch-icon-152x152.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/icons/apple-touch-icon-144x144.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/icons/favicon-32x32.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-07-spring-annotations-meaning.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <first_editor relative-caret-position="630">
+                <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="85" />
               </first_editor>
               <second_editor />
             </state>
@@ -191,11 +248,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>migrati</find>
-      <find>Migration</find>
-      <find>Angular and Java in practice</find>
-      <find>java, spring</find>
-      <find>improve this doc</find>
       <find>javademo</find>
       <find>Java and Angular Demo</find>
       <find>improve</find>
@@ -221,6 +273,11 @@
       <find>everybo</find>
       <find>component</find>
       <find>Modern Arc</find>
+      <find>next art</find>
+      <find>&lt;/div</find>
+      <find>properti</find>
+      <find>java-angula</find>
+      <find>reviewer</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
@@ -247,9 +304,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_includes/author.html" />
-        <option value="$PROJECT_DIR$/_posts/angular-i-wish-i-knew.md" />
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/_posts/2018-08-11-spring-integration-mail-sender.md" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
@@ -277,13 +331,11 @@
         <option value="$PROJECT_DIR$/_posts/2017-07-09-spring-boot-user-authorization-with-properties.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-19-java-ee-8-cdi-2-0-and-observers.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-03-05-angular-and-javascript-export-your-data-to-csv-using-typescript.md" />
         <option value="$PROJECT_DIR$/_posts/2013-03-23-minimal-jsf-java-ee-6-project.md" />
         <option value="$PROJECT_DIR$/_posts/2009-03-07-spring-configuration-file.md" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$PROJECT_DIR$/_posts/2009-04-01-use-groovy-in-a-spring-jsf-web-application.md" />
-        <option value="$PROJECT_DIR$/_posts/2012-11-02-198.md" />
         <option value="$PROJECT_DIR$/_posts/2013-03-29-spring-mvc-and-mongodb-tutorial.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2017-09-09-spring-boot-angular.md" />
@@ -298,6 +350,11 @@
         <option value="$PROJECT_DIR$/_posts/2018-07-24-angular-master-detail-table.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-15-angular-autocomplete.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-07-mixing-angular-and-angularjs.md" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-14-javaee-microprofile-config-api.md" />
+        <option value="$PROJECT_DIR$/_posts/2012-11-02-198.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-05-angular-and-javascript-export-your-data-to-csv-using-typescript.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-23-code-quality.md" />
       </list>
     </option>
   </component>
@@ -374,8 +431,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
-    <option name="y" value="29" />
+    <option name="x" value="56" />
+    <option name="y" value="28" />
     <option name="width" value="1384" />
     <option name="height" value="793" />
   </component>
@@ -385,6 +442,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -401,39 +459,19 @@
             <path>
               <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541659594292" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543063391865" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA&#10;XML" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -481,6 +519,14 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -508,14 +554,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -677,63 +715,17 @@
       <workItem from="1541168752276" duration="612000" />
       <workItem from="1541569685964" duration="11673000" />
       <workItem from="1541657673812" duration="1045000" />
-      <workItem from="1541659484545" duration="59000" />
-    </task>
-    <task id="LOCAL-00022" summary="pages">
-      <created>1503263691192</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1503263691192</updated>
-    </task>
-    <task id="LOCAL-00023" summary="pages">
-      <created>1505713597840</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1505713597840</updated>
-    </task>
-    <task id="LOCAL-00024" summary="pages">
-      <created>1506927074640</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1506927074640</updated>
-    </task>
-    <task id="LOCAL-00025" summary="pages">
-      <created>1506927436400</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1506927436400</updated>
-    </task>
-    <task id="LOCAL-00026" summary="pages">
-      <created>1508357171261</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1508357171261</updated>
-    </task>
-    <task id="LOCAL-00027" summary="pages">
-      <created>1511332921593</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1511332921593</updated>
-    </task>
-    <task id="LOCAL-00028" summary="pages">
-      <created>1521216289741</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1521216289741</updated>
-    </task>
-    <task id="LOCAL-00029" summary="pages">
-      <created>1521613726786</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1521613726786</updated>
+      <workItem from="1541659484545" duration="1150000" />
+      <workItem from="1541696846918" duration="872000" />
+      <workItem from="1541702041524" duration="1570000" />
+      <workItem from="1541712180283" duration="267000" />
+      <workItem from="1542236097814" duration="1600000" />
+      <workItem from="1542270706756" duration="1104000" />
+      <workItem from="1542469533761" duration="477000" />
+      <workItem from="1542704506334" duration="1985000" />
+      <workItem from="1542962522868" duration="5332000" />
+      <workItem from="1542983808794" duration="6370000" />
+      <workItem from="1543704930374" duration="1647000" />
     </task>
     <task id="LOCAL-00030" summary="pages">
       <created>1521613758116</created>
@@ -1022,24 +1014,80 @@
       <option name="project" value="LOCAL" />
       <updated>1541631453138</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="pre template">
+      <created>1541659567921</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1541659567922</updated>
+    </task>
+    <task id="LOCAL-00072" summary="pre template">
+      <created>1541659586831</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1541659586831</updated>
+    </task>
+    <task id="LOCAL-00073" summary="pre template">
+      <created>1541659642857</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1541659642857</updated>
+    </task>
+    <task id="LOCAL-00074" summary="pre template">
+      <created>1542236126942</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1542236126943</updated>
+    </task>
+    <task id="LOCAL-00075" summary="pre template">
+      <created>1542236505834</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1542236505834</updated>
+    </task>
+    <task id="LOCAL-00076" summary="pre template">
+      <created>1542236711339</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1542236711339</updated>
+    </task>
+    <task id="LOCAL-00077" summary="pre template">
+      <created>1542964446638</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1542964446639</updated>
+    </task>
+    <task id="LOCAL-00078" summary="pre template">
+      <created>1542968726109</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1542968726109</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157257000" />
+    <option name="totallyTimeSpent" value="179572000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="29" width="1384" height="793" extended-state="0" />
+    <frame x="56" y="28" width="1384" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85258967" visible="true" weight="0.24104477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8326693" visible="true" weight="0.28837556" />
       <window_info id="Structure" order="1" sideWeight="0.49109414" side_tool="true" weight="0.1438152" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="UI Designer" order="6" />
-      <window_info id="Gulp" order="7" sideWeight="0.14741036" side_tool="true" visible="true" weight="0.24104477" />
+      <window_info id="Gulp" order="7" sideWeight="0.16733068" side_tool="true" visible="true" weight="0.28837556" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3281027" />
@@ -1047,7 +1095,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28388017" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28388017" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32952926" />
@@ -1101,96 +1149,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="pre template" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2009-03-11-spring-mvc-30.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-03-26-jsf-and-spring-security-acegi-using-facelets.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-03-31-test-your-webservices.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-03-09-give-to-your-client-a-dedicated-j2ee-server-in-asp-mode.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-03-07-spring-configuration-file.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="183" selection-start-column="183" selection-end-column="183" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="1" selection-start-column="3" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-10-16-how-to-map-an-sql-server-xml-type-using-hibernate.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-115" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-10-09-jmockit-with-maven-sonar-jacoco-and-jenkinshudson.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-04-27-tutorial-use-java-to-develop-facebook-applications-example.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-04-01-use-groovy-in-a-spring-jsf-web-application.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2010-09-29-jsf-2-converters-and-spring-services.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1275,67 +1233,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-11-02-198.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-01-how-to-deploy-your-java-app-in-the-web-with-aws-elastic-beanstalk-in-5-minutes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
             <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-08-java-hashmap-inline-initialization.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-25-java-blockchain-sha256.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1538">
-            <caret line="107" column="6" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-649">
-            <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
@@ -1347,14 +1249,6 @@
           <first_editor relative-caret-position="-1870">
             <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="10" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-170" />
           <second_editor />
         </state>
       </provider>
@@ -1450,33 +1344,10 @@
     <entry file="file://$PROJECT_DIR$/assets/img/icons/apple-touch-icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-07-mixing-angular-and-angularjs.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="47" column="88" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-24-angular-master-detail-table.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1155">
-            <caret line="77" selection-start-line="77" selection-end-line="78" selection-end-column="84" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-15-angular-autocomplete.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1485,6 +1356,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/icons/favicon.ico">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1350">
+            <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-02-23-spring-boot-angularjs-2-typescript-hello-world-tutorial.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/icons/favicon-16x16.png">
       <provider selected="true" editor-type-id="images" />
@@ -1495,6 +1386,39 @@
     <entry file="file://$PROJECT_DIR$/assets/img/icons/apple-touch-icon-144x144.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2017/03/excel.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-11-02-198.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-05-angular-and-javascript-export-your-data-to-csv-using-typescript.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/icons/favicon-32x32.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1503,6 +1427,129 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="225">
             <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-07-mixing-angular-and-angularjs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="705">
+            <caret line="47" column="88" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-25-java-blockchain-sha256.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="60" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-08-java-hashmap-inline-initialization.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="630">
+            <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="85" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2007-06-26-jsf-commandlink-and-datatable-a-small-nightmare.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2009-03-06-spring-jsf-tutorial.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-15-angular-autocomplete.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="422">
+            <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-24-angular-master-detail-table.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="930">
+            <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-06-how-to-find-the-best-jee-j2ee-java-script-developers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-01-why-is-so-complicated-to-contribute.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-code-quality.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-javaee-microprofile-config-api.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-298">
+            <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
