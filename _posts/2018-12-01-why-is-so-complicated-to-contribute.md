@@ -5,6 +5,7 @@ date: 2018-12-01T10:41:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'javaee'
+published: false
 color: '#7AAB13'
 permalink: /tomee-contribute-is-not-easy/
 categories:
