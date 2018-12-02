@@ -15,7 +15,7 @@ tags:
  
 image: '/assets/img/'
 
-introduction: 'Why is so complicated to contribute in an open source project?'
+introduction: 'Open Source Java, how to improve the participation?'
 ---
 
 # The goal of this post
@@ -130,6 +130,12 @@ The browser shows:
 Something is missing.
 
 I've more luck with the [Continuous Integration of the version 1.7](https://ci.apache.org/builders/tomee-1.7.x-ubuntu) and I can see some results. More than 50% of the results are `failure`. The version 1.7 should be the stable one, I guess but ...
+
+After some additional researches I discover that the version 1.7 is the implementation of Java EE 6. Where are the CI of Java EE 7 and 8?
+Is only my build failing (my config is wrong?) or is it normal?
+
+Even more confusion!
+
 
 At the end with the suggested **fast build** I can build the sources and start to play with the server.
 

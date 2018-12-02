@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/javaee_blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaee_blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d0c964601ce81bc4d30934f83fbb96903185518" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d0c964601ce81bc4d30934f83fbb96903185518" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d55b821a562dbbf4a813e36b059e6012892a2da" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d55b821a562dbbf4a813e36b059e6012892a2da" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75d2133f8504160bb74d15842e5d736b47fb3bcf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75d2133f8504160bb74d15842e5d736b47fb3bcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85e239e86382ac8c9d3c2c2bdcf6dff9f2d3cc8e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85e239e86382ac8c9d3c2c2bdcf6dff9f2d3cc8e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a12bea15bc8a9cc82e7a76d710c1eb6c4726d666" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a12bea15bc8a9cc82e7a76d710c1eb6c4726d666" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a40d5b5affe12062d7340e5ff04a99021d3ad42b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a40d5b5affe12062d7340e5ff04a99021d3ad42b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca685cdac22d9c82acf97386a57575d43bc76426" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca685cdac22d9c82acf97386a57575d43bc76426" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd089ae45ce870c45e434019e8f1ed4f066cd425" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd089ae45ce870c45e434019e8f1ed4f066cd425" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd3b591330cbebdb5bf230bbe81186bcb5efa7d9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd3b591330cbebdb5bf230bbe81186bcb5efa7d9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0dd83044617bfc97df3732916f8bd6a080a78e3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0dd83044617bfc97df3732916f8bd6a080a78e3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc80d516592decf76a2022638fc09c9b83fd3aef" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dc80d516592decf76a2022638fc09c9b83fd3aef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e74e464ef8fa44bf53009980f3d539cdbd998c13" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e74e464ef8fa44bf53009980f3d539cdbd998c13" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8e4e6da3ac411eeca6af1c10f25cb0859483370" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8e4e6da3ac411eeca6af1c10f25cb0859483370" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-23-code-quality.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-23-code-quality.md" afterDir="false" />
-    </list>
+    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +12,7 @@
     <session id="1927190886">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="2" />
@@ -141,7 +119,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-javaee-microprofile-config-api.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-298">
+              <first_editor relative-caret-position="120">
                 <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               </first_editor>
               <second_editor />
@@ -725,7 +703,7 @@
       <workItem from="1542704506334" duration="1985000" />
       <workItem from="1542962522868" duration="5332000" />
       <workItem from="1542983808794" duration="6370000" />
-      <workItem from="1543704930374" duration="1647000" />
+      <workItem from="1543704930374" duration="1767000" />
     </task>
     <task id="LOCAL-00030" summary="pages">
       <created>1521613758116</created>
@@ -1074,20 +1052,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179572000" />
+    <option name="totallyTimeSpent" value="179692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="28" width="1384" height="793" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8326693" visible="true" weight="0.28837556" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8286853" visible="true" weight="0.28837556" />
       <window_info id="Structure" order="1" sideWeight="0.49109414" side_tool="true" weight="0.1438152" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="UI Designer" order="6" />
-      <window_info id="Gulp" order="7" sideWeight="0.16733068" side_tool="true" visible="true" weight="0.28837556" />
+      <window_info id="Gulp" order="7" sideWeight="0.17131475" side_tool="true" visible="true" weight="0.28837556" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3281027" />
@@ -1548,7 +1525,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-javaee-microprofile-config-api.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-298">
+          <first_editor relative-caret-position="120">
             <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           </first_editor>
           <second_editor />
