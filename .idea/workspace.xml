@@ -1,114 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template" />
+    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-05-jconf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1927190886">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="22" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.27" value="2" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.4" value="4" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="26" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="4" />
-          <entry key="html" value="279" />
-          <entry key="md" value="15650" />
-          <entry key="scss" value="8" />
-          <entry key="snippet" value="121" />
-          <entry key="styl" value="37" />
-          <entry key="txt" value="38" />
-          <entry key="xml" value="9" />
-          <entry key="yml" value="44" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="4" />
-          <entry key="HTML" value="281" />
-          <entry key="JAVA" value="19" />
-          <entry key="JavaScript" value="10" />
-          <entry key="Markdown" value="15616" />
-          <entry key="PLAIN_TEXT" value="38" />
-          <entry key="SCSS" value="8" />
-          <entry key="Scratch" value="130" />
-          <entry key="Stylus" value="37" />
-          <entry key="TypeScript" value="2" />
-          <entry key="XML" value="1" />
-          <entry key="YAML" value="44" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages">
-        <counts>
-          <entry key="git.branch.create.new" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.spring.boot.run.usages" />
-      <usages-collector id="statistics.spring.boot.mvc.usages" />
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="2018-12-01-why-is-so-complicated-to-contribute" value="1" />
-          <entry key="css" value="2" />
-          <entry key="html" value="42" />
-          <entry key="ico" value="1" />
-          <entry key="java" value="1" />
-          <entry key="json" value="2" />
-          <entry key="md" value="137" />
-          <entry key="png" value="7" />
-          <entry key="scss" value="15" />
-          <entry key="snippet" value="1" />
-          <entry key="styl" value="11" />
-          <entry key="svg" value="2" />
-          <entry key="xml" value="1" />
-          <entry key="yml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="42" />
-          <entry key="Image" value="8" />
-          <entry key="JSON" value="2" />
-          <entry key="Markdown" value="137" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="15" />
-          <entry key="SVG" value="2" />
-          <entry key="Scratch" value="3" />
-          <entry key="Stylus" value="11" />
-          <entry key="YAML" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-code-quality.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-javaee-microprofile-config-api.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -116,11 +27,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-javaee-microprofile-config-api.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-05-jconf.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -161,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-15-angular-autocomplete.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="422">
+              <first_editor relative-caret-position="435">
                 <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
               </first_editor>
               <second_editor />
@@ -173,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
+              <first_editor relative-caret-position="135">
                 <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="11" />
               </first_editor>
               <second_editor />
@@ -282,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/_posts/2018-08-11-spring-integration-mail-sender.md" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/src/styl/_hightlight.styl" />
@@ -333,76 +243,16 @@
         <option value="$PROJECT_DIR$/_posts/2012-11-02-198.md" />
         <option value="$PROJECT_DIR$/_posts/2017-03-05-angular-and-javascript-export-your-data-to-csv-using-typescript.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-23-code-quality.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-05-jconf.md" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
     <exe-path />
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
-  </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <gulpfiles>
-      <GulpfileState>
-        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
-        <tasks>
-          <GulpTaskState>
-            <task-name>jekyll-build</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <dependencies>
-              <dependency value="jekyll-build" />
-            </dependencies>
-            <task-name>jekyll-rebuild</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <dependencies>
-              <dependency value="jekyll-build" />
-            </dependencies>
-            <task-name>browser-sync</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>stylus</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>font-awesome</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>js</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>imagemin</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>watch</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <dependencies>
-              <dependency value="js" />
-              <dependency value="stylus" />
-              <dependency value="font-awesome" />
-              <dependency value="browser-sync" />
-              <dependency value="watch" />
-            </dependencies>
-            <task-name>default</task-name>
-          </GulpTaskState>
-        </tasks>
-      </GulpfileState>
-    </gulpfiles>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-    </packageJsonPaths>
   </component>
   <component name="PhpServers">
     <servers />
@@ -459,19 +309,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_includes" />
-      <recent name="$PROJECT_DIR$/_includes/old" />
-      <recent name="$PROJECT_DIR$/_layouts" />
-      <recent name="$PROJECT_DIR$/_layouts/old" />
-      <recent name="$PROJECT_DIR$/assets/css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2018/03" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2017/11" />
       <recent name="$PROJECT_DIR$/src/img/uploads/2017/11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/_includes/old" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/_layouts/old" />
+      <recent name="$PROJECT_DIR$/assets/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -505,7 +355,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -536,7 +386,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
@@ -545,7 +395,7 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="default" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+    <configuration name="default" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
@@ -556,7 +406,7 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="imagemin" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+    <configuration name="imagemin" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
@@ -567,7 +417,7 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="jekyll-build" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+    <configuration name="jekyll-build" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
@@ -578,7 +428,7 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="jekyll-rebuild" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+    <configuration name="jekyll-rebuild" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
@@ -589,7 +439,7 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="watch" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+    <configuration name="watch" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
@@ -704,6 +554,7 @@
       <workItem from="1542962522868" duration="5332000" />
       <workItem from="1542983808794" duration="6370000" />
       <workItem from="1543704930374" duration="1767000" />
+      <workItem from="1544019481853" duration="681000" />
     </task>
     <task id="LOCAL-00030" summary="pages">
       <created>1521613758116</created>
@@ -1052,19 +903,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179692000" />
+    <option name="totallyTimeSpent" value="180373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="28" width="1384" height="793" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8286853" visible="true" weight="0.28837556" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82669324" visible="true" weight="0.28837556" />
       <window_info id="Structure" order="1" sideWeight="0.49109414" side_tool="true" weight="0.1438152" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="UI Designer" order="6" />
-      <window_info id="Gulp" order="7" sideWeight="0.17131475" side_tool="true" visible="true" weight="0.28837556" />
+      <window_info id="Gulp" order="7" sideWeight="0.17330678" side_tool="true" visible="true" weight="0.28837556" />
+      <window_info anchor="bottom" id="OpenShift Origin" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3281027" />
@@ -1081,6 +934,7 @@
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="SonarLint" order="14" />
       <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1108,9 +962,6 @@
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
@@ -1126,14 +977,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="pre template" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2010-09-29-jsf-2-converters-and-spring-services.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2011-10-20-connect-to-hp-quality-center-using-java.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1437,11 +1280,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-01-why-is-so-complicated-to-contribute.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-code-quality.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="630">
-            <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="85" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -1474,7 +1320,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-15-angular-autocomplete.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="422">
+          <first_editor relative-caret-position="435">
             <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
           </first_editor>
           <second_editor />
@@ -1484,7 +1330,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
+          <first_editor relative-caret-position="135">
             <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="11" />
           </first_editor>
           <second_editor />
@@ -1509,14 +1355,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-01-why-is-so-complicated-to-contribute.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-code-quality.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-30-spring-boot-logging-level.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <first_editor relative-caret-position="630">
+            <caret line="42" selection-start-line="42" selection-end-line="42" selection-end-column="85" />
           </first_editor>
           <second_editor />
         </state>
@@ -1527,6 +1370,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="120">
             <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-05-jconf.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
