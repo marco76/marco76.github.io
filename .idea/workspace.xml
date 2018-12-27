@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-05-jconf.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-05-jconf.md" afterDir="false" />
-    </list>
+    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +12,7 @@
     <session id="1927190886">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
@@ -593,14 +590,7 @@
       <workItem from="1543704930374" duration="1767000" />
       <workItem from="1544019481853" duration="2205000" />
       <workItem from="1544033236479" duration="3308000" />
-      <workItem from="1544043759096" duration="1391000" />
-    </task>
-    <task id="LOCAL-00035" summary="pages">
-      <created>1523861822610</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1523861822610</updated>
+      <workItem from="1544043759096" duration="2005000" />
     </task>
     <task id="LOCAL-00036" summary="pages">
       <created>1523861927135</created>
@@ -938,15 +928,21 @@
       <option name="project" value="LOCAL" />
       <updated>1544045122779</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="pre template">
+      <created>1544045165412</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1544045165412</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186596000" />
+    <option name="totallyTimeSpent" value="187210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="28" width="1384" height="793" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82669324" visible="true" weight="0.12369598" />
       <window_info id="Structure" order="1" sideWeight="0.49109414" side_tool="true" weight="0.1438152" />
