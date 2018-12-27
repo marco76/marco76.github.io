@@ -6,8 +6,7 @@ author: Marco Molteni
 layout: post
 main-class: 'javascript'
 color: '#7AAB13'
-permalink: /highlighters-shadow-dom
-published: true
+permalink: /highlighters-shadow-dom§  2W  
 categories:
   - Web, Javascript
 tags:
