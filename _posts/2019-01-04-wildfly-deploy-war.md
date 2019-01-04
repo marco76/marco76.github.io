@@ -21,7 +21,7 @@ introduction: 'Deploy to /'
 Save your war with the name ROOT.war and deploy it, WildFly will configure it as root application.
 
 ## using configuration files
-In your `[MAVEN_ROOT]/webapp/WEB-INF` create `jboss-web.xml`and add:
+In your `[MAVEN_ROOT]/webapp/WEB-INF` create `jboss-web.xml` and add:
 
 ```xml
 <jboss-web>

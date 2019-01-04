@@ -1,5 +1,5 @@
 ---
-title: Java EE and Angular 4 Demo
+title: Java EE and Angular Demo
 date: 2017-04-06T13:38:58+00:00
 author: Marco Molteni
 layout: post
@@ -13,13 +13,25 @@ categories:
   - docker
   - Java EE
   - REST
+  - React
+  - Vue
 tags:
   - Angular
   - AngularJS
   - Java EE
   - Rest Services
+  - React
+  - Vue
 ---
 
+If you are looking for an example of project structure for Java + web javascript framework (Angular, *.js) you can find the code here:
+[https://github.com/marco76/java-web-js-template](https://github.com/marco76/java-web-js-template).
+
+The structure of the project can be adapted to Angular / React / Vue. Contact me if you have problems / better solutions.
+
+The bla bla that continues the post is there for historical reasons.
+
+`@deprecated`
 ### Update 04.2018 : Angular with Java EE / Spring and Kubernetes
 
 After a long sleep the web demo <http://www.javademo.io> will receive regular updates.
