@@ -28,3 +28,11 @@ In your `[MAVEN_ROOT]/webapp/WEB-INF` create `jboss-web.xml` and add:
     <context-root>/</context-root>
 </jboss-web>
 ```
+
+## serve index.html
+To serve your main page update web.xml:
+```xml
+<welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+</welcome-file-list>
+```
