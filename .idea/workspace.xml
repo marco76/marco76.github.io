@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-05-configure-nginx-jelastic.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-04-wildfly-postgresql.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-04-wildfly-postgresql.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,20 +28,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-04-wildfly-postgresql.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="203">
+                <caret line="102" selection-start-line="101" selection-end-line="102" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-04-wildfly-deploy-war.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-27-highlighters.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -49,12 +52,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-04-wildfly-postgresql.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-05-configure-nginx-jelastic.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="218">
-                <caret line="103" column="9" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+              <first_editor relative-caret-position="125">
+                <caret line="25" column="123" selection-start-line="25" selection-start-column="123" selection-end-line="25" selection-end-column="123" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-01-29-how-to-test-our-rest-services-in-spring-boot.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1153" />
               <second_editor />
             </state>
           </provider>
@@ -66,6 +79,18 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="15">
                 <caret line="1" column="26" selection-end-line="124" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-16-font-awesome-angular.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="332">
+                <caret line="43" lean-forward="true" selection-start-line="42" selection-end-line="43" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,7 +139,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>angular-and-javascript-export-your-data-to-csv-using-typescript</find>
       <find>Angular and Java in practice (demo)</find>
       <find>ngjava.com</find>
       <find>ngjava</find>
@@ -144,6 +168,7 @@
       <find>highli</find>
       <find>highlighter</find>
       <find>main.css</find>
+      <find>nginx</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
@@ -170,7 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2018-03-21-array-utils-for-javascript.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-26-angular-java-mobile-framework.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-26-deploy-java-angular-one.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-30-deploy-spring-boot-with-docker.md" />
@@ -221,6 +245,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-04-wildfly-deploy-war.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-04-wildfly-postgresql.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-05-configure-nginx-jelastic.md" />
       </list>
     </option>
   </component>
@@ -247,7 +272,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,11 +285,53 @@
               <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="category" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,19 +349,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$/assets/img/uploads/2018/03" />
-      <recent name="$PROJECT_DIR$/assets/img/uploads/2017/11" />
-      <recent name="$PROJECT_DIR$/src/img/uploads/2017/11" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$/_includes/old" />
       <recent name="$PROJECT_DIR$/_layouts" />
       <recent name="$PROJECT_DIR$/_layouts/old" />
       <recent name="$PROJECT_DIR$/assets/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/uploads/2018/03" />
+      <recent name="$PROJECT_DIR$/assets/img/uploads/2017/11" />
+      <recent name="$PROJECT_DIR$/src/img/uploads/2017/11" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -536,14 +603,8 @@
       <workItem from="1546624461158" duration="703000" />
       <workItem from="1546626804864" duration="216000" />
       <workItem from="1546627280842" duration="1428000" />
-      <workItem from="1546644993330" duration="604000" />
-    </task>
-    <task id="LOCAL-00043" summary="pages">
-      <created>1526367281134</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1526367281134</updated>
+      <workItem from="1546644993330" duration="651000" />
+      <workItem from="1546691605909" duration="1247000" />
     </task>
     <task id="LOCAL-00044" summary="pages">
       <created>1526488706012</created>
@@ -881,17 +942,24 @@
       <option name="project" value="LOCAL" />
       <updated>1546615925980</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="pre template">
+      <created>1546646444236</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1546646444238</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204669000" />
+    <option name="totallyTimeSpent" value="205963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="23" width="1384" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8247012" visible="true" weight="0.11400894" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8247012" visible="true" weight="0.24217586" />
       <window_info id="Structure" order="1" sideWeight="0.49109414" side_tool="true" weight="0.1438152" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -906,7 +974,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28388017" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28388017" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32952926" />
@@ -959,35 +1027,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="pre template" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-01-why-is-so-complicated-to-contribute.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2007-06-26-jsf-commandlink-and-datatable-a-small-nightmare.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-code-quality.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-03-06-spring-jsf-tutorial.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1244,16 +1283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="26" selection-end-line="124" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1280,8 +1309,56 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-04-wildfly-postgresql.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="218">
-            <caret line="103" column="9" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+          <first_editor relative-caret-position="203">
+            <caret line="102" selection-start-line="101" selection-end-line="102" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-27-highlighters.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-29-how-to-test-our-rest-services-in-spring-boot.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1153" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-java-angular-demo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="26" selection-end-line="124" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-16-font-awesome-angular.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="332">
+            <caret line="43" lean-forward="true" selection-start-line="42" selection-end-line="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-05-configure-nginx-jelastic.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="25" column="123" selection-start-line="25" selection-start-column="123" selection-end-line="25" selection-end-column="123" />
           </first_editor>
           <second_editor />
         </state>
