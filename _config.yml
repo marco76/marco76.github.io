@@ -1,11 +1,11 @@
 # Site settings
-title: Java and Angular in the Cloud
+title: Java EE, Angular, Vue.js in the Cloud
 description: Java and Angular
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javaee.ch"
 repository_url: "https://github.com/marco76/marco76.github.io/blob/master/"
 
-news: "Java and Angular : [javademo.io](http://javademo.io)"
+news: "Starting a new project: Java Reference [https://jref.io](Jref) - [Old ]Java and Angular : [javademo.io](https://javademo.io)"
 # User settings
 username: marco
 user_description: Marco freelance architect and developer

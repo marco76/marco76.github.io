@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-1.5 90.5 770.1605 642.5" width="770.1605" height="642.5">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="-750" x-height="517" cap-height="714" ascent="957.0007" descent="-212.99744" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Italic"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-01-05 18:25:32 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-1.5" y="90.5" width="770.1605" height="642.5"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="92" y="133" width="311.5" height="466.5" fill="#ffc0c0"/>
+        <rect x="92" y="133" width="311.5" height="466.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(105 138.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".448" y="15">io.jref</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="100" y="167" width="290" height="425" fill="#ffc0c0"/>
+        <rect x="100" y="167" width="290" height="425" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(109.5 169.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".396" y="15">io.jref.services</tspan>
+        </text>
+      </g>
+      <g id="Group_19">
+        <g id="Graphic_9">
+          <rect x="113.38893" y="196.95064" width="267.61107" height="70.66474" fill="white"/>
+          <rect x="113.38893" y="196.95064" width="267.61107" height="70.66474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_10">
+          <text transform="translate(27.490718 196.39717)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="92.40861" y="15">io.jref.services</tspan>
+          </text>
+        </g>
+        <g id="Graphic_11">
+          <text transform="translate(184.49106 236.39139)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x="14.44163" y="15">protected T getMethod()</tspan>
+          </text>
+        </g>
+        <g id="Graphic_12">
+          <text transform="translate(111.29129 214.0972)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x="8.560035" y="16">SourceClass</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_20">
+        <g id="Graphic_17">
+          <rect x="112.12108" y="275.5" width="268.36964" height="81.5" fill="#c0ffc0"/>
+          <rect x="112.12108" y="275.5" width="268.36964" height="81.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_16">
+          <text transform="translate(28.132838 276.276)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="92.82958" y="15">io.jref.services</tspan>
+          </text>
+        </g>
+        <g id="Graphic_14">
+          <text transform="translate(120.5 295.26794)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x=".016" y="16">SamePackageClass</tspan>
+          </text>
+        </g>
+        <g id="Graphic_18">
+          <text transform="translate(159 320.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x="16.865162" y="15">SourceInstance.getMethod()</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_22">
+        <rect x="107.5" y="454.5" width="273.5" height="127.5" fill="#ffc0c0"/>
+        <rect x="107.5" y="454.5" width="273.5" height="127.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_21">
+        <text transform="translate(107 460.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.808" y="15">io.jref.services.subpackage</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <title>Visibility</title>
+        <path d="M 359.75 290 C 354.86364 290 350.6907 292.74318 349 296.6154 C 350.6907 300.4876 354.86364 303.23077 359.75 303.23077 C 364.63636 303.23077 368.8093 300.4876 370.5 296.6154 C 368.8093 292.74318 364.63636 290 359.75 290 Z M 359.75 301.02564 C 357.05273 301.02564 354.86364 299.04985 354.86364 296.6154 C 354.86364 294.18092 357.05273 292.20513 359.75 292.20513 C 362.44727 292.20513 364.63636 294.18092 364.63636 296.6154 C 364.63636 299.04985 362.44727 301.02564 359.75 301.02564 Z M 359.75 293.96923 C 358.12773 293.96923 356.8182 295.15118 356.8182 296.6154 C 356.8182 298.0796 358.12773 299.26154 359.75 299.26154 C 361.37227 299.26154 362.6818 298.0796 362.6818 296.6154 C 362.6818 295.15118 361.37227 293.96923 359.75 293.96923 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_25">
+        <title>Visibility Off</title>
+        <path d="M 362.2549 174.36842 C 364.9534 174.36842 367.14347 176.25474 367.14347 178.57895 C 367.14347 179.12632 367.01637 179.64 366.7915 180.12 L 369.64643 182.57895 C 371.1228 181.5179 372.28627 180.14526 373 178.57895 C 371.30855 174.8821 367.1337 172.26316 362.2451 172.26316 C 360.8763 172.26316 359.56617 172.47368 358.3538 172.85263 L 360.46567 174.67158 C 361.02296 174.4779 361.61937 174.36842 362.2549 174.36842 Z M 352.4777 172.06947 L 354.7069 173.98947 L 355.15666 174.37684 C 353.53365 175.46316 352.2626 176.91158 351.5 178.57895 C 353.19145 182.2758 357.3663 184.89474 362.2549 184.89474 C 363.77035 184.89474 365.21737 184.6421 366.5373 184.18737 L 366.94793 184.54105 L 369.81264 187 L 371.05434 185.93053 L 353.7194 171 L 352.4777 172.06947 Z M 357.8845 176.72632 L 359.39995 178.03158 C 359.35107 178.20842 359.32174 178.39368 359.32174 178.57895 C 359.32174 179.97684 360.63188 181.10526 362.2549 181.10526 C 362.47 181.10526 362.6851 181.08 362.8904 181.0379 L 364.40587 182.34316 C 363.7508 182.62105 363.0273 182.78947 362.2549 182.78947 C 359.5564 182.78947 357.3663 180.90316 357.3663 178.57895 C 357.3663 177.91368 357.56185 177.29053 357.8845 176.72632 Z M 362.09845 176.06947 L 365.17826 178.7221 L 365.1978 178.58737 C 365.1978 177.18947 363.88768 176.06105 362.26467 176.06105 L 362.09845 176.06947 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_26">
+        <title>Visibility Off</title>
+        <path d="M 362.2549 143.36842 C 364.9534 143.36842 367.14347 145.25474 367.14347 147.57895 C 367.14347 148.12632 367.01637 148.64 366.7915 149.12 L 369.64643 151.57895 C 371.1228 150.5179 372.28627 149.14526 373 147.57895 C 371.30855 143.8821 367.1337 141.26316 362.2451 141.26316 C 360.8763 141.26316 359.56617 141.47368 358.3538 141.85263 L 360.46567 143.67158 C 361.02296 143.4779 361.61937 143.36842 362.2549 143.36842 Z M 352.4777 141.06947 L 354.7069 142.98947 L 355.15666 143.37684 C 353.53365 144.46316 352.2626 145.91158 351.5 147.57895 C 353.19145 151.27579 357.3663 153.89474 362.2549 153.89474 C 363.77035 153.89474 365.21737 153.6421 366.5373 153.18737 L 366.94793 153.54105 L 369.81264 156 L 371.05434 154.93053 L 353.7194 140 L 352.4777 141.06947 Z M 357.8845 145.72632 L 359.39995 147.03158 C 359.35107 147.20842 359.32174 147.39368 359.32174 147.57895 C 359.32174 148.97684 360.63188 150.10526 362.2549 150.10526 C 362.47 150.10526 362.6851 150.08 362.8904 150.0379 L 364.40587 151.34316 C 363.7508 151.62105 363.0273 151.78947 362.2549 151.78947 C 359.5564 151.78947 357.3663 149.90316 357.3663 147.57895 C 357.3663 146.91368 357.56185 146.29053 357.8845 145.72632 Z M 362.09845 145.06947 L 365.17826 147.7221 L 365.1978 147.58737 C 365.1978 146.18947 363.88768 145.06105 362.26467 145.06105 L 362.09845 145.06947 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_27">
+        <text transform="translate(93 96.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".472" y="15">protected</tspan>
+        </text>
+      </g>
+      <g id="Graphic_48">
+        <rect x="433.5" y="133" width="317.5" height="466.5" fill="#ffc0c0"/>
+        <rect x="433.5" y="133" width="317.5" height="466.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_47">
+        <text transform="translate(461 138.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".448" y="15">io.jref</tspan>
+        </text>
+      </g>
+      <g id="Graphic_46">
+        <rect x="445.1605" y="167" width="295.83952" height="425" fill="#ffc0c0"/>
+        <rect x="445.1605" y="167" width="295.83952" height="425" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_45">
+        <text transform="translate(465.5 169.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".396" y="15">io.jref.services</tspan>
+        </text>
+      </g>
+      <g id="Group_40">
+        <g id="Graphic_44">
+          <rect x="454.496" y="202.13273" width="273.5" height="65.48266" fill="white"/>
+          <rect x="454.496" y="202.13273" width="273.5" height="65.48266" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_43">
+          <text transform="translate(390.25 200.9434)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="72.646" y="15">io.jref.services</tspan>
+          </text>
+        </g>
+        <g id="Graphic_42">
+          <text transform="translate(614.9339 236.4434)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x=".072" y="15">T getMethod()</tspan>
+          </text>
+        </g>
+        <g id="Graphic_41">
+          <text transform="translate(464.5 220.76794)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x=".348" y="16">SourceClass</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_35">
+        <g id="Graphic_39">
+          <rect x="455.4211" y="277.5" width="273.57892" height="81.5" fill="#c0ffc0"/>
+          <rect x="455.4211" y="277.5" width="273.57892" height="81.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_38">
+          <text transform="translate(393.25 278.276)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="72.646" y="15">io.jref.services</tspan>
+          </text>
+        </g>
+        <g id="Graphic_37">
+          <text transform="translate(465.75 296.4264)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x=".016" y="16">SamePackageClass</tspan>
+          </text>
+        </g>
+        <g id="Graphic_36">
+          <text transform="translate(514.93785 328.026)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x=".248" y="15">SourceInstance.getMethod()</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_30">
+        <title>Visibility Off</title>
+        <path d="M 681.7549 174.36842 C 684.4534 174.36842 686.6435 176.25474 686.6435 178.57895 C 686.6435 179.12632 686.5164 179.64 686.2915 180.12 L 689.1464 182.57895 C 690.6228 181.5179 691.7863 180.14526 692.5 178.57895 C 690.80855 174.8821 686.6337 172.26316 681.7451 172.26316 C 680.3763 172.26316 679.0662 172.47368 677.8538 172.85263 L 679.9657 174.67158 C 680.523 174.4779 681.1194 174.36842 681.7549 174.36842 Z M 671.9777 172.06947 L 674.2069 173.98947 L 674.6567 174.37684 C 673.03365 175.46316 671.7626 176.91158 671 178.57895 C 672.69145 182.2758 676.8663 184.89474 681.7549 184.89474 C 683.27035 184.89474 684.7174 184.6421 686.0373 184.18737 L 686.4479 184.54105 L 689.31264 187 L 690.55434 185.93053 L 673.2194 171 L 671.9777 172.06947 Z M 677.3845 176.72632 L 678.89995 178.03158 C 678.8511 178.20842 678.8217 178.39368 678.8217 178.57895 C 678.8217 179.97684 680.1319 181.10526 681.7549 181.10526 C 681.97 181.10526 682.1851 181.08 682.3904 181.0379 L 683.9059 182.34316 C 683.2508 182.62105 682.5273 182.78947 681.7549 182.78947 C 679.0564 182.78947 676.8663 180.90316 676.8663 178.57895 C 676.8663 177.91368 677.06185 177.29053 677.3845 176.72632 Z M 681.59845 176.06947 L 684.6783 178.7221 L 684.6978 178.58737 C 684.6978 177.18947 683.3877 176.06105 681.7647 176.06105 L 681.59845 176.06947 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_29">
+        <title>Visibility Off</title>
+        <path d="M 681.7549 143.36842 C 684.4534 143.36842 686.6435 145.25474 686.6435 147.57895 C 686.6435 148.12632 686.5164 148.64 686.2915 149.12 L 689.1464 151.57895 C 690.6228 150.5179 691.7863 149.14526 692.5 147.57895 C 690.80855 143.8821 686.6337 141.26316 681.7451 141.26316 C 680.3763 141.26316 679.0662 141.47368 677.8538 141.85263 L 679.9657 143.67158 C 680.523 143.4779 681.1194 143.36842 681.7549 143.36842 Z M 671.9777 141.06947 L 674.2069 142.98947 L 674.6567 143.37684 C 673.03365 144.46316 671.7626 145.91158 671 147.57895 C 672.69145 151.27579 676.8663 153.89474 681.7549 153.89474 C 683.27035 153.89474 684.7174 153.6421 686.0373 153.18737 L 686.4479 153.54105 L 689.31264 156 L 690.55434 154.93053 L 673.2194 140 L 671.9777 141.06947 Z M 677.3845 145.72632 L 678.89995 147.03158 C 678.8511 147.20842 678.8217 147.39368 678.8217 147.57895 C 678.8217 148.97684 680.1319 150.10526 681.7549 150.10526 C 681.97 150.10526 682.1851 150.08 682.3904 150.0379 L 683.9059 151.34316 C 683.2508 151.62105 682.5273 151.78947 681.7549 151.78947 C 679.0564 151.78947 676.8663 149.90316 676.8663 147.57895 C 676.8663 146.91368 677.06185 146.29053 677.3845 145.72632 Z M 681.59845 145.06947 L 684.6783 147.7221 L 684.6978 147.58737 C 684.6978 146.18947 683.3877 145.06105 681.7647 145.06105 L 681.59845 145.06947 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(438.5 96.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".268" y="15">package / default</tspan>
+        </text>
+      </g>
+      <g id="Group_49">
+        <g id="Graphic_53">
+          <rect x="109.7606" y="493.77817" width="266.51677" height="83.22183" fill="#c0ffc0"/>
+          <rect x="109.7606" y="493.77817" width="266.51677" height="83.22183" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_52">
+          <text transform="translate(77.5 496.5929)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="41.841404" y="15">io.jref.services.subpackage</tspan>
+          </text>
+        </g>
+        <g id="Graphic_51">
+          <text transform="translate(123.5 519.40175)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x=".34" y="16">SubPckCl extends SourceClass</tspan>
+          </text>
+        </g>
+        <g id="Graphic_50">
+          <text transform="translate(192.83432 548.5436)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x="55.65484" y="15">this.getMethod()</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_63">
+        <title>Visibility Off</title>
+        <path d="M 357.2549 465.8684 C 359.9534 465.8684 362.14347 467.75474 362.14347 470.07895 C 362.14347 470.6263 362.01637 471.14 361.7915 471.62 L 364.64643 474.07895 C 366.1228 473.0179 367.28627 471.64526 368 470.07895 C 366.30855 466.3821 362.1337 463.76316 357.2451 463.76316 C 355.8763 463.76316 354.56617 463.9737 353.3538 464.35263 L 355.46567 466.1716 C 356.02296 465.9779 356.61937 465.8684 357.2549 465.8684 Z M 347.4777 463.5695 L 349.7069 465.4895 L 350.15666 465.87684 C 348.53365 466.96316 347.2626 468.4116 346.5 470.07895 C 348.19145 473.7758 352.3663 476.39474 357.2549 476.39474 C 358.77035 476.39474 360.21737 476.1421 361.5373 475.68737 L 361.94793 476.04105 L 364.81264 478.5 L 366.05434 477.4305 L 348.7194 462.5 L 347.4777 463.5695 Z M 352.8845 468.2263 L 354.39995 469.5316 C 354.35107 469.7084 354.32174 469.8937 354.32174 470.07895 C 354.32174 471.47684 355.63188 472.60526 357.2549 472.60526 C 357.47 472.60526 357.6851 472.58 357.8904 472.5379 L 359.40587 473.84316 C 358.7508 474.12105 358.0273 474.2895 357.2549 474.2895 C 354.5564 474.2895 352.3663 472.40316 352.3663 470.07895 C 352.3663 469.4137 352.56185 468.7905 352.8845 468.2263 Z M 357.09845 467.5695 L 360.17826 470.2221 L 360.1978 470.08737 C 360.1978 468.6895 358.88768 467.56105 357.26467 467.56105 L 357.09845 467.5695 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_72">
+        <rect x="434.6605" y="609" width="316.33952" height="120.5" fill="#ffc0c0"/>
+        <rect x="434.6605" y="609" width="316.33952" height="120.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_74">
+        <g id="Graphic_59">
+          <rect x="92" y="612" width="311.5" height="120.5" fill="#ffc0c0"/>
+          <rect x="92" y="612" width="311.5" height="120.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_54">
+          <g id="Graphic_58">
+            <rect x="102.12209" y="647.0887" width="289.1597" height="78.41132" fill="#c0ffc0"/>
+            <rect x="102.12209" y="647.0887" width="289.1597" height="78.41132" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_57">
+            <text transform="translate(3.5 649.2075)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="105.04196" y="15">ch.javaee</tspan>
+            </text>
+          </g>
+          <g id="Graphic_56">
+            <text transform="translate(107.19347 672.01794)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x=".176" y="16">OtherPckCl extends SourceClass</tspan>
+            </text>
+          </g>
+          <g id="Graphic_55">
+            <text transform="translate(191.43879 701.2709)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x="55.602607" y="15">this.getMethod()</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Graphic_60">
+          <text transform="translate(103 617.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".072" y="15">ch.javaee</tspan>
+          </text>
+        </g>
+        <g id="Graphic_61">
+          <title>Visibility</title>
+          <path d="M 358 653 C 352.0909 653 347.04455 656.3173 345 661 C 347.04455 665.6827 352.0909 669 358 669 C 363.9091 669 368.95545 665.6827 371 661 C 368.95545 656.3173 363.9091 653 358 653 Z M 358 666.3333 C 354.7382 666.3333 352.0909 663.944 352.0909 661 C 352.0909 658.056 354.7382 655.6667 358 655.6667 C 361.2618 655.6667 363.9091 658.056 363.9091 661 C 363.9091 663.944 361.2618 666.3333 358 666.3333 Z M 358 657.8 C 356.0382 657.8 354.45455 659.2293 354.45455 661 C 354.45455 662.7707 356.0382 664.2 358 664.2 C 359.9618 664.2 361.54545 662.7707 361.54545 661 C 361.54545 659.2293 359.9618 657.8 358 657.8 Z" fill="#333"/>
+        </g>
+        <g id="Graphic_62">
+          <title>Visibility Off</title>
+          <path d="M 360.2549 621.6184 C 362.9534 621.6184 365.14347 623.5047 365.14347 625.82895 C 365.14347 626.3763 365.01637 626.89 364.7915 627.37 L 367.64643 629.82895 C 369.1228 628.7679 370.28627 627.3953 371 625.82895 C 369.30855 622.1321 365.1337 619.51316 360.2451 619.51316 C 358.8763 619.51316 357.56617 619.7237 356.3538 620.1026 L 358.46567 621.9216 C 359.02296 621.7279 359.61937 621.6184 360.2549 621.6184 Z M 350.4777 619.3195 L 352.7069 621.2395 L 353.15666 621.62684 C 351.53365 622.71316 350.2626 624.1616 349.5 625.82895 C 351.19145 629.5258 355.3663 632.1447 360.2549 632.1447 C 361.77035 632.1447 363.21737 631.8921 364.5373 631.4374 L 364.94793 631.79105 L 367.81264 634.25 L 369.05434 633.1805 L 351.7194 618.25 L 350.4777 619.3195 Z M 355.8845 623.9763 L 357.39995 625.2816 C 357.35107 625.4584 357.32174 625.6437 357.32174 625.82895 C 357.32174 627.22684 358.63188 628.3553 360.2549 628.3553 C 360.47 628.3553 360.6851 628.33 360.8904 628.2879 L 362.40587 629.59316 C 361.7508 629.87105 361.0273 630.0395 360.2549 630.0395 C 357.5564 630.0395 355.3663 628.15316 355.3663 625.82895 C 355.3663 625.1637 355.56185 624.5405 355.8845 623.9763 Z M 360.09845 623.3195 L 363.17826 625.9721 L 363.1978 625.8374 C 363.1978 624.4395 361.88768 623.31105 360.26467 623.31105 L 360.09845 623.3195 Z" fill="#333"/>
+        </g>
+        <g id="Group_67">
+          <g id="Graphic_71">
+            <rect x="447.1605" y="642.0887" width="279.5" height="78.41132" fill="#ffc0c0"/>
+            <rect x="447.1605" y="642.0887" width="279.5" height="78.41132" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_70">
+            <text transform="translate(352 644.2075)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="100.23248" y="15">ch.javaee</tspan>
+            </text>
+          </g>
+          <g id="Graphic_69">
+            <text transform="translate(451.1605 670.01794)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x=".176" y="16">OtherPckCl extends SourceClass</tspan>
+            </text>
+          </g>
+          <g id="Graphic_68">
+            <text transform="translate(533.6605 696.2709)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x="51.64296" y="15">this.getMethod()</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_66">
+        <text transform="translate(450.1605 614.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".072" y="15">ch.javaee</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <title>Visibility Off</title>
+        <path d="M 707.4154 618.6184 C 710.1139 618.6184 712.30395 620.5047 712.30395 622.82895 C 712.30395 623.3763 712.17685 623.89 711.952 624.37 L 714.8069 626.82895 C 716.2833 625.7679 717.44675 624.3953 718.1605 622.82895 C 716.469 619.1321 712.2942 616.51316 707.4056 616.51316 C 706.0368 616.51316 704.72664 616.7237 703.5143 617.1026 L 705.62614 618.9216 C 706.18344 618.7279 706.77985 618.6184 707.4154 618.6184 Z M 697.6382 616.3195 L 699.8674 618.2395 L 700.3171 618.62684 C 698.6941 619.71316 697.4231 621.1616 696.6605 622.82895 C 698.3519 626.5258 702.5268 629.1447 707.4154 629.1447 C 708.9308 629.1447 710.37785 628.8921 711.6978 628.4374 L 712.1084 628.79105 L 714.9731 631.25 L 716.2148 630.1805 L 698.8799 615.25 L 697.6382 616.3195 Z M 703.045 620.9763 L 704.5604 622.2816 C 704.51155 622.4584 704.4822 622.6437 704.4822 622.82895 C 704.4822 624.22684 705.79236 625.3553 707.4154 625.3553 C 707.6305 625.3553 707.8456 625.33 708.0509 625.2879 L 709.56634 626.59316 C 708.9113 626.87105 708.1878 627.0395 707.4154 627.0395 C 704.7169 627.0395 702.5268 625.15316 702.5268 622.82895 C 702.5268 622.1637 702.7223 621.5405 703.045 620.9763 Z M 707.2589 620.3195 L 710.3387 622.9721 L 710.3583 622.8374 C 710.3583 621.4395 709.04815 620.31105 707.42514 620.31105 L 707.2589 620.3195 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_73">
+        <title>Visibility</title>
+        <path d="M 357.25 499.625 C 352.36364 499.625 348.1907 502.3682 346.5 506.2404 C 348.1907 510.1126 352.36364 512.85577 357.25 512.85577 C 362.13636 512.85577 366.3093 510.1126 368 506.2404 C 366.3093 502.3682 362.13636 499.625 357.25 499.625 Z M 357.25 510.65064 C 354.55273 510.65064 352.36364 508.67485 352.36364 506.2404 C 352.36364 503.8059 354.55273 501.8301 357.25 501.8301 C 359.94727 501.8301 362.13636 503.8059 362.13636 506.2404 C 362.13636 508.67485 359.94727 510.65064 357.25 510.65064 Z M 357.25 503.59423 C 355.62773 503.59423 354.3182 504.7762 354.3182 506.2404 C 354.3182 507.7046 355.62773 508.88654 357.25 508.88654 C 358.87227 508.88654 360.1818 507.7046 360.1818 506.2404 C 360.1818 504.7762 358.87227 503.59423 357.25 503.59423 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_83">
+        <rect x="455.5" y="454.5" width="273.5" height="127.5" fill="#ffc0c0"/>
+        <rect x="455.5" y="454.5" width="273.5" height="127.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_78">
+        <text transform="translate(536.4948 550.5436)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x="55.65484" y="15">this.getMethod()</tspan>
+        </text>
+      </g>
+      <g id="Graphic_80">
+        <text transform="translate(423.1605 497.5929)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="41.841404" y="15">io.jref.services.subpackage</tspan>
+        </text>
+      </g>
+      <g id="Graphic_82">
+        <text transform="translate(452.6605 457.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.808" y="15">io.jref.services.subpackage</tspan>
+        </text>
+      </g>
+      <g id="Graphic_81">
+        <title>Rectangle</title>
+        <rect x="457.4211" y="494.77817" width="266.51677" height="83.22183" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_84">
+        <title>Visibility Off</title>
+        <path d="M 703.9154 464.8684 C 706.6139 464.8684 708.80395 466.75474 708.80395 469.07895 C 708.80395 469.6263 708.67685 470.14 708.452 470.62 L 711.3069 473.07895 C 712.7833 472.0179 713.94675 470.64526 714.6605 469.07895 C 712.969 465.3821 708.7942 462.76316 703.9056 462.76316 C 702.5368 462.76316 701.22664 462.9737 700.0143 463.35263 L 702.12614 465.1716 C 702.68344 464.9779 703.27985 464.8684 703.9154 464.8684 Z M 694.1382 462.5695 L 696.3674 464.4895 L 696.8171 464.87684 C 695.1941 465.96316 693.9231 467.4116 693.1605 469.07895 C 694.8519 472.7758 699.0268 475.39474 703.9154 475.39474 C 705.4308 475.39474 706.87785 475.1421 708.1978 474.68737 L 708.6084 475.04105 L 711.4731 477.5 L 712.7148 476.4305 L 695.3799 461.5 L 694.1382 462.5695 Z M 699.545 467.2263 L 701.0604 468.5316 C 701.01155 468.7084 700.9822 468.8937 700.9822 469.07895 C 700.9822 470.47684 702.29236 471.60526 703.9154 471.60526 C 704.1305 471.60526 704.3456 471.58 704.5509 471.5379 L 706.06634 472.84316 C 705.4113 473.12105 704.6878 473.2895 703.9154 473.2895 C 701.2169 473.2895 699.0268 471.40316 699.0268 469.07895 C 699.0268 468.4137 699.2223 467.7905 699.545 467.2263 Z M 703.7589 466.5695 L 706.8387 469.2221 L 706.8583 469.08737 C 706.8583 467.6895 705.54815 466.56105 703.92514 466.56105 L 703.7589 466.5695 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_86">
+        <title>Visibility Off</title>
+        <path d="M 705.1654 505.6088 C 707.8639 505.6088 710.05395 507.4951 710.05395 509.81933 C 710.05395 510.3667 709.92685 510.8804 709.702 511.3604 L 712.5569 513.81933 C 714.0333 512.7583 715.19675 511.38565 715.9105 509.81933 C 714.219 506.1225 710.0442 503.50354 705.1556 503.50354 C 703.7868 503.50354 702.47664 503.71407 701.2643 504.093 L 703.37614 505.91196 C 703.93344 505.7183 704.52985 505.6088 705.1654 505.6088 Z M 695.3882 503.30986 L 697.6174 505.22986 L 698.0671 505.6172 C 696.4441 506.70354 695.1731 508.15196 694.4105 509.81933 C 696.1019 513.5162 700.2768 516.1351 705.1654 516.1351 C 706.6808 516.1351 708.12785 515.8825 709.4478 515.42775 L 709.8584 515.78144 L 712.7231 518.2404 L 713.9648 517.1709 L 696.6299 502.2404 L 695.3882 503.30986 Z M 700.795 507.9667 L 702.3104 509.27196 C 702.26155 509.4488 702.2322 509.63407 702.2322 509.81933 C 702.2322 511.2172 703.54236 512.34565 705.1654 512.34565 C 705.3805 512.34565 705.5956 512.3204 705.8009 512.2783 L 707.31634 513.58354 C 706.6613 513.86144 705.9378 514.02986 705.1654 514.02986 C 702.4669 514.02986 700.2768 512.14354 700.2768 509.81933 C 700.2768 509.15407 700.4723 508.5309 700.795 507.9667 Z M 705.0089 507.30986 L 708.0887 509.9625 L 708.1083 509.82775 C 708.1083 508.42986 706.79815 507.30144 705.17514 507.30144 L 705.0089 507.30986 Z" fill="#333"/>
+      </g>
+      <g id="Group_87">
+        <g id="Graphic_91">
+          <rect x="456" y="365" width="273" height="81.5" fill="#c0ffc0"/>
+          <rect x="456" y="365" width="273" height="81.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_90">
+          <text transform="translate(393.25 365.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="72.646" y="15">io.jref.services</tspan>
+          </text>
+        </g>
+        <g id="Graphic_89">
+          <text transform="translate(465.25 385.76794)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x=".04" y="16">SamePckCl extends SourceClass</tspan>
+          </text>
+        </g>
+        <g id="Graphic_88">
+          <text transform="translate(592.07764 412.0837)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x=".072" y="15">this.getMethod()</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_92">
+        <g id="Graphic_96">
+          <rect x="109.375" y="365" width="273" height="81.5" fill="#c0ffc0"/>
+          <rect x="109.375" y="365" width="273" height="81.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_95">
+          <text transform="translate(46.625 365.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="72.646" y="15">io.jref.services</tspan>
+          </text>
+        </g>
+        <g id="Graphic_94">
+          <text transform="translate(116 387.69583)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x=".04" y="16">SamePckCl extends SourceClass</tspan>
+          </text>
+        </g>
+        <g id="Graphic_93">
+          <text transform="translate(249.5 413.3337)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="400" fill="black" x=".072" y="15">this.getMethod()</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_97">
+        <title>Visibility</title>
+        <path d="M 359.75 373.3846 C 354.86364 373.3846 350.6907 376.1278 349 380 C 350.6907 383.8722 354.86364 386.6154 359.75 386.6154 C 364.63636 386.6154 368.8093 383.8722 370.5 380 C 368.8093 376.1278 364.63636 373.3846 359.75 373.3846 Z M 359.75 384.41026 C 357.05273 384.41026 354.86364 382.43446 354.86364 380 C 354.86364 377.56554 357.05273 375.58974 359.75 375.58974 C 362.44727 375.58974 364.63636 377.56554 364.63636 380 C 364.63636 382.43446 362.44727 384.41026 359.75 384.41026 Z M 359.75 377.35385 C 358.12773 377.35385 356.8182 378.5358 356.8182 380 C 356.8182 381.4642 358.12773 382.64615 359.75 382.64615 C 361.37227 382.64615 362.6818 381.4642 362.6818 380 C 362.6818 378.5358 361.37227 377.35385 359.75 377.35385 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_98">
+        <title>Visibility</title>
+        <path d="M 706.9105 371.8846 C 702.0241 371.8846 697.8512 374.6278 696.1605 378.5 C 697.8512 382.3722 702.0241 385.1154 706.9105 385.1154 C 711.7968 385.1154 715.9698 382.3722 717.6605 378.5 C 715.9698 374.6278 711.7968 371.8846 706.9105 371.8846 Z M 706.9105 382.91026 C 704.2132 382.91026 702.0241 380.93446 702.0241 378.5 C 702.0241 376.06554 704.2132 374.08974 706.9105 374.08974 C 709.60775 374.08974 711.7968 376.06554 711.7968 378.5 C 711.7968 380.93446 709.60775 382.91026 706.9105 382.91026 Z M 706.9105 375.85385 C 705.2882 375.85385 703.9787 377.0358 703.9787 378.5 C 703.9787 379.9642 705.2882 381.14615 706.9105 381.14615 C 708.53275 381.14615 709.8423 379.9642 709.8423 378.5 C 709.8423 377.0358 708.53275 375.85385 706.9105 375.85385 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_99">
+        <title>Visibility Off</title>
+        <path d="M 707.4154 657.8684 C 710.1139 657.8684 712.30395 659.7547 712.30395 662.07895 C 712.30395 662.6263 712.17685 663.14 711.952 663.62 L 714.8069 666.07895 C 716.2833 665.0179 717.44675 663.6453 718.1605 662.07895 C 716.469 658.3821 712.2942 655.76316 707.4056 655.76316 C 706.0368 655.76316 704.72664 655.9737 703.5143 656.3526 L 705.62614 658.1716 C 706.18344 657.9779 706.77985 657.8684 707.4154 657.8684 Z M 697.6382 655.5695 L 699.8674 657.4895 L 700.3171 657.87684 C 698.6941 658.96316 697.4231 660.4116 696.6605 662.07895 C 698.3519 665.7758 702.5268 668.3947 707.4154 668.3947 C 708.9308 668.3947 710.37785 668.1421 711.6978 667.6874 L 712.1084 668.04105 L 714.9731 670.5 L 716.2148 669.4305 L 698.8799 654.5 L 697.6382 655.5695 Z M 703.045 660.2263 L 704.5604 661.5316 C 704.51155 661.7084 704.4822 661.8937 704.4822 662.07895 C 704.4822 663.47684 705.79236 664.6053 707.4154 664.6053 C 707.6305 664.6053 707.8456 664.58 708.0509 664.5379 L 709.56634 665.84316 C 708.9113 666.12105 708.1878 666.2895 707.4154 666.2895 C 704.7169 666.2895 702.5268 664.40316 702.5268 662.07895 C 702.5268 661.4137 702.7223 660.7905 703.045 660.2263 Z M 707.2589 659.5695 L 710.3387 662.2221 L 710.3583 662.0874 C 710.3583 660.6895 709.04815 659.56105 707.42514 659.56105 L 707.2589 659.5695 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_101">
+        <title>Visibility</title>
+        <path d="M 707.4105 291.02885 C 702.5241 291.02885 698.3512 293.77203 696.6605 297.64423 C 698.3512 301.51644 702.5241 304.2596 707.4105 304.2596 C 712.2968 304.2596 716.4698 301.51644 718.1605 297.64423 C 716.4698 293.77203 712.2968 291.02885 707.4105 291.02885 Z M 707.4105 302.0545 C 704.7132 302.0545 702.5241 300.0787 702.5241 297.64423 C 702.5241 295.20977 704.7132 293.23397 707.4105 293.23397 C 710.10775 293.23397 712.2968 295.20977 712.2968 297.64423 C 712.2968 300.0787 710.10775 302.0545 707.4105 302.0545 Z M 707.4105 294.99808 C 705.7882 294.99808 704.4787 296.18003 704.4787 297.64423 C 704.4787 299.10844 705.7882 300.2904 707.4105 300.2904 C 709.03275 300.2904 710.3423 299.10844 710.3423 297.64423 C 710.3423 296.18003 709.03275 294.99808 707.4105 294.99808 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_107">
+        <text transform="translate(467.6581 519.51794)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" x=".34" y="16">SubPckCl extends SourceClass</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
