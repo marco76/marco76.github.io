@@ -79,15 +79,14 @@ In our case we use the standalone instance of WildFly.
 </drivers>
 
 <!-- 2. use your configuration -->
-    <datasource jndi-name="java:/PostgresDS" pool-name="PostgresDS">
-        <connection-url>jdbc:postgresql://localhost:5432/YourDatabase</connection-url>
-                    <driver-class>org.postgresql.Driver</driver-class>
-                    <datasource-class>org.postgresql.ds.PGSimpleDataSource</datasource-class>
-                    <driver>org.postgresql</driver>
-                    <security>
-                        <user-name>YourUserName</user-name>
-                        <password>YourPassword</password>
-                    </security>
+<datasource jndi-name="java:/PostgresDS" pool-name="PostgresDS">
+    <connection-url>jdbc:postgresql://localhost:5432/YourDatabase</connection-url>
+    <driver-class>org.postgresql.Driver</driver-class>
+    <driver>org.postgresql</driver>
+    <security>
+        <user-name>YourUserName</user-name>
+        <password>YourPassword</password>
+    </security>
 ```
                     
 In the section `<datasources><drivers>` add
@@ -101,3 +100,17 @@ As alternative you can use the WildFly UI:
 `[WILDFLY_HOME]/bin/add-user.sh`
 
 Add the Datasource in: `http://127.0.0.1:9990`
+
+## Errors
+ 
+__`WFLYJCA0047: Connection is not valid`__
+
+The inclusion of the `datasource-class` in your configuration e.g.
+
+`<datasource-class>org.postgresql.ds.PGSimpleDataSource</datasource-class>`
+
+could throw the following error: WFLYJCA0047: Connection is not valid
+
+here some references about this problem:
+[https://issues.jboss.org/browse/WFLY-6157](https://issues.jboss.org/browse/WFLY-6157)
+[https://superuser.com/questions/1371142/wildfly-14-connect-to-remote-postgresql-wflyjca0047-connection-is-not-valid](https://superuser.com/questions/1371142/wildfly-14-connect-to-remote-postgresql-wflyjca0047-connection-is-not-valid)
