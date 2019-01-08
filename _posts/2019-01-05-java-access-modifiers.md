@@ -19,7 +19,7 @@ introduction: 'Visual memo of the access modifiers and controls'
 
 ## Protected vs default access control
 
-Differences between the protected and the default/package access.
+Differences between the protected and the default/package-private access.
 
 Quick overview, this is a typical interview question.
 
