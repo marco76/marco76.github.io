@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-08-java-podcasts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2019/all-things-java.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2019/enterprise-java-newscast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2019/heap-off.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2019/illegal-argument.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2019/java-pub-house.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-10-hashmap.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-05-java-access-modifiers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="346">
+              <first_editor relative-caret-position="375">
                 <caret line="25" column="85" selection-start-line="25" selection-end-line="25" selection-end-column="85" />
               </first_editor>
               <second_editor />
@@ -44,12 +39,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-08-java-podcasts.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="347">
+              <first_editor relative-caret-position="353">
                 <caret line="27" column="215" selection-start-line="27" selection-start-column="215" selection-end-line="27" selection-end-column="215" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/podcasts.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-hashmap.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+                <folding>
+                  <element signature="n#!!doc" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -116,7 +131,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>java-angula</find>
       <find>reviewer</find>
       <find>few</find>
       <find>communi</find>
@@ -146,6 +160,7 @@
       <find>content:'J</find>
       <find>Java, Spring, Angu</find>
       <find>banne</find>
+      <find>hashi</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
@@ -172,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2018-05-05-import-javascript-in-angular.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-10-docker-angular-nginx.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-16-angular-i-wish-i-knew.md" />
         <option value="$PROJECT_DIR$/_posts/2018-08-11-spring-integration-send-mail.md" />
@@ -223,6 +237,7 @@
         <option value="$PROJECT_DIR$/_includes/header-post.html" />
         <option value="$PROJECT_DIR$/_posts/2019-01-05-java-access-modifiers.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-08-java-podcasts.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-hashmap.md" />
       </list>
     </option>
   </component>
@@ -249,8 +264,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,28 +274,12 @@
             <path>
               <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -293,6 +290,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,19 +309,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
-      <recent name="$PROJECT_DIR$/_includes" />
-      <recent name="$PROJECT_DIR$/_includes/old" />
-      <recent name="$PROJECT_DIR$/_layouts" />
-      <recent name="$PROJECT_DIR$/_layouts/old" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2018/03" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2017/11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/_includes/old" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/_layouts/old" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -568,14 +567,8 @@
       <workItem from="1546691605909" duration="1544000" />
       <workItem from="1546695276779" duration="109000" />
       <workItem from="1546713095408" duration="4585000" />
-      <workItem from="1546975352250" duration="2554000" />
-    </task>
-    <task id="LOCAL-00047" summary="pre template">
-      <created>1534054589536</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1534054589536</updated>
+      <workItem from="1546975352250" duration="3091000" />
+      <workItem from="1547156236580" duration="3809000" />
     </task>
     <task id="LOCAL-00048" summary="pre template">
       <created>1534193665500</created>
@@ -913,17 +906,24 @@
       <option name="project" value="LOCAL" />
       <updated>1546975479591</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="pre template">
+      <created>1546984346676</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1546984346676</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213508000" />
+    <option name="totallyTimeSpent" value="217854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="30" width="1384" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8247012" visible="true" weight="0.2533532" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8247012" visible="true" weight="0.25707898" />
       <window_info id="Structure" order="1" sideWeight="0.49109414" side_tool="true" weight="0.1438152" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -991,12 +991,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="pre template" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/styl/_elements.styl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/series.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/styl/_author.styl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1215,6 +1209,38 @@
     <entry file="file://$PROJECT_DIR$/_includes/header-default.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/java-pub-house.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/illegal-argument.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/heap-off.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/enterprise-java-newscast.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/all-things-java.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-05-java-access-modifiers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" column="85" selection-start-line="25" selection-end-line="25" selection-end-column="85" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header-post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="99" selection-start-line="10" selection-start-column="99" selection-end-line="10" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/styl/_header.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -1245,43 +1271,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header-post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="99" selection-start-line="10" selection-start-column="99" selection-end-line="10" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/java-pub-house.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-05-java-access-modifiers.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-08-java-podcasts.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="346">
-            <caret line="25" column="85" selection-start-line="25" selection-end-line="25" selection-end-column="85" />
+          <first_editor relative-caret-position="353">
+            <caret line="27" column="215" selection-start-line="27" selection-start-column="215" selection-end-line="27" selection-end-column="215" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/illegal-argument.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/podcasts.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/heap-off.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/enterprise-java-newscast.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/all-things-java.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-08-java-podcasts.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-hashmap.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="347">
-            <caret line="27" column="215" selection-start-line="27" selection-start-column="215" selection-end-line="27" selection-end-column="215" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
