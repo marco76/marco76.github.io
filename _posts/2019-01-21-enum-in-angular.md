@@ -1,12 +1,12 @@
 ---
-title: 'Enumerators in Angular templates'
+title: 'Enums in Angular templates'
 description: ''
 date: 2019-01-21T01:41:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'angular'
 color: '#7AAB13'
-permalink: /enumerators-angular
+permalink: /enums-angular
 categories:
   - Angular, TypeScript, JavaScript
 tags:
@@ -17,7 +17,7 @@ image: '/assets/img/'
 introduction: 'How to use enum in the html template'
 ---
 
-The `enum` can be used directly in your class, but it has to be assigned to a local variable to be used in the template.
+The TypeScript `enum` can be used directly in your class, but it has to be assigned to a local variable to be used in the template.
  
 Declaration example:
 
@@ -43,12 +43,12 @@ constructor() {
 }
 ```
 
-The template can work only with your _local variable_ and not the enumerator self.
+The template can work only with your _local variable_ and not the enum self.
 The template can access only objects exposed by the controller or the component. 
 
 ```html
 <p>
-OK, Enumerator for Java: <i>languageTypeDeclaredInComponent.Java</i> 
+OK, Enum for Java: <i>languageTypeDeclaredInComponent.Java</i> 
 </p>
 <p>
 OK, Validity: <i>languageTypeDeclaredInComponent.Java === 1</i>
@@ -58,7 +58,7 @@ KO, This doesn't work : <i>LanguageType.Java</i>
 </p>
 ```
 
-If you use directly the enumerator in the template the browser will show the following exception:
+If you use directly the enum in the template the browser will show the following exception:
 
 `ERROR
 Error: Cannot read property [...] of undefined`
