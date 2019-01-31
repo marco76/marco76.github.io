@@ -92,3 +92,10 @@ Enjoy it and contribute! ;-)
 [How to contribute](http://openjdk.java.net/contribute/)
 
 [Build, detailed instructions](http://cr.openjdk.java.net/~ihse/demo-new-build-readme/common/doc/building.html#tldr-instructions-for-the-impatient)
+
+[Unofficial GitHub Repo](Very useful to navigate the sources)
+
+[JDK 12 Tags](https://hg.openjdk.java.net/jdk/jdk12/tags)
+
+[JDK 12 Log](https://hg.openjdk.java.net/jdk/jdk12/shortlog/)
+
