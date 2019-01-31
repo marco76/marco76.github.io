@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-31-build-openjdk.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,10 +43,19 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-31-build-openjdk.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="129">
-                <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+              <first_editor relative-caret-position="152">
+                <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -71,20 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2">
               <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styl/_header.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="62" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -131,7 +129,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>highlighter-r</find>
       <find>highli</find>
       <find>highlighter</find>
       <find>main.css</find>
@@ -161,6 +158,7 @@
       <find>jref.io</find>
       <find>2 cent</find>
       <find>JREF.io</find>
+      <find>vue.js</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
@@ -226,7 +224,6 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-04-wildfly-deploy-war.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-04-wildfly-postgresql.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-05-configure-nginx-jelastic.md" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2019-01-05-java-access-modifiers.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-08-java-podcasts.md" />
@@ -234,10 +231,11 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-01-21-enum-in-angular.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-24-ionic-angular-lifecycle.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-31-build-openjdk.md" />
         <option value="$PROJECT_DIR$/_includes/header-post.html" />
         <option value="$PROJECT_DIR$/_site/assets/css/main.css" />
         <option value="$PROJECT_DIR$/_site/feed.xml" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-31-build-openjdk.md" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -566,28 +564,7 @@
       <workItem from="1548313531542" duration="600000" />
       <workItem from="1548317399494" duration="768000" />
       <workItem from="1548743675311" duration="124000" />
-      <workItem from="1548968889390" duration="877000" />
-    </task>
-    <task id="LOCAL-00053" summary="pre template">
-      <created>1536004940500</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1536004940500</updated>
-    </task>
-    <task id="LOCAL-00054" summary="pre template">
-      <created>1536093479935</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1536093479936</updated>
-    </task>
-    <task id="LOCAL-00055" summary="pre template">
-      <created>1536260068799</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1536260068799</updated>
+      <workItem from="1548968889390" duration="1619000" />
     </task>
     <task id="LOCAL-00056" summary="pre template">
       <created>1536261102774</created>
@@ -911,14 +888,36 @@
       <option name="project" value="LOCAL" />
       <updated>1548057442143</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="pre template">
+      <created>1548969818401</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1548969818402</updated>
+    </task>
+    <task id="LOCAL-00103" summary="pre template">
+      <created>1548970028318</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1548970028318</updated>
+    </task>
+    <task id="LOCAL-00104" summary="pre template">
+      <created>1548970458449</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1548970458449</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226423000" />
+    <option name="totallyTimeSpent" value="227165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="30" width="1384" height="793" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.61752987" visible="true" weight="0.28614008" />
       <window_info id="Structure" order="1" sideWeight="0.38247013" side_tool="true" visible="true" weight="0.28614008" />
@@ -1159,13 +1158,6 @@
     <entry file="file://$PROJECT_DIR$/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header-default.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1277,16 +1269,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-31-build-openjdk.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="129">
-            <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header-post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1305,6 +1287,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2">
           <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-31-build-openjdk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
         </state>
       </provider>
     </entry>
