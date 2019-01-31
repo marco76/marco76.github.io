@@ -17,7 +17,7 @@ image: '/assets/img/'
 introduction: 'Build the OpenJDK, step by step'
 ---
 
-# Build OpenJDK from the sources
+## Build the OpenJDK from the sources
 
 In this tutorial we build OpenJDK version 12 for MacOSX.
 
