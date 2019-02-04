@@ -8,7 +8,10 @@
 
 <header class="header-post" role="banner">
      <div class="content">
-         <a href="https://javademo.io"><p class="demo"> JavaDemo.io <i class="fa fa-external-link" aria-hidden="true"></i></p></a>
+         <p class="demo">
+         <a href="https://javademo.io/conferences"> Java Conferences in the World <i class="fa fa-external-link" aria-hidden="true"></i></a>
+             |<a href="https://javademo.io"> JavaDemo.io <i class="fa fa-external-link" aria-hidden="true"></i></a>
+         </p>
          {% if page.date %}
             <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">{{ page.date | date_to_string }}</time>
          {% endif %}
