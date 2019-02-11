@@ -49,6 +49,7 @@ public static void daysBetween() {
 
 In our second test we show that between January 1 midnight and December 31 at 23:59:59 we have 364 days.
 In our third test we see that if the time of the begin date is later than the time of the end date, we could get 363 days as result.
+363 is the total of _full_ days between the start and the end.
 
 ## How to count the days
 
