@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="pre template">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2019/airhacks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2019/between.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,12 +55,17 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="332">
-                <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/between.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -238,21 +241,6 @@
               <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -559,28 +547,7 @@
       <workItem from="1549261609332" duration="867000" />
       <workItem from="1549434061247" duration="305000" />
       <workItem from="1549574320994" duration="452000" />
-      <workItem from="1549922728851" duration="2283000" />
-    </task>
-    <task id="LOCAL-00060" summary="pre template">
-      <created>1536297321581</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1536297321581</updated>
-    </task>
-    <task id="LOCAL-00061" summary="pre template">
-      <created>1536297881178</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1536297881178</updated>
-    </task>
-    <task id="LOCAL-00062" summary="pre template">
-      <created>1540358054398</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1540358054399</updated>
+      <workItem from="1549922728851" duration="2963000" />
     </task>
     <task id="LOCAL-00063" summary="pre template">
       <created>1540501006777</created>
@@ -904,17 +871,38 @@
       <option name="project" value="LOCAL" />
       <updated>1549261837426</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="pre template">
+      <created>1549925199779</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1549925199780</updated>
+    </task>
+    <task id="LOCAL-00110" summary="pre template">
+      <created>1549925345564</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1549925345564</updated>
+    </task>
+    <task id="LOCAL-00111" summary="pre template">
+      <created>1549925773659</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1549925773659</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236987000" />
+    <option name="totallyTimeSpent" value="237667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="31" width="1384" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6055777" visible="true" weight="0.15350224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6055777" visible="true" weight="0.15350224" />
       <window_info id="Structure" order="1" sideWeight="0.39442232" side_tool="true" visible="true" weight="0.15350224" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -929,7 +917,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28388017" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28388017" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32952926" />
@@ -982,7 +970,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="pre template" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/my.css" />
     <entry file="file://$PROJECT_DIR$/src/styl/_post.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1296,11 +1283,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/between.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="332">
-            <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>

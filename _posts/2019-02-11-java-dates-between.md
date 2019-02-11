@@ -17,7 +17,7 @@ image: '/assets/img/'
 introduction: 'Count the days between two dates'
 ---
 
-## Avoid the pitfall of between
+## Avoid the pitfall of `between` and `until`
 
 There are some use cases that require to count the number of days between two dates.
 For example you need to count the days between the 1st of January 2019 and the 31th of December 2019.
