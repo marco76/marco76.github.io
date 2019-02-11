@@ -6,7 +6,7 @@ author: Marco Molteni
 layout: post
 main-class: 'java'
 color: '#7AAB13'
-permalink: /build-openjdk
+permalink: /calculate-dates
 categories:
   - Java, JDK
 tags:

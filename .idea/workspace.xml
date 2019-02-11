@@ -55,8 +55,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -547,14 +547,7 @@
       <workItem from="1549261609332" duration="867000" />
       <workItem from="1549434061247" duration="305000" />
       <workItem from="1549574320994" duration="452000" />
-      <workItem from="1549922728851" duration="2963000" />
-    </task>
-    <task id="LOCAL-00063" summary="pre template">
-      <created>1540501006777</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1540501006777</updated>
+      <workItem from="1549922728851" duration="3051000" />
     </task>
     <task id="LOCAL-00064" summary="pre template">
       <created>1540501598079</created>
@@ -892,11 +885,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549925773659</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="pre template">
+      <created>1549925916977</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1549925916977</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237667000" />
+    <option name="totallyTimeSpent" value="237755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="31" width="1384" height="793" extended-state="0" />
@@ -1289,8 +1289,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
