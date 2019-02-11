@@ -55,8 +55,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <first_editor relative-caret-position="260">
+                <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               </first_editor>
               <second_editor />
             </state>
@@ -547,21 +547,7 @@
       <workItem from="1549261609332" duration="867000" />
       <workItem from="1549434061247" duration="305000" />
       <workItem from="1549574320994" duration="452000" />
-      <workItem from="1549922728851" duration="3051000" />
-    </task>
-    <task id="LOCAL-00064" summary="pre template">
-      <created>1540501598079</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1540501598079</updated>
-    </task>
-    <task id="LOCAL-00065" summary="pre template">
-      <created>1540502001304</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1540502001305</updated>
+      <workItem from="1549922728851" duration="3453000" />
     </task>
     <task id="LOCAL-00066" summary="spring annotations">
       <created>1541571171184</created>
@@ -892,11 +878,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549925916977</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="pre template">
+      <created>1549925961500</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1549925961501</updated>
+    </task>
+    <task id="LOCAL-00114" summary="pre template">
+      <created>1549926334697</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1549926334697</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237755000" />
+    <option name="totallyTimeSpent" value="238157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="31" width="1384" height="793" extended-state="0" />
@@ -1289,8 +1289,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <first_editor relative-caret-position="260">
+            <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           </first_editor>
           <second_editor />
         </state>
