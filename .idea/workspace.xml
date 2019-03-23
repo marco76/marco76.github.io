@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="twitter">
+    <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-23-teeing.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-23-teeing.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/my_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/my_2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/my_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/my_2.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,26 +52,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/my_2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="253" selection-start-line="7" selection-start-column="253" selection-end-line="7" selection-end-column="253" />
+            <state relative-caret-position="150">
+              <caret line="10" column="346" selection-start-line="10" selection-start-column="346" selection-end-line="10" selection-end-column="346" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/my_2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="347" selection-start-line="10" selection-start-column="347" selection-end-line="10" selection-end-column="347" />
+            <state relative-caret-position="145">
+              <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -99,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/social.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="120">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -138,11 +137,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hashi</find>
-      <find>coming</find>
-      <find>com</find>
-      <find>eal</find>
-      <find>coming soon!</find>
       <find>why</find>
       <find>{{</find>
       <find>jref.io</find>
@@ -167,7 +161,12 @@
       <find>1.875rem</find>
       <find>post-content</find>
       <find>bottom</find>
+      <find>back</find>
+      <find>background</find>
+      <find>backg</find>
+      <find>0.9</find>
       <find>post-content p</find>
+      <find>0.9r</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
@@ -194,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2009-03-07-spring-configuration-file.md" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$PROJECT_DIR$/_posts/2009-04-01-use-groovy-in-a-spring-jsf-web-application.md" />
@@ -240,11 +238,12 @@
         <option value="$PROJECT_DIR$/_posts/2019-02-11-java-dates-between.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_includes/header-default.html" />
-        <option value="$PROJECT_DIR$/_includes/social.html" />
         <option value="$PROJECT_DIR$/_posts/2019-03-23-teeing.md" />
         <option value="$PROJECT_DIR$/_site/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/assets/css/my_2.css" />
+        <option value="$PROJECT_DIR$/_includes/social.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/assets/css/my_2.css" />
+        <option value="$PROJECT_DIR$/_site/assets/css/my_2.css" />
       </list>
     </option>
   </component>
@@ -619,21 +618,7 @@
       <workItem from="1553327095351" duration="8882000" />
       <workItem from="1553347107821" duration="99000" />
       <workItem from="1553348024864" duration="349000" />
-      <workItem from="1553348595211" duration="907000" />
-    </task>
-    <task id="LOCAL-00072" summary="pre template">
-      <created>1541659586831</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1541659586831</updated>
-    </task>
-    <task id="LOCAL-00073" summary="pre template">
-      <created>1541659642857</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1541659642857</updated>
+      <workItem from="1553348595211" duration="2021000" />
     </task>
     <task id="LOCAL-00074" summary="pre template">
       <created>1542236126942</created>
@@ -964,17 +949,30 @@
       <option name="project" value="LOCAL" />
       <updated>1553348396152</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="css">
+      <created>1553349552566</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1553349552567</updated>
+    </task>
+    <task id="LOCAL-00122" summary="css">
+      <created>1553350300572</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1553350300572</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="251896000" />
+    <option name="totallyTimeSpent" value="253010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="31" width="1384" height="793" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5933099" visible="true" weight="0.10895523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5933099" visible="true" weight="0.10895523" />
       <window_info id="Structure" order="1" sideWeight="0.40669015" side_tool="true" visible="true" weight="0.10895523" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -989,7 +987,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18972896" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18972896" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32952926" />
@@ -1042,7 +1040,8 @@
     <MESSAGE value="pre template" />
     <MESSAGE value="tee" />
     <MESSAGE value="twitter" />
-    <option name="LAST_COMMIT_MESSAGE" value="twitter" />
+    <MESSAGE value="css" />
+    <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/illegal-argument.jpg">
@@ -1348,19 +1347,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header-default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-08-monitor-your-spring-boot-applications-with-actuator.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1376,13 +1362,6 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/social.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1402,24 +1381,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header-default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/social.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_site/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="150">
+          <caret line="10" column="346" selection-start-line="10" selection-start-column="346" selection-end-line="10" selection-end-column="346" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/my_2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="253" selection-start-line="7" selection-start-column="253" selection-end-line="7" selection-end-column="253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="347" selection-start-line="10" selection-start-column="347" selection-end-line="10" selection-end-column="347" />
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
