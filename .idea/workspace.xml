@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="tee">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-23-teeing.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-23-teeing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header-default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header-default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +32,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-23-teeing.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <first_editor relative-caret-position="450">
+                <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-544" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/header-default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/social.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -132,8 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-04-12-how-to-solve-the-redirection-404-error-in-angular-using-java.md" />
-        <option value="$PROJECT_DIR$/_posts/2013-03-23-minimal-jsf-java-ee-6-project.md" />
         <option value="$PROJECT_DIR$/_posts/2009-03-07-spring-configuration-file.md" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
@@ -183,6 +212,8 @@
         <option value="$PROJECT_DIR$/_site/assets/css/main.css" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/_posts/2019-03-23-teeing.md" />
+        <option value="$PROJECT_DIR$/_includes/header-default.html" />
+        <option value="$PROJECT_DIR$/_includes/social.html" />
       </list>
     </option>
   </component>
@@ -199,7 +230,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="51" />
-    <option name="y" value="42" />
+    <option name="y" value="31" />
     <option name="width" value="1384" />
     <option name="height" value="793" />
   </component>
@@ -209,8 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,7 +250,7 @@
             <path>
               <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="marco76.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="marco76.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -258,6 +287,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -555,14 +586,8 @@
       <workItem from="1551362170246" duration="2194000" />
       <workItem from="1551510212793" duration="482000" />
       <workItem from="1553327095351" duration="8882000" />
-      <workItem from="1553347107821" duration="53000" />
-    </task>
-    <task id="LOCAL-00070" summary="pre template">
-      <created>1541631453138</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1541631453138</updated>
+      <workItem from="1553347107821" duration="99000" />
+      <workItem from="1553348024864" duration="269000" />
     </task>
     <task id="LOCAL-00071" summary="pre template">
       <created>1541659567921</created>
@@ -900,18 +925,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553345796770</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="tee">
+      <created>1553347191254</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1553347191255</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250594000" />
+    <option name="totallyTimeSpent" value="250909000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="42" width="1384" height="793" extended-state="0" />
+    <frame x="51" y="31" width="1384" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.59683096" visible="true" weight="0.30522388" />
-      <window_info id="Structure" order="1" sideWeight="0.403169" side_tool="true" visible="true" weight="0.30522388" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5950704" visible="true" weight="0.31044775" />
+      <window_info id="Structure" order="1" sideWeight="0.40492958" side_tool="true" visible="true" weight="0.31044775" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -925,7 +957,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18972896" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18972896" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32952926" />
@@ -980,12 +1012,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="tee" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/header-default.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/java-pub-house.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/uploads/2019/illegal-argument.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1083,9 +1109,6 @@
     <entry file="file://$PROJECT_DIR$/assets/img/icons/favicon-16x16.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1099,9 +1122,6 @@
           <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1319,8 +1339,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-23-teeing.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
@@ -1341,6 +1361,28 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header-default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/social.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
