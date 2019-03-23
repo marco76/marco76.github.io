@@ -34,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-23-teeing.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <first_editor relative-caret-position="269">
+                <caret line="217" column="79" selection-start-line="217" selection-start-column="79" selection-end-line="217" selection-end-column="79" />
                 <folding>
                   <element signature="e#343#344#0" expanded="true" />
                   <element signature="e#373#374#0" expanded="true" />
@@ -136,8 +136,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>{{</find>
-      <find>jref.io</find>
       <find>2 cent</find>
       <find>JREF.io</find>
       <find>vue.js</find>
@@ -166,6 +164,8 @@
       <find>0.9r</find>
       <find>post-content p</find>
       <find>1.875</find>
+      <find>intege</find>
+      <find>of inte</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
@@ -617,21 +617,7 @@
       <workItem from="1553327095351" duration="8882000" />
       <workItem from="1553347107821" duration="99000" />
       <workItem from="1553348024864" duration="349000" />
-      <workItem from="1553348595211" duration="3258000" />
-    </task>
-    <task id="LOCAL-00076" summary="pre template">
-      <created>1542236711339</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1542236711339</updated>
-    </task>
-    <task id="LOCAL-00077" summary="pre template">
-      <created>1542964446638</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1542964446639</updated>
+      <workItem from="1553348595211" duration="6089000" />
     </task>
     <task id="LOCAL-00078" summary="pre template">
       <created>1542968726109</created>
@@ -962,15 +948,28 @@
       <option name="project" value="LOCAL" />
       <updated>1553351464635</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="css">
+      <created>1553361071056</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1553361071056</updated>
+    </task>
+    <task id="LOCAL-00126" summary="css">
+      <created>1553361321551</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1553361321552</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254247000" />
+    <option name="totallyTimeSpent" value="257078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="31" width="1384" height="793" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5933099" visible="true" weight="0.10895523" />
       <window_info id="Structure" order="1" sideWeight="0.40669015" side_tool="true" visible="true" weight="0.10895523" />
@@ -1409,8 +1408,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-23-teeing.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <first_editor relative-caret-position="269">
+            <caret line="217" column="79" selection-start-line="217" selection-start-column="79" selection-end-line="217" selection-end-column="79" />
             <folding>
               <element signature="e#343#344#0" expanded="true" />
               <element signature="e#373#374#0" expanded="true" />
