@@ -85,9 +85,9 @@ http {
     gzip_proxied any;
 
     gzip_types
+      ## text/html is always compressed : https://nginx.org/en/docs/http/ngx_http_gzip_module.html
       text/plain
       text/css
-      text/html
       text/javascript
       application/javascript
       application/x-javascript
