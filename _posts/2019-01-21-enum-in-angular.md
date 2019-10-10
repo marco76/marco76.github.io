@@ -89,7 +89,7 @@ var ExampleType;
 
 [TypeScript reference](https://www.typescriptlang.org/docs/handbook/enums.html)
 
-[Angular :  GitHub](https://github.com/angular/angular/issues/2885)
+[Angular -  GitHub: Usage of enums in templates not possible?](https://github.com/angular/angular/issues/2885)
 
-[enum in deep](https://basarat.gitbooks.io/typescript/docs/enums.html)
+[Angular - GitHub: Allow constants, enums, functions to be used in templates](https://github.com/angular/angular/issues/25963)
 
