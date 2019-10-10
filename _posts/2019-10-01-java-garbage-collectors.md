@@ -12,8 +12,7 @@ categories:
 tags:
   - Java, JDK, Shenandoah, XGC
 video_id: 363508553
- 
-image: '/assets/img/'
+image: '/assets/img/uploads/2019/javazone_1.jpg'
 
 introduction: 'JavaZone: GC quick introduction'
 ---
