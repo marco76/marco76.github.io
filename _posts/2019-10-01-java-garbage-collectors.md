@@ -1,16 +1,17 @@
 ---
-title: 'Garbage collectors for the busy Java developer'
+title: 'Garbage collectors for the busy Java developer (10 min, no maths ;))'
 description: 'GC quick introduction'
 date: 2019-10-01T01:41:48+00:00
 author: Marco Molteni
-layout: post
+layout: post-video
 main-class: 'java'
 color: '#7AAB13'
 permalink: /garbage-collectors-intro
 categories:
   - Java, JDK
 tags:
-  - Java, JDK
+  - Java, JDK, Shenandoah, XGC
+video_id: 363508553
  
 image: '/assets/img/'
 
