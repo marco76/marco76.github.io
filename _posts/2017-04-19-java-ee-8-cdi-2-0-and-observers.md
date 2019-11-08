@@ -23,7 +23,7 @@ introduction: 'Java EE 8 - CDI 2.0: Events and Observers'
 ---
 ### Observable Event example with CDI 2.0 (Java EE 8)
 
-Demo: <http://javademo.io/cdi-weather> Code source: [GitHub](https://github.com/marco76/java-demo/tree/master/server/src/main/java/io/javademo/examples/cdi/event)
+Code source: [GitHub](https://github.com/marco76/java-demo/tree/master/server/src/main/java/io/javademo/examples/cdi/event)
 
   * CDI website: <http://www.cdi-spec.org/>
   * CDI documentation: <https://docs.jboss.org/cdi/spec/2.0-PFD2/cdi-spec.html>

@@ -27,8 +27,6 @@ Npm: <https://www.npmjs.com/package/@molteni/export-csv>
 
 GitHub: <https://github.com/marco76/export-csv>
 
-Online example: <http://javademo.io/conferences>
-
 
 Goal: easily export arrays and JSON data from your Angular or JavaScript application to Excel / CSV
 

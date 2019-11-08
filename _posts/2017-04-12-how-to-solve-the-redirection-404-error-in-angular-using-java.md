@@ -35,8 +35,6 @@ If you are developing your application with Java EE or Spring the solution is ve
 
 If the page is not found a simple redirection to the frontend page get the work done. The frontend will show the correct page.
 
-The <javademo.io> is built using this strategy.
-
 **Using a controller**
 
 A different approach uses a Spring `@controller` on the backend. In this example all the links (controllers) of the frontend are prefixed with ‘app’.

@@ -27,8 +27,6 @@ In a previous post I already explained how to deploy an Angular app in a Java ar
 
 When we want to completely separate the frontend from the backend we have to create multiple containers.
 
-In this example we create a Docker container that contains an Angular application (http://javademo.io).
-
 ## The docker container
 
 `Dockerfile`
