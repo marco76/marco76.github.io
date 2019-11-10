@@ -1,6 +1,6 @@
 ---
 title: 'Java Conferences 2020'
-description: ''
+description: 'List of some of the best conferences'
 date: 2019-11-10T01:41:48+00:00
 author: Marco Molteni
 layout: post
