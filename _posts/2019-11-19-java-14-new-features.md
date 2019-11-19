@@ -21,8 +21,48 @@ _this post is still work in progress it will be updated regularly and often in t
 ## Developer / language new features
 These features are interesting for your daily basis activity.
 
-#### Pattern matching for instanceof (Preview)
-[Pattern matching](https://openjdk.java.net/jeps/305)
+### Pattern matching for instanceof (Preview)
+[https://openjdk.java.net/jeps/305](https://openjdk.java.net/jeps/305)
+
+[Here you can find an extended explanation](https://cr.openjdk.java.net/~briangoetz/amber/pattern-match.html). The pattern matching should be implemented initially for
+`instanceof`, `switch` could follow in future releases.
+
+Java 11 example:
+``` java
+if (obj instanceof String) {
+ String s = (String) obj;
+ System.out.println(s);
+}
+```
+
+In this code we can see a 'pattern':
+
+-> test: `obj instanceof String`
+
+-> conversion: `(String) obj;`
+
+-> assignment: `String s = (String) obj;`
+
+-> usage: `System.out.println(s);`
+
+Another issue is the repetition of `String`, it's used 3 times in this small example.
+
+The pattern 'test -> conversion -> assignement -> usage' is a common pattern used by the developer.
+
+With Java 14 we can simplify our code:
+``` java
+if (obj instanceof String obj) {
+ System.out.println(s);
+}
+```
+
+If `obj` is an instance of `String` this is assigned to the `String` object `obj`.
+
+You can find this feature already implemented in [C#](https://docs.microsoft.com/en-us/dotnet/csharp/pattern-matching), [Scala](https://docs.scala-lang.org/tour/pattern-matching.html), [Haskell](http://learnyouahaskell.com/syntax-in-functions)
+
+
+
+
 #### Records (Preview)
 [Records](https://openjdk.java.net/jeps/359)
 
