@@ -1,12 +1,12 @@
 ---
-title: 'Observables and jxrs tutorial / FAQ'
-description: 'Understanding observables and JXRS'
+title: 'Observables and rxjs tutorial / FAQ'
+description: 'Understanding observables and RXJS'
 date: 2019-11-17T01:41:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'angular'
 color: '#7AAB13'
-permalink: /jxrs-tutorial
+permalink: /rxjs-tutorial
 categories:
   - Angular, rxjs
 tags:
