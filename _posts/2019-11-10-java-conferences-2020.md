@@ -31,3 +31,4 @@ introduction: 'Java conferences in the world'
 |Riga Dev Days|[https://rigadevdays.lv/](https://rigadevdays.lv/)|?|?|Riga|Latvia|lv|?|
 |J-Spring|[https://jspring.nl/](https://jspring.nl/)|?|?|Utrecht|Netherlands|nl||
 |JVM Con|[https://www.jvm-con.de](https://www.jvm-con.de)|?|?|Köln|Germany|de||
+|DevTernity|[https://devternity.com](https://devternity.com)|?|?|Riga|Latvia|lv||

@@ -59,11 +59,11 @@ From 0 to potentially infinite values.
 After the subscription when the Observable will emit the `next` value or, in case of `BehaviorSubject` immediately (previous or initial value).
 
 ## What is the difference between Subject, BehaviorSubject, ReplaySubject?
-- _Subject_ : emits the values only after the subscription, it doesn't store any value. It can publish and subscribe.
-- _BehaviorSubject_ : it stores an initial value.
+- _[Subject](https://github.com/ReactiveX/rxjs/blob/master/src/internal/Subject.ts)_ : emits the values only after the subscription, it doesn't store any value. It can publish and subscribe.
+- _[BehaviorSubject](https://github.com/ReactiveX/rxjs/blob/master/src/internal/BehaviorSubject.ts)_ : it stores an initial value.
 When subscribed it returns the last value emitted or the initial value.
 This is very useful if you need to load data before it's effectively used / showed.
-- _ReplaySubject_ : it stores multiple values, it has a _bufferSize_ property that defines the number of values stored.
+- _[ReplaySubject](https://github.com/ReactiveX/rxjs/blob/master/src/internal/ReplaySubject.ts)_ : it stores multiple values, it has a _bufferSize_ property that defines the number of values stored.
 When subscribed it returns the values stored in the buffer.
 
 <img src="/assets/img/uploads/2019/rxjs_subject_1.gif" alt="" />
