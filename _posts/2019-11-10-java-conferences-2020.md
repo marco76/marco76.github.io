@@ -30,4 +30,4 @@ introduction: 'Java conferences in the world'
 |JAX|[https://jax.de/](https://jax.de/)|?|?|Mainz|Germany|de||
 |Riga Dev Days|[https://rigadevdays.lv/](https://rigadevdays.lv/)|?|?|Riga|Latvia|lv|?|
 |J-Spring|[https://jspring.nl/](https://jspring.nl/)|?|?|Utrecht|Netherlands|nl||
-
+|JVM Con|[https://www.jvm-con.de](https://www.jvm-con.de)|?|?|Köln|Germany|de||
