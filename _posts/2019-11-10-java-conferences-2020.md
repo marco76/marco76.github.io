@@ -23,6 +23,7 @@ introduction: 'Java conferences in the world'
 |Devoxx UK|[https://www.devoxx.co.uk/](https://www.devoxx.co.uk/)|May 13|May 15|London|England|gb|November 2019|
 |Voxxed Days Milan|[https://voxxeddays.com/milan/](https://voxxeddays.com/milan/)|May 16|Milan|Italy|it|?|
 |JPrime|[https://jprime.io/](https://jprime.io/)|May 27|May 28|Sofia|Bulgaria|bg|February 15|
+|JNation|[https://2020.jnation.pt](https://2020.jnation.pt)|June 2|June 3|Coimbra|Portugal|pt|February 20, 2020|
 |Devoxx PL|[http://devoxx.pl/](http://devoxx.pl/)|June 17|June 19|Krakow|Poland|pl|?|
 |JavaZone|[https://javazone.no](https://javazone.no)|September 9|September 10|Oslo|Norway|no|?
 |SpringOne|[https://springoneplatform.io](https://springoneplatform.io)|September 21|September 24|Seattle|US|us|?
