@@ -15,7 +15,7 @@ tags:
  
 image: '/assets/img/'
 
-introduction: 'Active podcasts about Java'
+introduction: 'Active Java Podcasts'
 ---
 
 Podcasts active in 2018-2019.
