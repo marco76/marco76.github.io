@@ -7,6 +7,9 @@ layout: null
         <url>
             <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
         </url>
+        <url>
+            <loc>{{ page.url | prepend: site.baseurl | prepend: site.url_https }}</loc>
+        </url>
     {% endfor %}
     {% for post in site.posts %}
         <url>

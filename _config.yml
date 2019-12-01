@@ -2,7 +2,8 @@
 title: Java and Angular in the Cloud
 description: Java and Angular
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://javaee.ch"
+url: "http://javaee.ch"
+url_https: "https://javaee.ch"
 repository_url: "https://github.com/marco76/marco76.github.io/blob/master/"
 
 news: "[Garbage Collectors for busy Java developers (10 min, no maths ;) )](https://javaee.ch/garbage-collectors-intro)"

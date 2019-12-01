@@ -18,6 +18,7 @@ _This post is still 'work in progress' it will be updated often in the future. T
 
 ## Tools
 
+- [djl](https://djl.ai): 'Intuitive APIs use native Java concepts and abstract away complexity involved with Deep learning'. Deep learning library built by Amazon.
 - [Spark](http://spark.apache.org/mllib/): _"ML algorithms and utilities"_
 -  [DL4J](http://deeplearning4j.org): _"Deeplearning4j lets you compose deep neural nets from various shallow nets, each of which form a so-called `layer`. This flexibility lets you combine variational autoencoders, sequence-to-sequence autoencoders, convolutional nets or recurrent nets as needed in a distributed, production-grade framework that works with Spark and Hadoop"._
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/index.html) : _"Weka is a collection of machine learning algorithms for data mining tasks. It contains tools for data preparation, classification, regression, clustering, association rules mining, and visualization."_
