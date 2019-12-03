@@ -68,6 +68,24 @@ When subscribed it returns the values stored in the buffer.
 
 <img src="/assets/img/uploads/2019/rxjs_subject_1.gif" alt="" />
 
+## How to combine 2 streams, e.g. 2 database tables by key
+This case is very frequent if you are working with databases and you have to combine two streams representing a database by key.
+The best option you have is `combineLatest` :
+- combines multiple streams
+- uses the latest emitted values
+- wait for each input stream to emit at last once
+- emits an array of values, in order, containing the result of each stream
+
+``` javascript
+personWithAddress$ = combineLatest(
+  this.personList$,
+  this.adressList$)
+)
+```
+this would emit an array containing the two arrays:
+`[PersonList[], Adresses[]]`
+this value can be passed through your rxjs pipe. 
+
 ## Observables can manage multiple observers?
 
 ## When to unsubscribe
