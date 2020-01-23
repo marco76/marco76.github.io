@@ -12,7 +12,7 @@ categories:
 tags:
   - Java
 
-introduction: 'First look at the Records feature (Java 14)'
+introduction: 'How to use preview features in Java'
 ---
 
 Every version of Java contains some features that are only in 'Preview' status and are not supported for production.

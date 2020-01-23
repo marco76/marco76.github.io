@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-java-startup-preview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-startup-preview.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,52 +34,6 @@
         <option value="SCSS File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>date</find>
-      <find>expected 'styles' to be an array of strings.</find>
-      <find>javademo.io</find>
-      <find>nginx</find>
-      <find>poll-ma</find>
-      <find>highlight</find>
-      <find>serve</find>
-      <find>css</find>
-      <find>highli</find>
-      <find>protected_e</find>
-      <find>podcasts.</find>
-      <find>nginx_2.jp</find>
-      <find>2 ce</find>
-      <find>filter</find>
-      <find>count</find>
-      <find>1.875rem</find>
-      <find>post-content</find>
-      <find>bottom</find>
-      <find>back</find>
-      <find>background</find>
-      <find>backg</find>
-      <find>0.9</find>
-      <find>0.9r</find>
-      <find>post-content p</find>
-      <find>1.875</find>
-      <find>intege</find>
-      <find>of inte</find>
-      <find>share</find>
-      <find>3.125</find>
-      <find>img-rou</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>&gt;</replace>
-      <replace>all1951079</replace>
-      <replace>1951079</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-      <dir>$PROJECT_DIR$/assets/css</dir>
-      <dir>$PROJECT_DIR$/src/styl</dir>
-      <dir>$PROJECT_DIR$/_layouts</dir>
-      <dir>$PROJECT_DIR$/_includes</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -404,14 +358,7 @@
       <workItem from="1553377295128" duration="113000" />
       <workItem from="1554926371149" duration="1828000" />
       <workItem from="1560318619527" duration="146000" />
-      <workItem from="1579760467592" duration="4891000" />
-    </task>
-    <task id="LOCAL-00082" summary="pre template">
-      <created>1544044781866</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1544044781866</updated>
+      <workItem from="1579760467592" duration="6253000" />
     </task>
     <task id="LOCAL-00083" summary="pre template">
       <created>1544045122779</created>
@@ -749,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579762805642</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="css">
+      <created>1579766351729</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1579766351729</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -783,14 +737,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1579762805138">
+    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1579766351418">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1579762805138" />
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1579762808462">
+    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1579766351418" />
+    <state x="120" y="143" width="1200" height="568" key="DiffContextDialog" timestamp="1579771186262">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1579762808462" />
+    <state x="120" y="143" width="1200" height="568" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1579771186262" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1579766353825">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1579766353825" />
     <state x="385" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1579760594768">
       <screen x="0" y="23" width="1440" height="808" />
     </state>

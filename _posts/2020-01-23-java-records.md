@@ -1,7 +1,7 @@
 ---
 title: 'Java Records'
 description: 'Java 14 new feature'
-date: 2020-01-23T00:41:48+00:00
+date: 2020-01-23T01:41:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'java'
@@ -12,7 +12,7 @@ categories:
 tags:
   - Java
 
-introduction: 'What's new in Java 14'
+introduction: 'How to use preview features in Java'
 ---
 
 Java 14 introduces a new interesting feature: 'Records'.
@@ -29,12 +29,11 @@ In other words a 'Record' represents an immutable state. Record like Enum is a r
 ### Benefits
 - it generates _equals()_, _hashCode()_, toString(), read accessors ('getters') for you
 
-
-### NOT possible
+### Restrictions
 - extend a Record, it's a final class
 - change a field value (no get)
 
-### Possible
+### Support
 - implement an interface
 
 ## Examples
