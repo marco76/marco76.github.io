@@ -31,10 +31,14 @@ In other words a 'Record' represents an immutable state. Record like Enum is a r
 
 ### Restrictions
 - extend a Record, it's a final class
+- extend a Class
 - change a field value (no get)
 
 ### Support
 - implement an interface
+
+### Tricks
+- mutable field: the fields should be immutable but if a field contains a List or an Array you can still change the content of the object.
 
 ## Examples
 
@@ -58,17 +62,36 @@ Java add the private field and the accessor to the class and implements the 'toS
 
 ``` java
 var marco = new Person("marco");
-marco.name() => "marco", no 'get' here!
-marco.toString() => "Person[name=marco]"
-marco.hashCode() => 103666250
+marco.name() // => "marco", no 'get' here!
+marco.toString() // => "Person[name=marco]"
+marco.hashCode() // => 103666250
 
 marco.equals(new Person("andy")); => false
 
 // if we try to modify the state
-marco.name = "andy"; => Error: name has private access in Person
-marco.setName("andy"); => Error: cannot find symbol
+marco.name = "andy"; // => Error: name has private access in Person
+marco.setName("andy"); // => Error: cannot find symbol
 ```
 
 Noteworthy here:
 - the fields are private and final
 - an accessor is created for the fields without the traditional bean notation 'get'.
+
+### implement an interface
+
+`records` can implement an interface, here an example:
+```java
+
+interface Person {
+  String getFullName();
+}
+
+record Developer(String firstName, String lastName) implements Person {
+  public String getFullName() {
+    return firstName + " " + lastName;
+  }
+}
+
+var marco = new Developer("Marco", "Molteni"); // => marco ==> Developer[firstName=Marco, lastName=Molteni]
+marco.getFullName(); // =>  "Marco Molteni"
+```

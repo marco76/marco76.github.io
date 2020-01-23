@@ -4,7 +4,6 @@
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-java-startup-preview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-startup-preview.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -358,14 +357,7 @@
       <workItem from="1553377295128" duration="113000" />
       <workItem from="1554926371149" duration="1828000" />
       <workItem from="1560318619527" duration="146000" />
-      <workItem from="1579760467592" duration="6253000" />
-    </task>
-    <task id="LOCAL-00083" summary="pre template">
-      <created>1544045122779</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1544045122779</updated>
+      <workItem from="1579760467592" duration="7075000" />
     </task>
     <task id="LOCAL-00084" summary="pre template">
       <created>1544045165412</created>
@@ -703,7 +695,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579766351729</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="css">
+      <created>1579775734270</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1579775734270</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -737,18 +736,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1579766351418">
+    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1579775733959">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1579766351418" />
+    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1579775733959" />
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog" timestamp="1579771186262">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1579771186262" />
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1579766353825">
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1579775736740">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1579766353825" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1579775736740" />
     <state x="385" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1579760594768">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
