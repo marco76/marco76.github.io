@@ -1,7 +1,7 @@
 ---
 title: 'Preview the new features in Java'
 description: 'How to use the Preview features'
-date: 2020-02-23T01:41:48+00:00
+date: 2020-01-23T00:40:48+00:00
 author: Marco Molteni
 layout: post
 main-class: 'java'
@@ -12,7 +12,7 @@ categories:
 tags:
   - Java
 
-introduction: 'Preview Java new features'
+introduction: 'First look at the Records feature (Java 14)'
 ---
 
 Every version of Java contains some features that are only in 'Preview' status and are not supported for production.
