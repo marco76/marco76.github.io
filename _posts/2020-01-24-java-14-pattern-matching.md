@@ -59,7 +59,9 @@ marco.toString() // => "Person[]"
 ```
 
 ### adding a field
-`record Person(String name){};`
+```java
+ record Person(String name){};
+```
 
 In this example we add an argument to the new record.
 Java add the private field and the accessor to the class and implements the 'toString' ,'equals' methods.
