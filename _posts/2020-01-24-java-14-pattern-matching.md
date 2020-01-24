@@ -52,7 +52,9 @@ var jonatan = new Person();
 marco.hashCode(); => 0
 ```
 
-`marco.equals(jonatan) => true`, `marco == jonatan => false`, `marco.toString() => "Person[]"`;
+`marco.equals(jonatan) => true`
+`marco == jonatan => false`
+`marco.toString() => "Person[]"`;
 
 ### adding a field
 `record Person(String name){};`
