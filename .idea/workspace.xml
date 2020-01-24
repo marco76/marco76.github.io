@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-01-24-java-14-pattern-matching.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,19 +83,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
-      <recent name="$PROJECT_DIR$/_includes" />
-      <recent name="$PROJECT_DIR$/_includes/old" />
-      <recent name="$PROJECT_DIR$/_layouts" />
-      <recent name="$PROJECT_DIR$/_layouts/old" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2018/03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/_includes/old" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/_layouts/old" />
     </key>
   </component>
   <component name="RunManager" selected="Gulp.js.default">
@@ -357,14 +357,10 @@
       <workItem from="1553377295128" duration="113000" />
       <workItem from="1554926371149" duration="1828000" />
       <workItem from="1560318619527" duration="146000" />
-      <workItem from="1579760467592" duration="7075000" />
-    </task>
-    <task id="LOCAL-00084" summary="pre template">
-      <created>1544045165412</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1544045165412</updated>
+      <workItem from="1579760467592" duration="7229000" />
+      <workItem from="1579798142605" duration="736000" />
+      <workItem from="1579875463248" duration="396000" />
+      <workItem from="1579876014556" duration="358000" />
     </task>
     <task id="LOCAL-00085" summary="pre template">
       <created>1546431012508</created>
@@ -702,7 +698,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579775734270</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="css">
+      <created>1579797480841</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1579797480841</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -736,18 +739,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1579775733959">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1579800614755">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
+    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1579800614755" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1579775733959" />
+    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1579797480507" />
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog" timestamp="1579771186262">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1579771186262" />
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1579775736740">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1579797482414">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1579775736740" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1579797482414" />
+    <state x="373" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1579875493651">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="373" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1579800203930" />
+    <state x="373" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579875493651" />
     <state x="385" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1579760594768">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
