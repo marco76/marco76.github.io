@@ -30,12 +30,12 @@ In other words a 'Record' represents an immutable state. Record like Enum is a r
 - it generates _equals()_, _hashCode()_, toString(), read accessors ('getters') for you
 
 ### Restrictions
-- extend a Record, it's a final class
-- extend a Class
-- change a field value (no get)
+- a record cannot be extended, it's a final class
+- a record cannot extend a Class
+- the value (reference) of a field is final and cannot be changed
 
 ### Support
-- implement an interface
+- it can implement interfaces
 
 ### Tricks
 - mutable field: the fields should be immutable but if a field contains a List or an Array you can still change the content of the object.

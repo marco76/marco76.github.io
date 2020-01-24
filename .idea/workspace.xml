@@ -739,20 +739,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1579800614755">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1579876503921">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1579800614755" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1579775733959" />
+    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1579876503921" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1579797480507" />
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog" timestamp="1579771186262">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1579771186262" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1579797482414">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1579876507188">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1579775736740" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1579876507187" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1579797482414" />
     <state x="373" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1579875493651">
       <screen x="0" y="23" width="1440" height="812" />
