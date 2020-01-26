@@ -64,7 +64,7 @@ marco.toString() // => "Person[]"
 ```
 
 In this example we add an argument to the new record.
-Java add the private field and the accessor to the class and implements the 'toString' ,'equals' methods.
+Java adds the private field and the accessor to the class and implements the 'toString' ,'equals' methods.
 
 ``` java
 var marco = new Person("marco");
@@ -72,7 +72,11 @@ marco.name() // => "marco", no 'get' here!
 marco.toString() // => "Person[name=marco]"
 marco.hashCode() // => 103666250
 
-marco.equals(new Person("jonatan")); => false
+marco.equals(new Person("jonatan")); // => false
+
+// two objects are equals if they have the same state
+marco.equals(new Person("marco")); // => true
+marco == new Person("marco")); // => false
 
 // if we try to modify the state
 marco.name = "jonatan"; // => Error: name has private access in Person
