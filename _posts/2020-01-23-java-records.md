@@ -88,7 +88,7 @@ Java adds the private field (`final String name;`)
 // a new constructor is generated a mandatory parameter 'name' 
 var marco = new Person("marco");
 
-// the defauld constructor is not more available
+// the default no parameter constructor is not generated
 var andy = new Person(); // => constructor Person in record Person cannot be applied to given types; required: java.lang.String
 
 // to read the value of the name we access the field 

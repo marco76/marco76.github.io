@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2020/record_person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2020/records_interface.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2020/records_person.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" afterDir="false" />
     </list>
@@ -365,14 +362,7 @@
       <workItem from="1579876014556" duration="1981000" />
       <workItem from="1579977134622" duration="560000" />
       <workItem from="1580023482608" duration="315000" />
-      <workItem from="1580052638373" duration="14178000" />
-    </task>
-    <task id="LOCAL-00093" summary="pre template">
-      <created>1546693070353</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1546693070354</updated>
+      <workItem from="1580052638373" duration="14741000" />
     </task>
     <task id="LOCAL-00094" summary="pre template">
       <created>1546717634837</created>
@@ -710,7 +700,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580212076549</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="css">
+      <created>1580213571793</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1580213571793</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -757,8 +754,8 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1579771186262" />
-    <state x="320" y="172" key="Vcs.Push.Dialog.v2" timestamp="1580212086710">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1580213574365">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1580023597454" />
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1580023658766" />
@@ -768,6 +765,7 @@
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1579878738541" />
     <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1580160835240" />
     <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1580212086710" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1580213574365" />
     <state x="373" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1579978178417">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
