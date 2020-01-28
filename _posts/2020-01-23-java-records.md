@@ -52,7 +52,7 @@ To execute the examples you can use `JShell` with the flag `--enable-preview`
 
 If you are using a _single file program_ you need the _source_ flag: `java --enable-preview --source 14 [source].java`  
  
-For this post I used JShell.
+The code in this post has been tested with JShell using OpenJDK build 14-ea+32-1423.
 
 ### minimalistic
 ```java
