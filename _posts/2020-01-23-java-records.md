@@ -112,7 +112,7 @@ In this example we add an argument (component) to the new _record_.
 Java adds the private field (`final String name;`)
  and the accessor (`public String name() {return this.name;}`) to the class and implements _toString()_, _equals()_ and the constructor `Person(String name) {this.name = name}`.
 
-<img src="/assets/img/uploads/2020/records_person.png" alt="" style:"{width= 80%; height=80%}"/>
+<img src="/assets/img/uploads/2020/records_person.png" alt=""/>
 
 ``` java
 // a new constructor is generated a mandatory parameter 'name' 
