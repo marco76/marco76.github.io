@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-01-24-java-14-pattern-matching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-24-java-14-pattern-matching.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -71,6 +71,12 @@
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -356,14 +362,8 @@
       <workItem from="1579875463248" duration="396000" />
       <workItem from="1579876014556" duration="1981000" />
       <workItem from="1579977134622" duration="560000" />
-      <workItem from="1580023482608" duration="96000" />
-    </task>
-    <task id="LOCAL-00090" summary="pre template">
-      <created>1546608359993</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1546608359993</updated>
+      <workItem from="1580023482608" duration="315000" />
+      <workItem from="1580052638373" duration="12558000" />
     </task>
     <task id="LOCAL-00091" summary="pre template">
       <created>1546615925980</created>
@@ -701,11 +701,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579878736631</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="css">
+      <created>1580023593462</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1580023593463</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -735,9 +742,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1579878736281">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1580023592885">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
+    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.804@0.23.1440.804" timestamp="1580023592885" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1579800614755" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1579775733959" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1579876733998" />
@@ -747,22 +755,27 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1579771186262" />
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1579878738541">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2" timestamp="1580211786664">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1580023597454" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1580023658766" />
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1579775736740" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1579876507187" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1579797482414" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1579878738541" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1580160835240" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1580211786664" />
     <state x="373" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1579978178417">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="373" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1579800203930" />
     <state x="373" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579875493651" />
     <state x="373" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1579978178416" />
-    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1579760594768">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="385" y="158" width="670" height="691" key="search.everywhere.popup" timestamp="1580193380274">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1579760594768" />
+    <state x="385" y="158" width="670" height="691" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1580193380274" />
   </component>
 </project>

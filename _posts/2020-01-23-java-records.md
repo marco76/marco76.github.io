@@ -12,56 +12,85 @@ categories:
 tags:
   - Java
 
-introduction: 'How to use preview features in Java'
+introduction: 'Records in Java 14'
 ---
 
-Java 14 introduces a new interesting feature: 'Records'.
+Java 14 introduces a new interesting feature: _records_.
+
+Here you can find the official [JEP 359: Records](https://openjdk.java.net/jeps/359).
+
+The goal is to have a 'data carrier' class without the traditional 'Java ceremony' (boilerplate).
+
+In other words, a _record_ represents an immutable state. Record like Enum is a restricted form of class.
 
 _The feature has still a preview status and it could change in future releases._
 
-Here you can find the official [Enhancement request](https://openjdk.java.net/jeps/359).
-
-The goal is to have a 'data carrier' class without the traditional 'Java (unnecessary) ceremony'.
-
-In other words a 'Record' represents an immutable state. Record like Enum is a restricted form of class.
-
+### Use Cases
+A typical use case is to return multiple values from a method and replace some data structures used as tuples (e.g. _Pair_, _Map.Entry_).
+Records are not intended to replace (mutable) data objects or third libraries like _Lombok_.
 
 ### Benefits
-- it generates _equals()_, _hashCode()_, toString(), read accessors ('getters') for you
+- it generates _equals()_, _hashCode()_, _toString()_, _constructor()_ and read accessors for you
+- it can implements interfaces
 
 ### Restrictions
-- extend a Record, it's a final class
-- extend a Class
-- change a field value (no get)
+- a _record_ cannot be extended, it’s a final class
+- a _record_ cannot extend a class
+- the value (reference) of a field is final and cannot be changed
 
-### Support
-- implement an interface
-
-### Tricks
-- mutable field: the fields should be immutable but if a field contains a List or an Array you can still change the content of the object.
+### Beware
+If the fields contain objects only the reference is immutable.
+ The referenced objects can change their value compromising the state of the record.
+ For this reason, you should use immutable objects in your _record_ to avoid surprises.
 
 ## Examples
 
-### basic
-`record Person(){};`
+### How to use them
+To execute the examples you can use `JShell` with the flag `--enable-preview`
+ or compiling your source using the flags `javac --enable-preview --release 14 [source].java`
+ and executing it using `java --enable-preview [mainclass]`.
 
-This is a valid record. The compiler accepts it and you can use it in your code:
-``` java
-var marco = new Person();
-var andy = new Person();
-marco.hashCode(); => 0
+If you are using a _single file program_ you need the _source_ flag: `java --enable-preview --source 14 [source].java`  
+ 
+For this post I used JShell.
+
+### minimalistic
+```java
+record Person(){};
 ```
 
-`marco.equals(andy) => true`, `marco == andy => false`, `marco.toString() => "Person[]"`;
+This is a minimalistic valid _record_.
+``` java
+var marco = new Person();
+var jon = new Person();
+
+marco.hashCode(); // => 0
+
+marco.equals(jon) // => true, the objects have the same field content
+marco == jon // => false, the objects have different references
+
+marco.toString() // => "Person[]", toString() is implemented by record. A default result for a standard class would have been something like: "Person2@573fd745"
+```
 
 ### adding a field
-`record Person(String name){};`
+```java
+record Person(String name){};
+```
 
-In this example we add an argument to the new record.
-Java add the private field and the accessor to the class and implements the 'toString' ,'equals' methods.
+In this example we add an argument to the new _record_.
+
+Java adds the private field (`final String name;`)
+ and the accessor (`public String name() {return this.name;}`) to the class and implements _toString()_, _equals()_ and the constructor `Person(String name) {this.name = name}`.
+ 
 
 ``` java
+// a new constructor is generated a mandatory parameter 'name' 
 var marco = new Person("marco");
+
+// the defauld constructor is not more available
+var andy = new Person(); // => constructor Person in record Person cannot be applied to given types; required: java.lang.String
+
+// to read the value of the name we access the field 
 marco.name() // => "marco", no 'get' here!
 marco.toString() // => "Person[name=marco]"
 marco.hashCode() // => 103666250
@@ -75,13 +104,13 @@ marco.setName("andy"); // => Error: cannot find symbol
 
 Noteworthy here:
 - the fields are private and final
-- an accessor is created for the fields without the traditional bean notation 'get'.
+- an accessor is created for the fields _without_ the traditional bean notation 'get'.
 
-### implement an interface
+### implementing an interface
 
 `records` can implement an interface, here an example:
-```java
 
+```java
 interface Person {
   String getFullName();
 }
@@ -95,3 +124,103 @@ record Developer(String firstName, String lastName) implements Person {
 var marco = new Developer("Marco", "Molteni"); // => marco ==> Developer[firstName=Marco, lastName=Molteni]
 marco.getFullName(); // =>  "Marco Molteni"
 ```
+
+### implementing multiple constructors
+
+_records_ implements a constructor with the fields declared as parameters.
+
+```java
+record Person(String name, Integer age){};
+```
+
+This code generates something like:
+```java
+public final class Person extends Record {
+  private final String name;
+  private final Integer age;
+  
+  // constructor generated
+  public Person(String name, Integer age) {
+    this.name = name;
+    this.age = age;
+  }
+  // accessors
+  public String name() {return name;}
+  public String age() {return age;}
+  
+  // ... other methods
+
+}
+```
+
+If you try to instantiate the _record_ without the two parameters an exception is thrown:
+```java
+var marco = new Person();
+```
+
+```java
+constructor Person in record Person cannot be applied to given types;
+|    required: java.lang.String,java.lang.Integer
+|    found:    no arguments
+|    reason: actual and formal argument lists differ in length
+|  var marco = new Person();
+```
+
+You can add your own constructor if needed, e.g. not all the parameters are required.
+
+```java
+record Person(String name, Integer age){
+  public Person() {
+    this("unknown", null);
+  }
+};
+```
+
+In this case you can instantiate an object using the extra constructor:
+```java
+var marco = new Person(); // => marco ==> Person[name=unknown, age=null]
+```
+
+### mutating the state
+
+In this example I show how it's possible to mutate the values inside a `record`.
+The _types_ used in a record should be immutable to be sure that the _state_ won't change. 
+
+```java
+record Developer (String name, List<String> languages){};
+
+List<String> languages = new ArrayList<String>(Arrays.asList("Java"));
+languages; // ==> [Java];
+
+var marco = new Developer("marco", languages); // marco ==> Developer[name=marco, languages=[Java]]
+marco.languages(); // => [Java]
+marco.hashCode(); // => -1079012009
+
+// we add one value to the array referenced in the record
+languages.add("JavaScript");
+
+// the value of the record changes
+marco.languages(); // => [Java, JavaScript]
+marco.hashCode(); () // => 256362082
+
+// the Array list is mutable
+marco.languages().remove(1);
+marco.languages(); // => [Java]
+marco.hashCode(); // => -1079012009
+```
+### redefining an accessor
+
+When you declare a _record_ you can redefine an accessor method. This is useful if you need to add annotations or modify the standard behaviour.
+```java
+    record Developer(String name){
+      // we modify the default accessor
+      public String name() {
+        // this.name refers to the field generated by record  
+        return "Hi " + this.name;
+      }
+    };
+    
+    var bill = new Developer("William");
+    bill.name(); // => "Hi William"
+```
+
