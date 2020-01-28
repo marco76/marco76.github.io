@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
+      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2020/record_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2020/records_interface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/uploads/2020/records_person.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" afterDir="false" />
     </list>
@@ -82,19 +85,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/uploads/2020" />
+      <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/_includes/old" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2018/03" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
-      <recent name="$PROJECT_DIR$/_includes" />
-      <recent name="$PROJECT_DIR$/_includes/old" />
-      <recent name="$PROJECT_DIR$/_layouts" />
-      <recent name="$PROJECT_DIR$/_layouts/old" />
     </key>
   </component>
   <component name="RunManager" selected="Gulp.js.default">
@@ -362,14 +365,7 @@
       <workItem from="1579876014556" duration="1981000" />
       <workItem from="1579977134622" duration="560000" />
       <workItem from="1580023482608" duration="315000" />
-      <workItem from="1580052638373" duration="12694000" />
-    </task>
-    <task id="LOCAL-00092" summary="pre template">
-      <created>1546646444236</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1546646444238</updated>
+      <workItem from="1580052638373" duration="14178000" />
     </task>
     <task id="LOCAL-00093" summary="pre template">
       <created>1546693070353</created>
@@ -707,7 +703,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580211941126</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="css">
+      <created>1580212076549</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1580212076549</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -754,7 +757,7 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1579771186262" />
-    <state x="320" y="172" key="Vcs.Push.Dialog.v2" timestamp="1580211945217">
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2" timestamp="1580212086710">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1580023597454" />
@@ -764,13 +767,18 @@
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1579797482414" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1579878738541" />
     <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1580160835240" />
-    <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1580211945217" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1580212086710" />
     <state x="373" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1579978178417">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="373" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1579800203930" />
     <state x="373" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579875493651" />
     <state x="373" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1579978178416" />
+    <state x="369" y="182" width="834" height="492" key="find.popup" timestamp="1580212947125">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="369" y="182" width="666" height="490" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1580212783551" />
+    <state x="369" y="182" width="834" height="492" key="find.popup/0.23.1440.829@0.23.1440.829" timestamp="1580212947125" />
     <state x="385" y="158" width="670" height="691" key="search.everywhere.popup" timestamp="1580193380274">
       <screen x="0" y="23" width="1440" height="825" />
     </state>

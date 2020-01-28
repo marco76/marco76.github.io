@@ -17,7 +17,7 @@ introduction: 'Records in Java 14'
 
 Java 14 introduces a new interesting feature: _records_.
 
-Here you can find the official [JEP 359: Records](https://openjdk.java.net/jeps/359).
+Here you can find the official proposal: [JEP 359 Records](https://openjdk.java.net/jeps/359).
 
 The goal is to have a 'data carrier' class without the traditional 'Java ceremony' (boilerplate).
 
@@ -52,7 +52,7 @@ To execute the examples you can use `JShell` with the flag `--enable-preview`
 
 If you are using a _single file program_ you need the _source_ flag: `java --enable-preview --source 14 [source].java`  
  
-The code in this post has been tested with JShell using OpenJDK build 14-ea+32-1423.
+The code in this post has been tested with JShell and IntelliJ (EAP) using OpenJDK build 14-ea+32-1423.
 
 ### minimalistic
 ```java
@@ -81,7 +81,8 @@ In this example we add an argument to the new _record_.
 
 Java adds the private field (`final String name;`)
  and the accessor (`public String name() {return this.name;}`) to the class and implements _toString()_, _equals()_ and the constructor `Person(String name) {this.name = name}`.
- 
+
+<img src="/assets/img/uploads/2020/records_person.png" alt="" />
 
 ``` java
 // a new constructor is generated a mandatory parameter 'name' 
@@ -109,6 +110,8 @@ Noteworthy here:
 ### implementing an interface
 
 `records` can implement an interface, here an example:
+
+<img src="/assets/img/uploads/2020/records_interface.png" alt="" />
 
 ```java
 interface Person {
