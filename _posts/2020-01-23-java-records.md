@@ -257,3 +257,16 @@ var bill = new Developer("William");
 bill.name(); // => "Hi William"
 ```
 
+### annotations
+
+_Records_ components support annotation. The annotation requires has to declare _RECORD_COMPONENT_ as target.
+
+```java
+@Retention(RetentionPolicy.RUNTIME)
+@Target(ElementType.RECORD_COMPONENT)
+public @interface RecordExample {
+}
+
+record Person(@RecordExample String name){}
+```
+

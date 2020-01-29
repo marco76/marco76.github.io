@@ -66,6 +66,8 @@ You can find this feature already implemented in [C#](https://docs.microsoft.com
 #### Records (Preview)
 [Records](https://openjdk.java.net/jeps/359)
 
+You can find a post with many details here: [https://javaee.ch/java-records](https://javaee.ch/java-records)
+
 #### Helpful NullPointerException
 [https://openjdk.java.net/jeps/358](https://openjdk.java.net/jeps/358)
 
