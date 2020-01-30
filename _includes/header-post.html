@@ -1,8 +1,13 @@
 <header class="bar-header">
+    <div class="new-logo">
+    <img src="/assets/img/marco.png" style="max-width: 50px; max-height: 50px; margin-right: 20px">
+    <div class="new-title">
     <h1 class="logo">
         <a href="{{site.baseurl}}/"></a>
     </h1>
     {% include social.html %}
+    </div>
+    </div>
 </header>
 {% include menu-search.html %}
 
@@ -11,14 +16,15 @@
          <p class="demo">
          <a href="{{site.baseurl}}/garbage-collectors-intro"> Video: Garbage collectors for busy Java developers (10 min., no maths ;)) <i class="fa fa-external-link" aria-hidden="true"></i></a>
          </p>
+         <!--
          {% if page.date %}
             <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">{{ page.date | date_to_string }}</time>
          {% endif %}
          {% if page.updated %}
             <time itemprop="dateUpdated" datetime="{{ page.updated | date_to_xmlschema }}" class="date">- last update: {{ page.updated | date_to_string }}</time>
-        {% endif %}
+        {% endif %}-->
         <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
-        <p itemprop="description" class="subtitle">{{ page.description }}</p>
+        <!--<p itemprop="description" class="subtitle">{{ page.description }}</p>-->
         <!--<p><a href="{{site.repository_url}}{{page.path}}">Improve this doc</a></p>-->
      </div>
 </header>
