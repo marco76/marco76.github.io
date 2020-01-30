@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
+      <change afterPath="$PROJECT_DIR$/assets/css/marco.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/marco.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-19-java-14-new-features.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-19-java-14-new-features.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-java-records.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header-default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header-default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/menu-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/menu-search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/marco.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/marco_old.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/marco.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/marco_old.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styl/_header.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/styl/_header.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styl/_home.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/styl/_home.styl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +78,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543063391865" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA&#10;XML" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/uploads" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -83,19 +92,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
-      <recent name="$PROJECT_DIR$/assets/css" />
-      <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$/assets/img/uploads/2018/03" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2020" />
       <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
       <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$/_includes/old" />
-      <recent name="$PROJECT_DIR$/_layouts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/uploads" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/img/uploads/2019" />
+      <recent name="$PROJECT_DIR$/assets/css" />
+      <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
   <component name="RunManager" selected="Gulp.js.default">
@@ -743,6 +752,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="318" y="94" key="#Images" timestamp="1580418903538">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="318" y="94" key="#Images/0.23.1440.808@0.23.1440.808" timestamp="1580418903538" />
     <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1580023592885">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -774,9 +787,13 @@
     <state x="373" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1579800203930" />
     <state x="373" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579875493651" />
     <state x="373" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1579978178416" />
-    <state x="369" y="182" width="834" height="492" key="find.popup" timestamp="1580212947125">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="369" y="179" width="845" height="538" key="find.popup" timestamp="1580423954767">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
+    <state x="369" y="178" width="834" height="480" key="find.popup/0.23.1440.808@0.23.1440.808" timestamp="1580414933147" />
+    <state x="369" y="179" width="845" height="538" key="find.popup/0.23.1440.811@0.23.1440.811" timestamp="1580420637496" />
+    <state x="369" y="179" width="845" height="538" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1580423954767" />
+    <state x="369" y="179" width="845" height="539" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1580421518956" />
     <state x="369" y="182" width="666" height="490" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1580212783551" />
     <state x="369" y="182" width="834" height="492" key="find.popup/0.23.1440.829@0.23.1440.829" timestamp="1580212947125" />
     <state x="385" y="158" width="670" height="691" key="search.everywhere.popup" timestamp="1580193380274">
