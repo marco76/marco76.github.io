@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header-default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header-default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header-post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/marco.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/marco.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -367,13 +365,7 @@
       <workItem from="1580023482608" duration="315000" />
       <workItem from="1580052638373" duration="16987000" />
       <workItem from="1580245963114" duration="3400000" />
-    </task>
-    <task id="LOCAL-00098" summary="pre template">
-      <created>1547162102402</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1547162102402</updated>
+      <workItem from="1580455854310" duration="861000" />
     </task>
     <task id="LOCAL-00099" summary="pre template">
       <created>1547187881516</created>
@@ -711,11 +703,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580424137151</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="css">
+      <created>1580426630129</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1580426630129</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -749,12 +748,12 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="318" y="94" key="#Images/0.23.1440.808@0.23.1440.808" timestamp="1580418903538" />
-    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1580424136482">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="327" y="32" key="CommitChangelistDialog2" timestamp="1580426629778">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.804@0.23.1440.804" timestamp="1580023592885" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1579800614755" />
-    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1579775733959" />
+    <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1580426629778" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1579876733998" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1579878281297" />
     <state x="327" y="32" key="CommitChangelistDialog2/0.23.1440.814@0.23.1440.814" timestamp="1580424136481" />
@@ -762,12 +761,12 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="120" y="143" width="1200" height="568" key="DiffContextDialog/0.23.1440.808@0.23.1440.808" timestamp="1579771186262" />
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1580424139839">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1580426709124">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1580023597454" />
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1580248975061" />
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1579775736740" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1580426709124" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1579876507187" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1579797482414" />
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1580424139839" />
@@ -780,11 +779,11 @@
     <state x="373" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1579800203930" />
     <state x="373" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579875493651" />
     <state x="373" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1579978178416" />
-    <state x="369" y="178" width="834" height="480" key="find.popup" timestamp="1580425924974">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="369" y="179" width="845" height="538" key="find.popup" timestamp="1580457034039">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="369" y="178" width="834" height="480" key="find.popup/0.23.1440.808@0.23.1440.808" timestamp="1580425924974" />
-    <state x="369" y="179" width="845" height="538" key="find.popup/0.23.1440.811@0.23.1440.811" timestamp="1580424571793" />
+    <state x="369" y="179" width="845" height="538" key="find.popup/0.23.1440.811@0.23.1440.811" timestamp="1580457034039" />
     <state x="369" y="179" width="845" height="538" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1580423954767" />
     <state x="369" y="179" width="845" height="539" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1580421518956" />
     <state x="369" y="182" width="666" height="490" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1580212783551" />
