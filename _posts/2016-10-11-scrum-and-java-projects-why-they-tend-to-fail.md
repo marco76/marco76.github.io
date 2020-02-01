@@ -9,7 +9,7 @@ excerpt: |
 layout: post
 main-class: 'other'
 published: false
-guid: http://javaee.ch/?p=709
+guid: http://marco.dev/?p=709
 permalink: /2016/10/11/scrum-and-java-projects-why-they-tend-to-fail/
 image: /wp-content/uploads/2016/10/1475832328_featured-1-e1476167480550.jpeg
 categories:

@@ -22,7 +22,7 @@ Here a list of the easiest remedies with a positive impact on the performances o
 
 Verify that the application is compressed before the delivery to the client.
 
-The compression can be done by WebPack during the building phase or Tomcat/Ngix after the deploy as described here: [Better performances with Spring and Tomcat](http://javaee.ch/2017/02/20/better-performance-with-smaller-and-faster-angular-applications-using-spring-boot-and-tomcat/)
+The compression can be done by WebPack during the building phase or Tomcat/Ngix after the deploy as described here: [Better performances with Spring and Tomcat](http://marco.dev/2017/02/20/better-performance-with-smaller-and-faster-angular-applications-using-spring-boot-and-tomcat/)
 
 ### Digest related issues
 

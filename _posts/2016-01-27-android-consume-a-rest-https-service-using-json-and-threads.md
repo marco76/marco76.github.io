@@ -4,7 +4,7 @@ title: 'Android: consume a REST / HTTPs service using JSON and Threads'
 date: 2016-01-27T11:37:35+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=523
+guid: http://marco.dev/?p=523
 permalink: /2016/01/27/android-consume-a-rest-https-service-using-json-and-threads/
 categories:
   - java

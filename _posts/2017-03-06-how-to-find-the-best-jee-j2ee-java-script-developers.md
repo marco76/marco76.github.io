@@ -6,7 +6,7 @@ author: Marco Molteni
 layout: post
 main-class: 'other'
 published: false
-guid: http://javaee.ch/?p=1012
+guid: http://marco.dev/?p=1012
 permalink: /2017/03/06/how-to-find-the-best-jee-j2ee-java-script-developers/
 categories:
   - java

@@ -5,7 +5,7 @@ date: 2017-02-11T13:23:50+00:00
 author: Marco Molteni
 layout: post
 main-class: 'angular'
-guid: http://javaee.ch/?p=892
+guid: http://marco.dev/?p=892
 permalink: /2017/02/11/send-and-image-from-the-java-backend-to-angular-using-rest-services/
 dsq_thread_id:
   - "5565925771"

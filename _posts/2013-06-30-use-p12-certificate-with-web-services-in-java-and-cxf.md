@@ -4,7 +4,7 @@ title: Use a p12 certificate with Web Services / SSL in Java and CXF
 date: 2013-06-30T18:24:41+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=391
+guid: http://marco.dev/?p=391
 permalink: /2013/06/30/use-p12-certificate-with-web-services-in-java-and-cxf/
 video_type:
   - '#NONE#'

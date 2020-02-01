@@ -4,7 +4,7 @@ title: OpenShift + Keycloak + AngularJS + JavaEE + MongoDB + CSS = MyCV
 date: 2016-03-14T17:15:13+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=570
+guid: http://marco.dev/?p=570
 permalink: /2016/03/14/openshift-angularjs-javaee-mongodb-css-mycv/
 dsq_thread_id:
   - "5565926367"
@@ -55,19 +55,19 @@ I published a website that uses the following technologies:<img class="wp-image
 
 &nbsp;
 
-The goal of the website is to glue all these technologies together and try to shrink my CV to only one page (fr<img class="size-full wp-image-571 alignright" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/03/screencapture-www-mycv-host-1457966794473.png?resize=198%2C295" alt="screencapture-www-mycv-host-1457966794473" data-recalc-dims="1" />om the original 5 pages).
+The goal of the website is to glue all these technologies together and try to shrink my CV to only one page (fr<img class="size-full wp-image-571 alignright" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/03/screencapture-www-mycv-host-1457966794473.png?resize=198%2C295" alt="screencapture-www-mycv-host-1457966794473" data-recalc-dims="1" />om the original 5 pages).
 
 The formatting of the CV is done using almost only &#8216;<div>&#8217; combined with CSS (the original template is not mine).
 
 The data that fill the CV comes from a MongoDB server that contains the values. The data is in JSON format, a Java EE rest service send the data to AngularJS that fill the template.
   
-<a href="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/03/2016-03-14_16-06-01_mongo-1.png" rel="attachment wp-att-573"><img class="alignnone size-medium wp-image-573" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/03/2016-03-14_16-06-01_mongo-1.png?resize=300%2C154" alt="2016-03-14_16-06-01_mongo" data-recalc-dims="1" /></a>
+<a href="https://i1.wp.com/marco.dev/wp-content/uploads/2016/03/2016-03-14_16-06-01_mongo-1.png" rel="attachment wp-att-573"><img class="alignnone size-medium wp-image-573" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/03/2016-03-14_16-06-01_mongo-1.png?resize=300%2C154" alt="2016-03-14_16-06-01_mongo" data-recalc-dims="1" /></a>
 
 For each request to the CV a document with the information of the visitor is created in MongoDB an @Asynchronous method retrieve the visitor geographic information from [freegeoip.net](http://freegeoip.net).
 
 Using only CSS is possible to change the CV if the recruiter decide to print it. In this case the border are eliminated from the document and the social icon (links) are replaced by the email address.
 
-<a href="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/03/2016-03-14_16-18-19_print.png" rel="attachment wp-att-578"><img class="alignnone size-medium wp-image-578" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/03/2016-03-14_16-18-19_print.png?resize=300%2C87" alt="2016-03-14_16-18-19_print" data-recalc-dims="1" /></a>
+<a href="https://i1.wp.com/marco.dev/wp-content/uploads/2016/03/2016-03-14_16-18-19_print.png" rel="attachment wp-att-578"><img class="alignnone size-medium wp-image-578" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/03/2016-03-14_16-18-19_print.png?resize=300%2C87" alt="2016-03-14_16-18-19_print" data-recalc-dims="1" /></a>
 
 I don&#8217;t add code in this Post, you can find it on github. The code is changing frequently. I just show how easy is to connect to the DB on OpenShift:
 
@@ -87,11 +87,11 @@ I don&#8217;t add code in this Post, you can find it on github. The code is cha
   
 Email verification request:
   
-<a href="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/03/2016-03-17_10-46-32.png" rel="attachment wp-att-584"><img class="alignnone size-medium wp-image-584" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/03/2016-03-17_10-46-32.png?resize=300%2C127" alt="2016-03-17_10-46-32" data-recalc-dims="1" /></a>
+<a href="https://i0.wp.com/marco.dev/wp-content/uploads/2016/03/2016-03-17_10-46-32.png" rel="attachment wp-att-584"><img class="alignnone size-medium wp-image-584" src="https://i0.wp.com/marco.dev/wp-content/uploads/2016/03/2016-03-17_10-46-32.png?resize=300%2C127" alt="2016-03-17_10-46-32" data-recalc-dims="1" /></a>
 
 Supported providers:
   
-<a href="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/03/2016-03-17_11-32-48.png" rel="attachment wp-att-586"><img class="alignnone size-full wp-image-586" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/03/2016-03-17_11-32-48.png?resize=237%2C263" alt="2016-03-17_11-32-48" data-recalc-dims="1" /></a>
+<a href="https://i1.wp.com/marco.dev/wp-content/uploads/2016/03/2016-03-17_11-32-48.png" rel="attachment wp-att-586"><img class="alignnone size-full wp-image-586" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/03/2016-03-17_11-32-48.png?resize=237%2C263" alt="2016-03-17_11-32-48" data-recalc-dims="1" /></a>
 
 Next steps:
 

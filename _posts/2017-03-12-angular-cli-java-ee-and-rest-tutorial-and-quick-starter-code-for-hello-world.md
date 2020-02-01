@@ -5,7 +5,7 @@ date: 2017-03-12T17:25:30+00:00
 author: Marco Molteni
 layout: post
 main-class: 'javaee'
-guid: http://javaee.ch/?p=1042
+guid: http://marco.dev/?p=1042
 permalink: /2017/03/12/angular-cli-java-ee-and-rest-tutorial-and-quick-starter-code-for-hello-world/
 image: /wp-content/uploads/2017/03/logo_ang-100x39.png
 categories:
@@ -24,7 +24,7 @@ tags:
 ---
 ##### Complete Java EE and Angular example
 
-_New demo available here_: <http://javademo.io> &#8211; <https://github.com/marco76/java-demo> &#8211; <http://javaee.ch/2017/04/06/java-angular-demo/>
+_New demo available here_: <http://javademo.io> &#8211; <https://github.com/marco76/java-demo> &#8211; <http://marco.dev/2017/04/06/java-angular-demo/>
 
 ##### Problem we need a new web application that uses Java EE as backend and Angular as frontend. It should be easy to configure.
 
@@ -64,7 +64,7 @@ _New demo available here_: <http://javademo.io> &#8211; <https://github.com/m
 
 #### How it works As for the previous
 
-[Angular/Spring project](http://javaee.ch/2016/02/23/spring-boot-angularjs-2-typescript-hello-world-tutorial/) we have a main maven project with 2 modules :
+[Angular/Spring project](http://marco.dev/2016/02/23/spring-boot-angularjs-2-typescript-hello-world-tutorial/) we have a main maven project with 2 modules :
 
     <modules>
         <module>client</module>

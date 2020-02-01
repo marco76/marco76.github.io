@@ -4,7 +4,7 @@ title: 'Java Server Sent Event &#8211; Automatically update web pages'
 date: 2016-04-17T17:06:32+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=608
+guid: http://marco.dev/?p=608
 permalink: /2016/04/17/java-server-sent-event-automatically-update-web-pages/
 categories:
   - Glassfish
@@ -23,7 +23,7 @@ How a client (ex. web browser) can get updates from a server? Here some options:
 
 The client regularly request to the server new data using a simple request/response via HTTP.
 
-[<img class="alignnone wp-image-611 size-full" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_1_2016-04-17_11-15-19-e1460905354536.png?resize=314%2C124" alt="sse_1_2016-04-17_11-15-19" data-recalc-dims="1" />](https://i1.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_1_2016-04-17_11-15-19.png)
+[<img class="alignnone wp-image-611 size-full" src="https://i0.wp.com/marco.dev/wp-content/uploads/2016/04/sse_1_2016-04-17_11-15-19-e1460905354536.png?resize=314%2C124" alt="sse_1_2016-04-17_11-15-19" data-recalc-dims="1" />](https://i1.wp.com/marco.dev/wp-content/uploads/2016/04/sse_1_2016-04-17_11-15-19.png)
 
 ## 2. _Websocket_
 
@@ -39,7 +39,7 @@ HTML5 allows an unidirectional communication similar to the publish/subscribe mo
 
 The events can be broadcasted multiple clients:
 
-[<img class="alignnone wp-image-612 size-full" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/04/sse_4_2016-04-17_14-09-19-e1460905566225.png?resize=295%2C155" alt="sse_4_2016-04-17_14-09-19" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/sse_4_2016-04-17_14-09-19.png)
+[<img class="alignnone wp-image-612 size-full" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/04/sse_4_2016-04-17_14-09-19-e1460905566225.png?resize=295%2C155" alt="sse_4_2016-04-17_14-09-19" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/04/sse_4_2016-04-17_14-09-19.png)
 
 This solution is appropriate for application that require to be notified about new events (newsfeed, twitter-like, stock market etc.)
   
@@ -100,11 +100,11 @@ return eventBuilder.build();
 
 Here the result of the execution:
   
-[<img class="alignnone wp-image-618 size-full" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-17_16-07-34_chrome.png?resize=440%2C173" alt="2016-04-17_16-07-34_chrome" data-recalc-dims="1" />](https://i1.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-17_16-07-34_chrome.png)
+[<img class="alignnone wp-image-618 size-full" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/04/2016-04-17_16-07-34_chrome.png?resize=440%2C173" alt="2016-04-17_16-07-34_chrome" data-recalc-dims="1" />](https://i1.wp.com/marco.dev/wp-content/uploads/2016/04/2016-04-17_16-07-34_chrome.png)
   
 and the log:
   
-[<img class="alignnone wp-image-619 size-full" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-17_16-07-58_log.png?resize=630%2C159" alt="2016-04-17_16-07-58_log" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-17_16-07-58_log.png)
+[<img class="alignnone wp-image-619 size-full" src="https://i0.wp.com/marco.dev/wp-content/uploads/2016/04/2016-04-17_16-07-58_log.png?resize=630%2C159" alt="2016-04-17_16-07-58_log" data-recalc-dims="1" />](https://i0.wp.com/marco.dev/wp-content/uploads/2016/04/2016-04-17_16-07-58_log.png)
   
 While the connection was open Chrome showed the &#8216;working in progress&#8217; icon:
   
@@ -118,7 +118,7 @@ In the image you can see the result of sending 3 messages using post (green term
   
 The black terminal and chrome opened the page /api/hello\_sse\_broadcast/listen and they received the messages (chrome connected later and received only 2 messages).
 
-[<img class="alignnone size-full wp-image-620" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-17_16-25-22_clients.png?resize=571%2C520" alt="2016-04-17_16-25-22_clients" data-recalc-dims="1" />](https://i1.wp.com/javaee.ch/wp-content/uploads/2016/04/2016-04-17_16-25-22_clients.png)
+[<img class="alignnone size-full wp-image-620" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/04/2016-04-17_16-25-22_clients.png?resize=571%2C520" alt="2016-04-17_16-25-22_clients" data-recalc-dims="1" />](https://i1.wp.com/marco.dev/wp-content/uploads/2016/04/2016-04-17_16-25-22_clients.png)
 
 The implementation of the broadcast require a Singleton:
 

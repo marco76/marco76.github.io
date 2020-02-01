@@ -4,7 +4,7 @@ title: Java EE (or Spring) + Angular = New blog?
 date: 2016-08-24T23:54:59+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=680
+guid: http://marco.dev/?p=680
 permalink: /2016/08/24/java-ee-or-spring-angular-new-blog/
 categories:
   - Angular 2

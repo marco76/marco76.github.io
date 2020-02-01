@@ -21,7 +21,7 @@ categories:
   You are developing a client application (AngularJS) and you need to receive the data from a REST API service.<br /> Often you don’t have the access to the remote service or it doesn’t have the required data for your tests (dinamically generated data).
 </p>
 
-[<img class="aligncenter" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/10/node_mini_problem_1.png?resize=600%2C173" align="middle" data-recalc-dims="1" />](https://i1.wp.com/javaee.ch/wp-content/uploads/2016/10/node_mini_problem_1_full.png)
+[<img class="aligncenter" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/10/node_mini_problem_1.png?resize=600%2C173" align="middle" data-recalc-dims="1" />](https://i1.wp.com/marco.dev/wp-content/uploads/2016/10/node_mini_problem_1_full.png)
 
 A direct access to a test .json file is not possible from the client because of security restrictions of the browser (the browser should not be able to play with the filesystem).
 
@@ -31,7 +31,7 @@ A direct access to a test .json file is not possible from the client because of 
   A client app can request (GET) a pre-defined page to a local server and receive the JSON file for the test.<br /> The server can be implemented in Node.js and it serves static files content as response to http requests.
 </p>
 
-<img class="aligncenter" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/10/node_mini_server_3.png?resize=600%2C356" align="middle" data-recalc-dims="1" />
+<img class="aligncenter" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/10/node_mini_server_3.png?resize=600%2C356" align="middle" data-recalc-dims="1" />
 
 &nbsp;
 
@@ -45,13 +45,13 @@ A direct access to a test .json file is not possible from the client because of 
   The structure of the code is very simple:
 </p>
 
-[<img class="aligncenter" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/10/node_mini_server_structure_1.png?resize=300%2C191" align="middle" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2016/10/node_mini_server_structure_1_full.png)
+[<img class="aligncenter" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/10/node_mini_server_structure_1.png?resize=300%2C191" align="middle" data-recalc-dims="1" />](https://i0.wp.com/marco.dev/wp-content/uploads/2016/10/node_mini_server_structure_1_full.png)
 
 <p dir="ltr">
   Here an example of response:
 </p>
 
-[<img class="aligncenter" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/10/node_mini_server_response_1.png?resize=600%2C210" align="middle" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2016/10/node_mini_server_response_1_full.png)
+[<img class="aligncenter" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/10/node_mini_server_response_1.png?resize=600%2C210" align="middle" data-recalc-dims="1" />](https://i0.wp.com/marco.dev/wp-content/uploads/2016/10/node_mini_server_response_1_full.png)
 
 &nbsp;
 

@@ -4,7 +4,7 @@ title: Spring Integration Hello World tutorial
 date: 2013-04-20T19:34:44+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=368
+guid: http://marco.dev/?p=368
 permalink: /2013/04/20/spring-integration-hello-world-tutorial/
 video_type:
   - '#NONE#'

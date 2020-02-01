@@ -4,7 +4,7 @@ title: 'The Spring Boot, AngularJS 2, TypeScript: Hello World Tutorial is now Ja
 date: 2016-02-23T22:53:57+00:00
 author: Marco Molteni
 layout: post
-guid: http://javaee.ch/?p=559
+guid: http://marco.dev/?p=559
 permalink: /2016/02/23/spring-boot-angularjs-2-typescript-hello-world-tutorial/
 dsq_thread_id:
   - "5565845282"
@@ -62,7 +62,7 @@ The code is here:
 ~~The [Java EE Demo](http://javademo.io) will be updated in the future.~~
 ~~The [springdemo.io](http://springdemo.io) won't be updated and will be replaced by the current molteni.io.~~
 
-_Update Apr. 11, 2017_ _Spring Boot 2.0 Angular Demo *I update the **Spring** Demo. The new demo uses Spring Boot 2.0 (beta) and Angular 4. Website: <http://springdemo.io> GitHub: <https://github.com/marco76/spriNGdemo> The old Spring example is here : <http://angular.cafe> , [GitHub](https://github.com/marco76/SpringAngular2TypeScript) *Java EE Angular Demo_ Because Java has a rich and wonderful community there is a similar demo for **Java EE** You can find the Angular 4 and Java EE demo here: <http://javademo.io> Post: <http://javaee.ch/2017/04/06/java-angular-demo/> GitHub: <https://github.com/marco76/java-demo>
+_Update Apr. 11, 2017_ _Spring Boot 2.0 Angular Demo *I update the **Spring** Demo. The new demo uses Spring Boot 2.0 (beta) and Angular 4. Website: <http://springdemo.io> GitHub: <https://github.com/marco76/spriNGdemo> The old Spring example is here : <http://angular.cafe> , [GitHub](https://github.com/marco76/SpringAngular2TypeScript) *Java EE Angular Demo_ Because Java has a rich and wonderful community there is a similar demo for **Java EE** You can find the Angular 4 and Java EE demo here: <http://javademo.io> Post: <http://marco.dev/2017/04/06/java-angular-demo/> GitHub: <https://github.com/marco76/java-demo>
 
 Goal of the demo Java is a perfect technology for the modern development in few lines of code you can build rock solid backends. The demo is a showcase of how to integrate many features of Java EE and Spring in your next JavaScript application. The two demos
 
@@ -79,7 +79,7 @@ _are updated regularly_ and I will try to show the new features of Spring and 
 
   *   * *Here the old article. New articles will follow. Here some examples of the interface: 
 
-[<img class="alignnone size-large wp-image-888" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/02/1.png?resize=945%2C472" alt="" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/02/1-e1486679732769.png)[<img class="alignnone size-full wp-image-889" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/02/2-e1486679774449.png?resize=400%2C242" alt="" data-recalc-dims="1" />](https://i1.wp.com/javaee.ch/wp-content/uploads/2016/02/2-e1486679774449.png)
+[<img class="alignnone size-large wp-image-888" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/02/1.png?resize=945%2C472" alt="" data-recalc-dims="1" />]({{site.baseurl}}/assets/img/uploads/2016/02/1-e1486679732769.png)[<img class="alignnone size-full wp-image-889" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/02/2-e1486679774449.png?resize=400%2C242" alt="" data-recalc-dims="1" />](https://i1.wp.com/marco.dev/wp-content/uploads/2016/02/2-e1486679774449.png)
 
 ### **Deployment architecture**
 
@@ -105,7 +105,7 @@ open your browser and visit http://localhost:8082
 
 In the example application (
   
-<http://angular.cafe/app-hello-world>) there is a very simple example of communication between the frontend and the backend. [<img class="alignnone size-full wp-image-1038" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/02/2017-03-08_23-51-04.png?resize=469%2C202" alt="" data-recalc-dims="1" />](https://i0.wp.com/javaee.ch/wp-content/uploads/2016/02/2017-03-08_23-51-04.png) The frontend calls the backend service and &#8216;subscribes&#8217; the answer. The frontend waits backend answer before to execute the code in the subscription part: Code on GitHub: <https://github.com/marco76/SpringAngular2TypeScript/tree/master/webClient/src/app/hello-world> **The Controller**
+<http://angular.cafe/app-hello-world>) there is a very simple example of communication between the frontend and the backend. [<img class="alignnone size-full wp-image-1038" src="https://i0.wp.com/marco.dev/wp-content/uploads/2016/02/2017-03-08_23-51-04.png?resize=469%2C202" alt="" data-recalc-dims="1" />](https://i0.wp.com/marco.dev/wp-content/uploads/2016/02/2017-03-08_23-51-04.png) The frontend calls the backend service and &#8216;subscribes&#8217; the answer. The frontend waits backend answer before to execute the code in the subscription part: Code on GitHub: <https://github.com/marco76/SpringAngular2TypeScript/tree/master/webClient/src/app/hello-world> **The Controller**
 
     export class HelloWorld {
         // string to publish on the screen
