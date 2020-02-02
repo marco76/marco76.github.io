@@ -5,7 +5,7 @@ date: 2017-01-24T00:47:00+00:00
 author: Marco Molteni
 layout: post
 main-class: 'angular'
-guid: http://marco.dev/?p=794
+guid: http://javaee.ch/?p=794
 permalink: /2017/01/24/new-docker-image/
 categories:
   - Angular

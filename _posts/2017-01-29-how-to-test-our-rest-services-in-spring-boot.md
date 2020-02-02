@@ -5,7 +5,7 @@ date: 2017-01-29T10:47:06+00:00
 author: Marco Molteni
 layout: post
 main-class: 'spring'
-guid: http://marco.dev/?p=810
+guid: http://javaee.ch/?p=810
 permalink: /2017/01/29/how-to-test-our-rest-services-in-spring-boot/
 dsq_thread_id:
   - "5565921873"
@@ -30,7 +30,7 @@ Spring Boot offers us easy to use features to test our REST service. Our goal is
 
 Here we are not interested to test the services layer or the database. For this reason we have to mock everything is around the controller.
 
-<img class="alignnone size-full wp-image-809" src="https://i1.wp.com/marco.dev/wp-content/uploads/2017/01/Test.png?resize=400%2C305" data-recalc-dims="1" />
+<img class="alignnone size-full wp-image-809" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2017/01/Test.png?resize=400%2C305" data-recalc-dims="1" />
 
 ### Code sample
 

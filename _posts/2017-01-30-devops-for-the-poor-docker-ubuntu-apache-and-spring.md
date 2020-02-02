@@ -5,7 +5,7 @@ date: 2017-01-30T21:58:39+00:00
 author: Marco Molteni
 layout: post
 main-class: 'cloud'
-guid: http://marco.dev/?p=820
+guid: http://javaee.ch/?p=820
 permalink: /2017/01/30/devops-for-the-poor-docker-ubuntu-apache-and-spring/
 dsq_thread_id:
   - "5565702832"
@@ -32,7 +32,7 @@ Easily automatically deploy more applications on the web (www.mydomain.com, www.
   
 To give an idea about the prices a small app running on a DevOps cloud solution (1 GB RAM) cost around $30 per month, with a basic VPS and docker only $3-5 (2GB RAM for more apps!).
 
-<img class="alignnone size-full wp-image-819" src="https://i0.wp.com/marco.dev/wp-content/uploads/2017/01/blog_vps.png?resize=600%2C531" data-recalc-dims="1" />
+<img class="alignnone size-full wp-image-819" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2017/01/blog_vps.png?resize=600%2C531" data-recalc-dims="1" />
 
 #### What we need
 
@@ -145,4 +145,4 @@ If your terminal shows the content of your application home page it mean that th
 
 Enjoy!
 
-Continue &#8230; <a href="http://marco.dev/2017/02/06/docker-publish-and-deploy-cheat-sheet/" target="_blank">Docker publish and deploy, cheat sheet</a>
+Continue &#8230; <a href="http://javaee.ch/2017/02/06/docker-publish-and-deploy-cheat-sheet/" target="_blank">Docker publish and deploy, cheat sheet</a>

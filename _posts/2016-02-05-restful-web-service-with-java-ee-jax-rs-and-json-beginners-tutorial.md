@@ -4,7 +4,7 @@ title: 'RESTful web service with Java EE (JAX-RS) and JSON: Hello World tutorial
 date: 2016-02-05T18:36:31+00:00
 author: Marco Molteni
 layout: post
-guid: http://marco.dev/?p=537
+guid: http://javaee.ch/?p=537
 permalink: /2016/02/05/restful-web-service-with-java-ee-jax-rs-and-json-beginners-tutorial/
 categories:
   - Glassfish
@@ -41,7 +41,7 @@ In the tutorial:
 
 For this example we create 4 java classes (2 for the code, 1 for the unit test, 1 for the integration test).
 
-<a href="https://i0.wp.com/marco.dev/wp-content/uploads/2016/02/2016-02-05_17-48-28.png" rel="attachment wp-att-554"><img src="https://i0.wp.com/marco.dev/wp-content/uploads/2016/02/2016-02-05_17-48-28.png?resize=300%2C270" alt="2016-02-05_17-48-28" class="alignnone size-medium wp-image-554" data-recalc-dims="1" /></a>
+<a href="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/02/2016-02-05_17-48-28.png" rel="attachment wp-att-554"><img src="https://i0.wp.com/javaee.ch/wp-content/uploads/2016/02/2016-02-05_17-48-28.png?resize=300%2C270" alt="2016-02-05_17-48-28" class="alignnone size-medium wp-image-554" data-recalc-dims="1" /></a>
 
 ## Configuration
 
@@ -125,7 +125,7 @@ public List&lt;String&gt; helloJSONList(){
 
 @Produces: defines in which format the answer should be returned. It automatically transform our object (List of strings) in JSON format.
 
-<a href="https://i1.wp.com/marco.dev/wp-content/uploads/2016/02/2016-02-05_17-05-36.png" rel="attachment wp-att-543"><img class="alignnone size-medium wp-image-543" src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/02/2016-02-05_17-05-36.png?resize=300%2C41" alt="2016-02-05_17-05-36" data-recalc-dims="1" /></a>
+<a href="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/02/2016-02-05_17-05-36.png" rel="attachment wp-att-543"><img class="alignnone size-medium wp-image-543" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/02/2016-02-05_17-05-36.png?resize=300%2C41" alt="2016-02-05_17-05-36" data-recalc-dims="1" /></a>
 
 Netbeans recognize the services declared in this class and show them in the project structure:
 

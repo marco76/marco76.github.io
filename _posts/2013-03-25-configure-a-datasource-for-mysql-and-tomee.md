@@ -20,13 +20,13 @@ categories:
 ---
 Copy the driver of MySql in the TomEE lib directory:
 
-<img alt="Mysql" src="https://i1.wp.com/marco.dev/wp-content/uploads/2013/03/tomeemysql.png?resize=600%2C208" border="0" data-recalc-dims="1" />
+<img alt="Mysql" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2013/03/tomeemysql.png?resize=600%2C208" border="0" data-recalc-dims="1" />
 
 You have to modify the config file tomEE/conf/tomee.xml
 
 In the file you have to add your mysql configuration:
 
-<img alt="Tomee" src="https://i1.wp.com/marco.dev/wp-content/uploads/2013/03/tomeetomee.png?resize=600%2C210" border="0" data-recalc-dims="1" />
+<img alt="Tomee" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2013/03/tomeetomee.png?resize=600%2C210" border="0" data-recalc-dims="1" />
 
 <pre class="brush: xml; title: ; notranslate" title="">&lt;Resource id="pmone" type="DataSource"&gt;
 JdbcDriver com.mysql.jdbc.Driver

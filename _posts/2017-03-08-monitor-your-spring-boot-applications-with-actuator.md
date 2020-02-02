@@ -5,7 +5,7 @@ date: 2017-03-08T00:09:26+00:00
 author: Marco Molteni
 layout: post
 main-class: 'spring'
-guid: http://marco.dev/?p=1024
+guid: http://javaee.ch/?p=1024
 permalink: /2017/03/08/monitor-your-spring-boot-applications-with-actuator/
 image: /wp-content/uploads/2017/03/header-springboot-100x23.png
 categories:

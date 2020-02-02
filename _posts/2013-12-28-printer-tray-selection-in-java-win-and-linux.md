@@ -4,7 +4,7 @@ title: Printer Tray Selection in Java (win and linux)
 date: 2013-12-28T21:28:53+00:00
 author: Marco Molteni
 layout: post
-guid: http://marco.dev/?p=472
+guid: http://javaee.ch/?p=472
 permalink: /2013/12/28/printer-tray-selection-in-java-win-and-linux/
 categories:
   - java

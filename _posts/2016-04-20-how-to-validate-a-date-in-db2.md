@@ -4,7 +4,7 @@ title: How to validate a Date in DB2
 date: 2016-04-20T10:23:48+00:00
 author: Marco Molteni
 layout: post
-guid: http://marco.dev/?p=626
+guid: http://javaee.ch/?p=626
 permalink: /2016/04/20/how-to-validate-a-date-in-db2/
 categories:
   - SQL Server
