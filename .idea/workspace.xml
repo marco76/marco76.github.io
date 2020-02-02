@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="b5bebb18-71bc-443d-b77e-ba1ba32c65f6" name="Default" comment="css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/highlight.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/my_2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styl/_hightlight.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styl/main.styl" beforeDir="false" afterPath="$PROJECT_DIR$/src/styl/main.styl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -364,13 +372,7 @@
       <workItem from="1580052638373" duration="16987000" />
       <workItem from="1580245963114" duration="3400000" />
       <workItem from="1580455854310" duration="1123000" />
-    </task>
-    <task id="LOCAL-00100" summary="pre template">
-      <created>1548052755444</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1548052755445</updated>
+      <workItem from="1580575198538" duration="6852000" />
     </task>
     <task id="LOCAL-00101" summary="pre template">
       <created>1548057442142</created>
@@ -708,11 +710,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580457064577</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="css">
+      <created>1580575344345</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1580575344345</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -775,8 +784,8 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1580575298341" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1580457066359">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2" timestamp="1580576689792">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1580023597454" />
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1580248975061" />
@@ -786,22 +795,29 @@
     <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1580424139839" />
     <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1580160835240" />
     <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1580212086710" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1580576689792" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1580575346709" />
     <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1580216493853" />
+    <state x="224" y="123" width="1200" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580636570432">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="224" y="123" width="1200" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.826@0.23.1440.826" timestamp="1580636570432" />
     <state x="373" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1579978178417">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="373" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1579800203930" />
     <state x="373" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1579875493651" />
     <state x="373" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1579978178416" />
-    <state x="369" y="182" width="845" height="558" key="find.popup" timestamp="1580575293562">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="369" y="182" width="801" height="490" key="find.popup" timestamp="1580637888206">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="369" y="178" width="834" height="480" key="find.popup/0.23.1440.808@0.23.1440.808" timestamp="1580425924974" />
     <state x="369" y="179" width="845" height="538" key="find.popup/0.23.1440.811@0.23.1440.811" timestamp="1580457034039" />
     <state x="369" y="179" width="845" height="538" key="find.popup/0.23.1440.812@0.23.1440.812" timestamp="1580423954767" />
     <state x="369" y="179" width="845" height="539" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1580421518956" />
-    <state x="369" y="182" width="845" height="558" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1580575293562" />
-    <state x="369" y="182" width="666" height="490" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1580212783551" />
+    <state x="369" y="182" width="845" height="558" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1580636517322" />
+    <state x="369" y="182" width="801" height="490" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1580637888206" />
+    <state x="369" y="182" width="801" height="490" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1580637488958" />
     <state x="369" y="182" width="834" height="492" key="find.popup/0.23.1440.829@0.23.1440.829" timestamp="1580212947125" />
     <state x="385" y="158" width="670" height="691" key="search.everywhere.popup" timestamp="1580193380274">
       <screen x="0" y="23" width="1440" height="825" />
