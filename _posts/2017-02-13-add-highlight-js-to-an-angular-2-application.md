@@ -5,7 +5,7 @@ date: 2017-02-13T20:44:45+00:00
 author: Marco Molteni
 layout: post
 main-class: 'angular'
-guid: http://marco.dev/?p=904
+guid: http://javaee.ch/?p=904
 permalink: /2017/02/13/add-highlight-js-to-an-angular-2-application/
 dsq_thread_id:
   - "5565701684"
@@ -57,4 +57,4 @@ The html code of the example:
 
 and the result:
 
-<img class="alignnone wp-image-903 size-full" src="https://i0.wp.com/marco.dev/wp-content/uploads/2017/02/blog_highlight_2_small-1-e1487011315602.png?resize=600%2C647" data-recalc-dims="1" />
+<img class="alignnone wp-image-903 size-full" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2017/02/blog_highlight_2_small-1-e1487011315602.png?resize=600%2C647" data-recalc-dims="1" />

@@ -4,7 +4,7 @@ title: 'New Java project : checklist'
 date: 2016-05-03T22:58:41+00:00
 author: Marco Molteni
 layout: post
-guid: http://marco.dev/?p=661
+guid: http://javaee.ch/?p=661
 permalink: /2016/05/03/new-java-project-checklist/
 categories:
   - java

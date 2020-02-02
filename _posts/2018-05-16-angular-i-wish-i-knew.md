@@ -145,4 +145,4 @@ Dynamic Forms require a lot of work but they can be used by all your developers 
 
 ## SEO
 If you publish your website on internet you need some time to prepare and tune it for the Search Engines.
-More here: [Basic SEO for Angular](http://marco.dev/2018/05/05/basic-seo-for-angular/)
+More here: [Basic SEO for Angular](http://javaee.ch/2018/05/05/basic-seo-for-angular/)

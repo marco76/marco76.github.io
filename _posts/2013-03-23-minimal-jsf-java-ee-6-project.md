@@ -4,7 +4,7 @@ title: Minimalistic JSF Java EE 6 tutorial using Maven/Eclipse/TomEE
 date: 2013-03-23T22:32:20+00:00
 author: Marco Molteni
 layout: post
-guid: http://marco.dev/?p=238
+guid: http://javaee.ch/?p=238
 permalink: /2013/03/23/minimal-jsf-java-ee-6-project/
 original_post_id:
   - "238"
@@ -28,15 +28,15 @@ The goal of this tutorial is to build a basic Java EE hello world application. W
 
 Select &#8216;Create a simple project (skip archetype selection)&#8217; our project is very simple 🙂
 
-<img title="ecl2.png" alt="2" src="https://i0.wp.com/marco.dev/wp-content/uploads/2013/03/eclipseecl2.png?resize=600%2C148" border="0" data-recalc-dims="1" />
+<img title="ecl2.png" alt="2" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipseecl2.png?resize=600%2C148" border="0" data-recalc-dims="1" />
 
 Fill the project informations, you have to change the packaging from jar to war:
 
-<img title="3.png" alt="3" src="https://i1.wp.com/marco.dev/wp-content/uploads/2013/03/eclipse31.png?resize=600%2C279" border="0" data-recalc-dims="1" />
+<img title="3.png" alt="3" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipse31.png?resize=600%2C279" border="0" data-recalc-dims="1" />
 
 The the project has been created, you should have the following folder structure:
 
-<img title="ecl_4.png" alt="Ecl 4" src="https://i1.wp.com/marco.dev/wp-content/uploads/2013/03/eclipseecl_4.png?resize=124%2C138" border="0" data-recalc-dims="1" />
+<img title="ecl_4.png" alt="Ecl 4" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipseecl_4.png?resize=124%2C138" border="0" data-recalc-dims="1" />
 
 The pom.xml is quite empty &#8230;
 
@@ -97,7 +97,7 @@ The pom.xml is quite empty &#8230;
 
 In the web app folder we have to create a web.xml file
 
-<img title="webxml.png" alt="Webxml" src="https://i1.wp.com/marco.dev/wp-content/uploads/2013/03/eclipsewebxml.png?resize=132%2C108" border="0" data-recalc-dims="1" />
+<img title="webxml.png" alt="Webxml" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipsewebxml.png?resize=132%2C108" border="0" data-recalc-dims="1" />
 
 <pre class="brush: xml; title: ; notranslate" title="">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;web-app version="3.0" xmlns="http://java.sun.com/xml/ns/javaee"
@@ -125,7 +125,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http:/
 
 We can now create the controller class
 
-<img title="index.png" alt="Index" src="https://i0.wp.com/marco.dev/wp-content/uploads/2013/03/eclipseindex.png?resize=522%2C267" border="0" data-recalc-dims="1" />
+<img title="index.png" alt="Index" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipseindex.png?resize=522%2C267" border="0" data-recalc-dims="1" />
 
 <pre class="brush: java; title: ; notranslate" title="">package ch.javaee.helloWorldTutorial.backing;
 
@@ -149,7 +149,7 @@ return world;
 
 You can see your new class in the project explorer
 
-<img title="controller.png" alt="Controller" src="https://i0.wp.com/marco.dev/wp-content/uploads/2013/03/eclipsecontroller.png?resize=262%2C105" border="0" data-recalc-dims="1" />
+<img title="controller.png" alt="Controller" src="https://i0.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipsecontroller.png?resize=262%2C105" border="0" data-recalc-dims="1" />
 
 We have now to create the facelet page that shows the hello world message:
 
@@ -178,7 +178,7 @@ The code simply writes &#8216;Hello&#8217; and goes to look for the variable wor
 
 In Eclipse we can create a maven configuration to execute the goals &#8216;compile&#8217; et &#8216;war:war&#8217;. This configuration creates the package to be loaded by the application server.
 
-<img title="artifacts.png" alt="Artifacts" src="https://i1.wp.com/marco.dev/wp-content/uploads/2013/03/eclipseartifacts.png?resize=600%2C157" border="0" data-recalc-dims="1" />
+<img title="artifacts.png" alt="Artifacts" src="https://i1.wp.com/javaee.ch/wp-content/uploads/2013/03/eclipseartifacts.png?resize=600%2C157" border="0" data-recalc-dims="1" />
 
 As you can see the application file &#8216;HelloWorldTutorial.war&#8217; has a size of only 4KB. All the components used by the Java EE application are already in the server library.
 

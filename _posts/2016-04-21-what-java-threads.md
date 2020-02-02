@@ -4,7 +4,7 @@ title: Java Threads meaning
 date: 2016-04-21T18:29:00+00:00
 author: Marco Molteni
 layout: post
-guid: http://marco.dev/?p=649
+guid: http://javaee.ch/?p=649
 permalink: /2016/04/21/what-java-threads/
 categories:
   - java
@@ -14,7 +14,7 @@ tags:
 ---
 You started your ‘Hello World’ Java application and Visual VM … what are all those threads???
 
-<img src="https://i1.wp.com/marco.dev/wp-content/uploads/2016/04/1461248796_thumb.png" align="middle" class="aligncenter" data-recalc-dims="1" />
+<img src="https://i1.wp.com/javaee.ch/wp-content/uploads/2016/04/1461248796_thumb.png" align="middle" class="aligncenter" data-recalc-dims="1" />
 
   * main: the application you started with the main method
   * Signal Dispatcher: it handles the signals sent from the OS to the JVM

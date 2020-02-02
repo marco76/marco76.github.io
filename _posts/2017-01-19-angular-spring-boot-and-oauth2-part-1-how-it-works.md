@@ -4,7 +4,7 @@ date: 2017-01-19T22:54:44+00:00
 author: Marco Molteni
 layout: post
 main-class: 'spring'
-guid: http://marco.dev/?p=768
+guid: http://javaee.ch/?p=768
 permalink: /2017/01/19/angular-spring-boot-and-oauth2-part-1-how-it-works/
 dsq_thread_id:
   - "5565739147"

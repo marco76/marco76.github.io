@@ -31,7 +31,7 @@ Some are commonly used in every project, a few are less known. I will add some e
 This is one of the must (mis)used annotation of Spring for injecting Beans.
 In our team we decided to don't allow the use of this annotation in our code with the exception of the Test classes.
 We injected beans using the constructor as recommended by Spring.
-Here the explanation about our decision: [Spring best practices](http://marco.dev/spring-boot-best-practices/) 
+Here the explanation about our decision: [Spring best practices](http://javaee.ch/spring-boot-best-practices/) 
 
 [*@Bean*](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java-basic-concepts)
 

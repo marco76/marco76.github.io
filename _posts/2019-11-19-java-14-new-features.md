@@ -66,7 +66,7 @@ You can find this feature already implemented in [C#](https://docs.microsoft.com
 #### Records (Preview)
 [Records](https://openjdk.java.net/jeps/359)
 
-You can find a post with many details here: [https://marco.dev/java-records](https://marco.dev/java-records)
+You can find a post with many details here: [https://javaee.ch/java-records](https://javaee.ch/java-records)
 
 #### Helpful NullPointerException
 [https://openjdk.java.net/jeps/358](https://openjdk.java.net/jeps/358)
@@ -79,7 +79,7 @@ You can find a post with many details here: [https://marco.dev/java-records](htt
 
 ## Garbage collector
 
-If you want to know more about Garbage colletors in the JDK you can see my presentation here: [http://marco.dev/garbage-collectors-intro](http://marco.dev/garbage-collectors-intro)
+If you want to know more about Garbage colletors in the JDK you can see my presentation here: [http://javaee.ch/garbage-collectors-intro](http://javaee.ch/garbage-collectors-intro)
 
 #### Z is coming to MacOS
 
