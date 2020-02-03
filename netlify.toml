@@ -52,3 +52,18 @@
    from = "/ionic-angular-lifecycle"
    to = "https://marco.dev/ionic-angular-lifecycle"
    status = 301
+
+[[redirects]]
+   from = "/java-hashmap"
+   to = "https://marco.dev/java-hashmap"
+   status = 301
+
+[[redirects]]
+   from = "/garbage-collectors-intro"
+   to = "https://marco.dev/garbage-collectors-intro"
+   status = 301
+
+[[redirects]]
+   from = "/enums-angular"
+   to = "https://marco.dev/enums-angular"
+   status = 301
