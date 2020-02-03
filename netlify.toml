@@ -27,3 +27,28 @@
    from = "/java-conferences-2020"
    to = "https://marco.dev/java-conferences-2020"
    status = 301
+
+[[redirects]]
+   from = "/local-test-proxy-server"
+   to = "https://marco.dev/local-test-proxy-server"
+   status = 301
+
+[[redirects]]
+   from = "/teeing"
+   to = "https://marco.dev/teeing"
+   status = 301
+
+[[redirects]]
+   from = "/calculate-dates"
+   to = "https://marco.dev/calculate-dates"
+   status = 301
+
+[[redirects]]
+   from = "/build-openjdk"
+   to = "https://marco.dev/build-openjdk"
+   status = 301
+
+[[redirects]]
+   from = "/ionic-angular-lifecycle"
+   to = "https://marco.dev/ionic-angular-lifecycle"
+   status = 301
