@@ -2,3 +2,28 @@
   from = "/java-angular-setup"
   to = "https://marco.dev/java-angular-setup"
   status = 301
+
+[[redirects]]
+   from = "/artificial-intelligence-java"
+   to = "https://marco.dev/artificial-intelligence-java"
+   status = 301
+
+[[redirects]]
+   from = "/artificial-intelligence-java"
+   to = "https://marco.dev/artificial-intelligence-java"
+   status = 301
+
+[[redirects]]
+   from = "/rxjs-tutorial"
+   to = "https://marco.dev/rxjs-tutorial"
+   status = 301
+
+[[redirects]]
+   from = "/preview-java"
+   to = "https://marco.dev/preview-java"
+   status = 301
+
+[[redirects]]
+   from = "/java-conferences-2020"
+   to = "https://marco.dev/java-conferences-2020"
+   status = 301
