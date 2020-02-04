@@ -67,3 +67,23 @@
    from = "/enums-angular"
    to = "https://marco.dev/enums-angular"
    status = 301
+
+[[redirects]]
+   from = "/java-14-new-features"
+   to = "https://marco.dev/java-14-new-features"
+   status = 301
+
+[[redirects]]
+   from = "/java-podcasts"
+   to = "https://marco.dev/java-podcasts"
+   status = 301
+
+[[redirects]]
+   from = "/java-access-modifiers"
+   to = "https://marco.dev/java-access-modifiers"
+   status = 301
+
+[[redirects]]
+   from = "/nginx-jelastic"
+   to = "https://marco.dev/nginx-jelastic"
+   status = 301
