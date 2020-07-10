@@ -1,4 +1,9 @@
 [[redirects]]
+  from = "/*"
+  to = "https://marco.dev/:splat"
+  status = 301
+  
+[[redirects]]
   from = "/java-angular-setup"
   to = "https://marco.dev/java-angular-setup"
   status = 301
