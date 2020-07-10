@@ -1,6 +1,6 @@
 # http and https need separate rules if you don't force_ssl!
-http://javaee.ch/* https://marco.dev/* 301!
-https://javaee.ch/* https://marco.dev/* 301!
+http://javaee.ch/* https://marco.dev/*
+https://javaee.ch/* https://marco.dev/*
 
 [[redirects]]
   from = "/java-angular-setup"
