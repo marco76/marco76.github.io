@@ -1,94 +1,107 @@
 [[redirects]]
-  from = "/*"
-  to = "https://marco.dev/:splat"
-  status = 301
-  
-[[redirects]]
   from = "/java-angular-setup"
   to = "https://marco.dev/java-angular-setup"
   status = 301
+  force = true
 
 [[redirects]]
    from = "/artificial-intelligence-java"
    to = "https://marco.dev/artificial-intelligence-java"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/artificial-intelligence-java"
    to = "https://marco.dev/artificial-intelligence-java"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/rxjs-tutorial"
    to = "https://marco.dev/rxjs-tutorial"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/preview-java"
    to = "https://marco.dev/preview-java"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/java-conferences-2020"
    to = "https://marco.dev/java-conferences-2020"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/local-test-proxy-server"
    to = "https://marco.dev/local-test-proxy-server"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/teeing"
    to = "https://marco.dev/teeing"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/calculate-dates"
    to = "https://marco.dev/calculate-dates"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/build-openjdk"
    to = "https://marco.dev/build-openjdk"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/ionic-angular-lifecycle"
    to = "https://marco.dev/ionic-angular-lifecycle"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/java-hashmap"
    to = "https://marco.dev/java-hashmap"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/garbage-collectors-intro"
    to = "https://marco.dev/garbage-collectors-intro"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/enums-angular"
    to = "https://marco.dev/enums-angular"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/java-14-new-features"
    to = "https://marco.dev/java-14-new-features"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/java-podcasts"
    to = "https://marco.dev/java-podcasts"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/java-access-modifiers"
    to = "https://marco.dev/java-access-modifiers"
    status = 301
+   force = true
 
 [[redirects]]
    from = "/nginx-jelastic"
    to = "https://marco.dev/nginx-jelastic"
    status = 301
+   force = true
