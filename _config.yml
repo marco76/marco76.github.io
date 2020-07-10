@@ -1,3 +1,4 @@
+include: [_redirects]
 # Site settings
 title: Java and Angular in the Cloud
 description: Java and Angular
