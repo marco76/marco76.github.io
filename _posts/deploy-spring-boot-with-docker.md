@@ -1,25 +1,3 @@
----
-title: 'How to deploy a Spring Boot application with Docker'
-description: ''
-date: 2018-04-30T10:41:48+00:00
-author: Marco Molteni
-layout: post
-main-class: 'spring'
-color: '#7AAB13'
-permalink: /2018/04/30/deploy-spring-with-docker/
-categories:
-  - docker
-  - Java
-  - Spring
-tags:
-  - spring
-  - java
- 
-image: '/assets/img/'
-
-introduction: 'Simple deploy of your Spring Boot app'
----
-
 # How to deploy Spring Boot with Docker
 
 ## Dockerfile
