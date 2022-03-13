@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class RestErrorController implements ErrorController {
 
     private static final String ERROR_PATH = "/error";
-    private static final String TARGET_PATH = "forward:/index.html";
+    private static final String TARGET_PATH = "forward:/";
 
     @RequestMapping(value = "/error")
     public String error() {
@@ -37,9 +37,3 @@ public class RestErrorController implements ErrorController {
     }
 }
 ```
-
-### Bugs
-
-This solution has still errors loading the main css style after the refresh.
-We didn't find a workaround yet without the need to install a proxy (apache, nginx).
-[https://github.com/angular/angular/issues/8788]
