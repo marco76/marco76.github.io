@@ -1,6 +1,6 @@
 # Angular routing - Where is the top of the page?
 
-![alt text]([p]BACKEND_URL[/p]/images/angular-viewport.png)
+![alt text]([p]IMAGES_URL[/p]/images/angular-viewport.png)
 
 You built 2 Angular pages and you are navigating from the first to the second.
 What happened? The second page title doesn't show and you see only the bottom of the page.

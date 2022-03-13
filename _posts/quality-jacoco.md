@@ -1,6 +1,6 @@
 # Setup for the coverage analysis
 
-![alt text]([p]BACKEND_URL[/p]/images/sonar-coverage-detail-class.png)
+![alt text]([p]IMAGES_URL[/p]/images/sonar-coverage-detail-class.png)
 
 Is the test coverage useful? Yes!
 
@@ -46,15 +46,15 @@ The unit tests are more important, my opinion, in the backend. For the frontend 
 
 After the execution of the tests and the coverage analysis we can access to Sonar directly from Jenkins:
 
-![alt text]([p]BACKEND_URL[/p]/images/sonar_coverage_jenkins.png)
+![alt text]([p]IMAGES_URL[/p]/images/sonar_coverage_jenkins.png)
 
 In SonarQube we can see the global coverage ...
 
-![alt text]([p]BACKEND_URL[/p]/images/sonar-coverage-percent.png)
+![alt text]([p]IMAGES_URL[/p]/images/sonar-coverage-percent.png)
 
 ... and the details
 
-![alt text]([p]BACKEND_URL[/p]/images/sonar-coverage-detail.png)
+![alt text]([p]IMAGES_URL[/p]/images/sonar-coverage-detail.png)
  
 
 ## Setup JaCoCo for Jenkins and SonarQube

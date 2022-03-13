@@ -4,7 +4,7 @@
 
 For most of the professional applications the use of some form of caching is required to improve the performances and to reduce the interactions with slow medias (database, disk, external services etc.)
 
-![image???]([p]BACKEND_URL[/p]/images/cache-schema.png)
+![image???]([p]IMAGES_URL[/p]/images/cache-schema.png)
 
 ## Example of publishing our pages without cache
 
